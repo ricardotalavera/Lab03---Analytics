@@ -1,0 +1,4081 @@
+Año,Trimestre,Provincia,Tecnología,value
+2022,2,Buenos Aires,ADSL,350652.0
+2022,2,Capital Federal,ADSL,145491.0
+2022,2,Catamarca,ADSL,11928.0
+2022,2,Chaco,ADSL,29552.0
+2022,2,Chubut,ADSL,45377.0
+2022,2,Córdoba,ADSL,179181.0
+2022,2,Corrientes,ADSL,38468.0
+2022,2,Entre Ríos,ADSL,63794.0
+2022,2,Formosa,ADSL,15397.0
+2022,2,Jujuy,ADSL,20303.0
+2022,2,La Pampa,ADSL,7796.0
+2022,2,La Rioja,ADSL,7759.0
+2022,2,Mendoza,ADSL,37663.0
+2022,2,Misiones,ADSL,37208.0
+2022,2,Neuquén,ADSL,29749.0
+2022,2,Río Negro,ADSL,36050.0
+2022,2,Salta,ADSL,42665.0
+2022,2,San Juan,ADSL,38570.0
+2022,2,San Luis,ADSL,6860.0
+2022,2,Santa Cruz,ADSL,10170.0
+2022,2,Santa Fe,ADSL,198492.0
+2022,2,Santiago Del Estero,ADSL,16561.0
+2022,2,Tierra Del Fuego,ADSL,12754.0
+2022,2,Tucumán,ADSL,85893.0
+2022,1,Buenos Aires,ADSL,392045.0
+2022,1,Capital Federal,ADSL,102290.0
+2022,1,Catamarca,ADSL,14181.0
+2022,1,Chaco,ADSL,32391.0
+2022,1,Chubut,ADSL,44133.0
+2022,1,Córdoba,ADSL,195610.0
+2022,1,Corrientes,ADSL,40462.0
+2022,1,Entre Ríos,ADSL,67159.0
+2022,1,Formosa,ADSL,16397.0
+2022,1,Jujuy,ADSL,21307.0
+2022,1,La Pampa,ADSL,8003.0
+2022,1,La Rioja,ADSL,9103.0
+2022,1,Mendoza,ADSL,49464.0
+2022,1,Misiones,ADSL,39147.0
+2022,1,Neuquén,ADSL,28443.0
+2022,1,Río Negro,ADSL,38662.0
+2022,1,Salta,ADSL,44714.0
+2022,1,San Juan,ADSL,34038.0
+2022,1,San Luis,ADSL,7987.0
+2022,1,Santa Cruz,ADSL,10537.0
+2022,1,Santa Fe,ADSL,213486.0
+2022,1,Santiago Del Estero,ADSL,18118.0
+2022,1,Tierra Del Fuego,ADSL,13031.0
+2022,1,Tucumán,ADSL,92532.0
+2021,4,Buenos Aires,ADSL,426325.0
+2021,4,Capital Federal,ADSL,111360.0
+2021,4,Catamarca,ADSL,16385.0
+2021,4,Chaco,ADSL,35548.0
+2021,4,Chubut,ADSL,46361.0
+2021,4,Córdoba,ADSL,212011.0
+2021,4,Corrientes,ADSL,42523.0
+2021,4,Entre Ríos,ADSL,70459.0
+2021,4,Formosa,ADSL,17211.0
+2021,4,Jujuy,ADSL,22330.0
+2021,4,La Pampa,ADSL,8175.0
+2021,4,La Rioja,ADSL,10387.0
+2021,4,Mendoza,ADSL,59842.0
+2021,4,Misiones,ADSL,41778.0
+2021,4,Neuquén,ADSL,29175.0
+2021,4,Río Negro,ADSL,42037.0
+2021,4,Salta,ADSL,46972.0
+2021,4,San Juan,ADSL,35868.0
+2021,4,San Luis,ADSL,8472.0
+2021,4,Santa Cruz,ADSL,10790.0
+2021,4,Santa Fe,ADSL,233427.0
+2021,4,Santiago Del Estero,ADSL,19032.0
+2021,4,Tierra Del Fuego,ADSL,13317.0
+2021,4,Tucumán,ADSL,97830.0
+2021,3,Buenos Aires,ADSL,585729.0
+2021,3,Capital Federal,ADSL,142902.0
+2021,3,Catamarca,ADSL,18413.0
+2021,3,Chaco,ADSL,38258.0
+2021,3,Chubut,ADSL,49269.0
+2021,3,Córdoba,ADSL,229275.0
+2021,3,Corrientes,ADSL,44805.0
+2021,3,Entre Ríos,ADSL,74443.0
+2021,3,Formosa,ADSL,18093.0
+2021,3,Jujuy,ADSL,23554.0
+2021,3,La Pampa,ADSL,9015.0
+2021,3,La Rioja,ADSL,11329.0
+2021,3,Mendoza,ADSL,91474.0
+2021,3,Misiones,ADSL,43230.0
+2021,3,Neuquén,ADSL,29650.0
+2021,3,Río Negro,ADSL,47934.0
+2021,3,Salta,ADSL,49212.0
+2021,3,San Juan,ADSL,40072.0
+2021,3,San Luis,ADSL,8417.0
+2021,3,Santa Cruz,ADSL,12347.0
+2021,3,Santa Fe,ADSL,245929.0
+2021,3,Santiago Del Estero,ADSL,19939.0
+2021,3,Tierra Del Fuego,ADSL,12853.0
+2021,3,Tucumán,ADSL,104489.0
+2021,2,Buenos Aires,ADSL,603255.0
+2021,2,Capital Federal,ADSL,148989.0
+2021,2,Catamarca,ADSL,20305.0
+2021,2,Chaco,ADSL,39826.0
+2021,2,Chubut,ADSL,49271.0
+2021,2,Córdoba,ADSL,239780.0
+2021,2,Corrientes,ADSL,46648.0
+2021,2,Entre Ríos,ADSL,77836.0
+2021,2,Formosa,ADSL,19571.0
+2021,2,Jujuy,ADSL,24738.0
+2021,2,La Pampa,ADSL,9017.0
+2021,2,La Rioja,ADSL,11627.0
+2021,2,Mendoza,ADSL,91503.0
+2021,2,Misiones,ADSL,44960.0
+2021,2,Neuquén,ADSL,30083.0
+2021,2,Río Negro,ADSL,48189.0
+2021,2,Salta,ADSL,51396.0
+2021,2,San Juan,ADSL,40072.0
+2021,2,San Luis,ADSL,8417.0
+2021,2,Santa Cruz,ADSL,12347.0
+2021,2,Santa Fe,ADSL,256741.0
+2021,2,Santiago Del Estero,ADSL,20734.0
+2021,2,Tierra Del Fuego,ADSL,12853.0
+2021,2,Tucumán,ADSL,110429.0
+2021,1,Buenos Aires,ADSL,629679.0
+2021,1,Capital Federal,ADSL,159805.0
+2021,1,Catamarca,ADSL,26316.0
+2021,1,Chaco,ADSL,43214.0
+2021,1,Chubut,ADSL,45501.0
+2021,1,Córdoba,ADSL,260350.0
+2021,1,Corrientes,ADSL,49160.0
+2021,1,Entre Ríos,ADSL,83688.0
+2021,1,Formosa,ADSL,20663.0
+2021,1,Jujuy,ADSL,32254.0
+2021,1,La Pampa,ADSL,8946.0
+2021,1,La Rioja,ADSL,17363.0
+2021,1,Mendoza,ADSL,91844.0
+2021,1,Misiones,ADSL,48292.0
+2021,1,Neuquén,ADSL,30223.0
+2021,1,Río Negro,ADSL,48777.0
+2021,1,Salta,ADSL,54768.0
+2021,1,San Juan,ADSL,40072.0
+2021,1,San Luis,ADSL,8417.0
+2021,1,Santa Cruz,ADSL,12347.0
+2021,1,Santa Fe,ADSL,277012.0
+2021,1,Santiago Del Estero,ADSL,26468.0
+2021,1,Tierra Del Fuego,ADSL,12853.0
+2021,1,Tucumán,ADSL,147199.0
+2020,4,Buenos Aires,ADSL,635651.0
+2020,4,Capital Federal,ADSL,163060.0
+2020,4,Catamarca,ADSL,26870.0
+2020,4,Chaco,ADSL,44332.0
+2020,4,Chubut,ADSL,45703.0
+2020,4,Córdoba,ADSL,267396.0
+2020,4,Corrientes,ADSL,50102.0
+2020,4,Entre Ríos,ADSL,85683.0
+2020,4,Formosa,ADSL,21264.0
+2020,4,Jujuy,ADSL,32850.0
+2020,4,La Pampa,ADSL,9009.0
+2020,4,La Rioja,ADSL,17513.0
+2020,4,Mendoza,ADSL,91842.0
+2020,4,Misiones,ADSL,49462.0
+2020,4,Neuquén,ADSL,30468.0
+2020,4,Río Negro,ADSL,48991.0
+2020,4,Salta,ADSL,56659.0
+2020,4,San Juan,ADSL,40072.0
+2020,4,San Luis,ADSL,8417.0
+2020,4,Santa Cruz,ADSL,12347.0
+2020,4,Santa Fe,ADSL,287271.0
+2020,4,Santiago Del Estero,ADSL,26812.0
+2020,4,Tierra Del Fuego,ADSL,12853.0
+2020,4,Tucumán,ADSL,149322.0
+2020,3,Buenos Aires,ADSL,653930.0
+2020,3,Capital Federal,ADSL,170375.0
+2020,3,Catamarca,ADSL,26868.0
+2020,3,Chaco,ADSL,45745.0
+2020,3,Chubut,ADSL,45761.0
+2020,3,Córdoba,ADSL,276360.0
+2020,3,Corrientes,ADSL,50858.0
+2020,3,Entre Ríos,ADSL,87892.0
+2020,3,Formosa,ADSL,21790.0
+2020,3,Jujuy,ADSL,32611.0
+2020,3,La Pampa,ADSL,9015.0
+2020,3,La Rioja,ADSL,17346.0
+2020,3,Mendoza,ADSL,91908.0
+2020,3,Misiones,ADSL,50195.0
+2020,3,Neuquén,ADSL,30222.0
+2020,3,Río Negro,ADSL,49530.0
+2020,3,Salta,ADSL,58216.0
+2020,3,San Juan,ADSL,40092.0
+2020,3,San Luis,ADSL,8401.0
+2020,3,Santa Cruz,ADSL,12845.0
+2020,3,Santa Fe,ADSL,295051.0
+2020,3,Santiago Del Estero,ADSL,26419.0
+2020,3,Tierra Del Fuego,ADSL,12854.0
+2020,3,Tucumán,ADSL,149605.0
+2020,2,Buenos Aires,ADSL,661272.0
+2020,2,Capital Federal,ADSL,178896.0
+2020,2,Catamarca,ADSL,26968.0
+2020,2,Chaco,ADSL,46816.0
+2020,2,Chubut,ADSL,45761.0
+2020,2,Córdoba,ADSL,282858.0
+2020,2,Corrientes,ADSL,51248.0
+2020,2,Entre Ríos,ADSL,89391.0
+2020,2,Formosa,ADSL,21805.0
+2020,2,Jujuy,ADSL,32705.0
+2020,2,La Pampa,ADSL,8551.0
+2020,2,La Rioja,ADSL,16885.0
+2020,2,Mendoza,ADSL,91904.0
+2020,2,Misiones,ADSL,50792.0
+2020,2,Neuquén,ADSL,30256.0
+2020,2,Río Negro,ADSL,49756.0
+2020,2,Salta,ADSL,59502.0
+2020,2,San Juan,ADSL,40092.0
+2020,2,San Luis,ADSL,8401.0
+2020,2,Santa Cruz,ADSL,12845.0
+2020,2,Santa Fe,ADSL,299974.0
+2020,2,Santiago Del Estero,ADSL,25917.0
+2020,2,Tierra Del Fuego,ADSL,12854.0
+2020,2,Tucumán,ADSL,150084.0
+2020,1,Buenos Aires,ADSL,673237.0
+2020,1,Capital Federal,ADSL,184494.0
+2020,1,Catamarca,ADSL,21945.0
+2020,1,Chaco,ADSL,46356.0
+2020,1,Chubut,ADSL,45763.0
+2020,1,Córdoba,ADSL,286168.0
+2020,1,Corrientes,ADSL,51126.0
+2020,1,Entre Ríos,ADSL,90368.0
+2020,1,Formosa,ADSL,21068.0
+2020,1,Jujuy,ADSL,32066.0
+2020,1,La Pampa,ADSL,8553.0
+2020,1,La Rioja,ADSL,13076.0
+2020,1,Mendoza,ADSL,91955.0
+2020,1,Misiones,ADSL,51458.0
+2020,1,Neuquén,ADSL,29305.0
+2020,1,Río Negro,ADSL,47756.0
+2020,1,Salta,ADSL,60426.0
+2020,1,San Juan,ADSL,40092.0
+2020,1,San Luis,ADSL,8301.0
+2020,1,Santa Cruz,ADSL,12845.0
+2020,1,Santa Fe,ADSL,302366.0
+2020,1,Santiago Del Estero,ADSL,24695.0
+2020,1,Tierra Del Fuego,ADSL,12854.0
+2020,1,Tucumán,ADSL,143184.0
+2019,4,Buenos Aires,ADSL,720011.0
+2019,4,Capital Federal,ADSL,196938.0
+2019,4,Catamarca,ADSL,22999.0
+2019,4,Chaco,ADSL,48661.0
+2019,4,Chubut,ADSL,47045.0
+2019,4,Córdoba,ADSL,296872.0
+2019,4,Corrientes,ADSL,52525.0
+2019,4,Entre Ríos,ADSL,92981.0
+2019,4,Formosa,ADSL,21567.0
+2019,4,Jujuy,ADSL,32949.0
+2019,4,La Pampa,ADSL,15457.0
+2019,4,La Rioja,ADSL,13738.0
+2019,4,Mendoza,ADSL,96678.0
+2019,4,Misiones,ADSL,53116.0
+2019,4,Neuquén,ADSL,29826.0
+2019,4,Río Negro,ADSL,49747.0
+2019,4,Salta,ADSL,63272.0
+2019,4,San Juan,ADSL,41360.0
+2019,4,San Luis,ADSL,8569.0
+2019,4,Santa Cruz,ADSL,13264.0
+2019,4,Santa Fe,ADSL,312072.0
+2019,4,Santiago Del Estero,ADSL,24682.0
+2019,4,Tierra Del Fuego,ADSL,13261.0
+2019,4,Tucumán,ADSL,146985.0
+2019,3,Buenos Aires,ADSL,1277249.0
+2019,3,Capital Federal,ADSL,300288.0
+2019,3,Catamarca,ADSL,24349.0
+2019,3,Chaco,ADSL,50416.0
+2019,3,Chubut,ADSL,37298.0
+2019,3,Córdoba,ADSL,307780.0
+2019,3,Corrientes,ADSL,53344.0
+2019,3,Entre Ríos,ADSL,94947.0
+2019,3,Formosa,ADSL,21777.0
+2019,3,Jujuy,ADSL,33110.0
+2019,3,La Pampa,ADSL,19469.0
+2019,3,La Rioja,ADSL,14390.0
+2019,3,Mendoza,ADSL,148640.0
+2019,3,Misiones,ADSL,54493.0
+2019,3,Neuquén,ADSL,43347.0
+2019,3,Río Negro,ADSL,67478.0
+2019,3,Salta,ADSL,65799.0
+2019,3,San Juan,ADSL,51670.0
+2019,3,San Luis,ADSL,13037.0
+2019,3,Santa Cruz,ADSL,10663.0
+2019,3,Santa Fe,ADSL,319396.0
+2019,3,Santiago Del Estero,ADSL,24556.0
+2019,3,Tierra Del Fuego,ADSL,19790.0
+2019,3,Tucumán,ADSL,150918.0
+2019,2,Buenos Aires,ADSL,1284658.0
+2019,2,Capital Federal,ADSL,309937.0
+2019,2,Catamarca,ADSL,25682.0
+2019,2,Chaco,ADSL,50765.0
+2019,2,Chubut,ADSL,37313.0
+2019,2,Córdoba,ADSL,314768.0
+2019,2,Corrientes,ADSL,53835.0
+2019,2,Entre Ríos,ADSL,97081.0
+2019,2,Formosa,ADSL,21916.0
+2019,2,Jujuy,ADSL,33022.0
+2019,2,La Pampa,ADSL,19471.0
+2019,2,La Rioja,ADSL,15014.0
+2019,2,Mendoza,ADSL,148673.0
+2019,2,Misiones,ADSL,55373.0
+2019,2,Neuquén,ADSL,43420.0
+2019,2,Río Negro,ADSL,67841.0
+2019,2,Salta,ADSL,68827.0
+2019,2,San Juan,ADSL,51680.0
+2019,2,San Luis,ADSL,11130.0
+2019,2,Santa Cruz,ADSL,10665.0
+2019,2,Santa Fe,ADSL,325420.0
+2019,2,Santiago Del Estero,ADSL,24393.0
+2019,2,Tierra Del Fuego,ADSL,19790.0
+2019,2,Tucumán,ADSL,153121.0
+2019,1,Buenos Aires,ADSL,1304507.0
+2019,1,Capital Federal,ADSL,328246.0
+2019,1,Catamarca,ADSL,26912.0
+2019,1,Chaco,ADSL,53409.0
+2019,1,Chubut,ADSL,37302.0
+2019,1,Córdoba,ADSL,323272.0
+2019,1,Corrientes,ADSL,55842.0
+2019,1,Entre Ríos,ADSL,100999.0
+2019,1,Formosa,ADSL,22570.0
+2019,1,Jujuy,ADSL,33248.0
+2019,1,La Pampa,ADSL,18832.0
+2019,1,La Rioja,ADSL,16367.0
+2019,1,Mendoza,ADSL,148524.0
+2019,1,Misiones,ADSL,54898.0
+2019,1,Neuquén,ADSL,40747.0
+2019,1,Río Negro,ADSL,68377.0
+2019,1,Salta,ADSL,74426.0
+2019,1,San Juan,ADSL,51660.0
+2019,1,San Luis,ADSL,11108.0
+2019,1,Santa Cruz,ADSL,10659.0
+2019,1,Santa Fe,ADSL,340038.0
+2019,1,Santiago Del Estero,ADSL,25337.0
+2019,1,Tierra Del Fuego,ADSL,19789.0
+2019,1,Tucumán,ADSL,159215.0
+2018,4,Buenos Aires,ADSL,1305576.0
+2018,4,Capital Federal,ADSL,328253.0
+2018,4,Catamarca,ADSL,26912.0
+2018,4,Chaco,ADSL,53409.0
+2018,4,Chubut,ADSL,37215.0
+2018,4,Córdoba,ADSL,328854.0
+2018,4,Corrientes,ADSL,55842.0
+2018,4,Entre Ríos,ADSL,101168.0
+2018,4,Formosa,ADSL,22619.0
+2018,4,Jujuy,ADSL,33248.0
+2018,4,La Pampa,ADSL,18832.0
+2018,4,La Rioja,ADSL,16367.0
+2018,4,Mendoza,ADSL,148524.0
+2018,4,Misiones,ADSL,55500.0
+2018,4,Neuquén,ADSL,40747.0
+2018,4,Río Negro,ADSL,68377.0
+2018,4,Salta,ADSL,74295.0
+2018,4,San Juan,ADSL,51660.0
+2018,4,San Luis,ADSL,11108.0
+2018,4,Santa Cruz,ADSL,10659.0
+2018,4,Santa Fe,ADSL,335519.0
+2018,4,Santiago Del Estero,ADSL,25339.0
+2018,4,Tierra Del Fuego,ADSL,19789.0
+2018,4,Tucumán,ADSL,159215.0
+2018,3,Buenos Aires,ADSL,1435856.0
+2018,3,Capital Federal,ADSL,334353.0
+2018,3,Catamarca,ADSL,27553.0
+2018,3,Chaco,ADSL,53927.0
+2018,3,Chubut,ADSL,58887.0
+2018,3,Córdoba,ADSL,337620.0
+2018,3,Corrientes,ADSL,56444.0
+2018,3,Entre Ríos,ADSL,103318.0
+2018,3,Formosa,ADSL,22777.0
+2018,3,Jujuy,ADSL,33363.0
+2018,3,La Pampa,ADSL,12415.0
+2018,3,La Rioja,ADSL,16587.0
+2018,3,Mendoza,ADSL,151033.0
+2018,3,Misiones,ADSL,56290.0
+2018,3,Neuquén,ADSL,46602.0
+2018,3,Río Negro,ADSL,68590.0
+2018,3,Salta,ADSL,76600.0
+2018,3,San Juan,ADSL,54025.0
+2018,3,San Luis,ADSL,11096.0
+2018,3,Santa Cruz,ADSL,18606.0
+2018,3,Santa Fe,ADSL,339126.0
+2018,3,Santiago Del Estero,ADSL,25805.0
+2018,3,Tierra Del Fuego,ADSL,19365.0
+2018,3,Tucumán,ADSL,161209.0
+2018,2,Buenos Aires,ADSL,1450203.0
+2018,2,Capital Federal,ADSL,342431.0
+2018,2,Catamarca,ADSL,27444.0
+2018,2,Chaco,ADSL,54134.0
+2018,2,Chubut,ADSL,58935.0
+2018,2,Córdoba,ADSL,345141.0
+2018,2,Corrientes,ADSL,56541.0
+2018,2,Entre Ríos,ADSL,104811.0
+2018,2,Formosa,ADSL,23543.0
+2018,2,Jujuy,ADSL,33571.0
+2018,2,La Pampa,ADSL,12416.0
+2018,2,La Rioja,ADSL,16663.0
+2018,2,Mendoza,ADSL,152938.0
+2018,2,Misiones,ADSL,57265.0
+2018,2,Neuquén,ADSL,46633.0
+2018,2,Río Negro,ADSL,68667.0
+2018,2,Salta,ADSL,78386.0
+2018,2,San Juan,ADSL,54080.0
+2018,2,San Luis,ADSL,11104.0
+2018,2,Santa Cruz,ADSL,18615.0
+2018,2,Santa Fe,ADSL,337934.0
+2018,2,Santiago Del Estero,ADSL,26074.0
+2018,2,Tierra Del Fuego,ADSL,19372.0
+2018,2,Tucumán,ADSL,160315.0
+2018,1,Buenos Aires,ADSL,1452061.0
+2018,1,Capital Federal,ADSL,349995.0
+2018,1,Catamarca,ADSL,27300.0
+2018,1,Chaco,ADSL,54879.0
+2018,1,Chubut,ADSL,56375.0
+2018,1,Córdoba,ADSL,349342.0
+2018,1,Corrientes,ADSL,56937.0
+2018,1,Entre Ríos,ADSL,106998.0
+2018,1,Formosa,ADSL,23556.0
+2018,1,Jujuy,ADSL,33856.0
+2018,1,La Pampa,ADSL,10807.0
+2018,1,La Rioja,ADSL,16960.0
+2018,1,Mendoza,ADSL,152931.0
+2018,1,Misiones,ADSL,56311.0
+2018,1,Neuquén,ADSL,46714.0
+2018,1,Río Negro,ADSL,68769.0
+2018,1,Salta,ADSL,79936.0
+2018,1,San Juan,ADSL,54080.0
+2018,1,San Luis,ADSL,11104.0
+2018,1,Santa Cruz,ADSL,18615.0
+2018,1,Santa Fe,ADSL,341997.0
+2018,1,Santiago Del Estero,ADSL,26788.0
+2018,1,Tierra Del Fuego,ADSL,19372.0
+2018,1,Tucumán,ADSL,158611.0
+2017,4,Buenos Aires,ADSL,1241172.0
+2017,4,Capital Federal,ADSL,571363.0
+2017,4,Catamarca,ADSL,27083.0
+2017,4,Chaco,ADSL,55035.0
+2017,4,Chubut,ADSL,56378.0
+2017,4,Córdoba,ADSL,349710.0
+2017,4,Corrientes,ADSL,56786.0
+2017,4,Entre Ríos,ADSL,107764.0
+2017,4,Formosa,ADSL,23410.0
+2017,4,Jujuy,ADSL,33844.0
+2017,4,La Pampa,ADSL,10808.0
+2017,4,La Rioja,ADSL,16912.0
+2017,4,Mendoza,ADSL,152896.0
+2017,4,Misiones,ADSL,56271.0
+2017,4,Neuquén,ADSL,46739.0
+2017,4,Río Negro,ADSL,68690.0
+2017,4,Salta,ADSL,80705.0
+2017,4,San Juan,ADSL,54079.0
+2017,4,San Luis,ADSL,11104.0
+2017,4,Santa Cruz,ADSL,18614.0
+2017,4,Santa Fe,ADSL,341680.0
+2017,4,Santiago Del Estero,ADSL,27313.0
+2017,4,Tierra Del Fuego,ADSL,19372.0
+2017,4,Tucumán,ADSL,156583.0
+2017,3,Buenos Aires,ADSL,1288025.0
+2017,3,Capital Federal,ADSL,583249.0
+2017,3,Catamarca,ADSL,26873.0
+2017,3,Chaco,ADSL,54888.0
+2017,3,Chubut,ADSL,56359.0
+2017,3,Córdoba,ADSL,344580.0
+2017,3,Corrientes,ADSL,56247.0
+2017,3,Entre Ríos,ADSL,107774.0
+2017,3,Formosa,ADSL,22647.0
+2017,3,Jujuy,ADSL,33796.0
+2017,3,La Pampa,ADSL,11378.0
+2017,3,La Rioja,ADSL,16638.0
+2017,3,Mendoza,ADSL,154036.0
+2017,3,Misiones,ADSL,56472.0
+2017,3,Neuquén,ADSL,48001.0
+2017,3,Río Negro,ADSL,69301.0
+2017,3,Salta,ADSL,80782.0
+2017,3,San Juan,ADSL,54499.0
+2017,3,San Luis,ADSL,11407.0
+2017,3,Santa Cruz,ADSL,19220.0
+2017,3,Santa Fe,ADSL,322953.0
+2017,3,Santiago Del Estero,ADSL,27733.0
+2017,3,Tierra Del Fuego,ADSL,21587.0
+2017,3,Tucumán,ADSL,154130.0
+2017,2,Buenos Aires,ADSL,1378549.0
+2017,2,Capital Federal,ADSL,615262.0
+2017,2,Catamarca,ADSL,26401.0
+2017,2,Chaco,ADSL,54449.0
+2017,2,Chubut,ADSL,43994.0
+2017,2,Córdoba,ADSL,341748.0
+2017,2,Corrientes,ADSL,55262.0
+2017,2,Entre Ríos,ADSL,108309.0
+2017,2,Formosa,ADSL,22493.0
+2017,2,Jujuy,ADSL,33742.0
+2017,2,La Pampa,ADSL,12754.0
+2017,2,La Rioja,ADSL,16244.0
+2017,2,Mendoza,ADSL,153331.0
+2017,2,Misiones,ADSL,56752.0
+2017,2,Neuquén,ADSL,51794.0
+2017,2,Río Negro,ADSL,67038.0
+2017,2,Salta,ADSL,80184.0
+2017,2,San Juan,ADSL,48670.0
+2017,2,San Luis,ADSL,11432.0
+2017,2,Santa Cruz,ADSL,15311.0
+2017,2,Santa Fe,ADSL,329813.0
+2017,2,Santiago Del Estero,ADSL,28337.0
+2017,2,Tierra Del Fuego,ADSL,22636.0
+2017,2,Tucumán,ADSL,149013.0
+2017,1,Buenos Aires,ADSL,1559178.0
+2017,1,Capital Federal,ADSL,428801.0
+2017,1,Catamarca,ADSL,26020.0
+2017,1,Chaco,ADSL,54430.0
+2017,1,Chubut,ADSL,43994.0
+2017,1,Córdoba,ADSL,335673.0
+2017,1,Corrientes,ADSL,54993.0
+2017,1,Entre Ríos,ADSL,108509.0
+2017,1,Formosa,ADSL,22438.0
+2017,1,Jujuy,ADSL,33869.0
+2017,1,La Pampa,ADSL,12754.0
+2017,1,La Rioja,ADSL,16180.0
+2017,1,Mendoza,ADSL,153326.0
+2017,1,Misiones,ADSL,57363.0
+2017,1,Neuquén,ADSL,51771.0
+2017,1,Río Negro,ADSL,67075.0
+2017,1,Salta,ADSL,79837.0
+2017,1,San Juan,ADSL,48670.0
+2017,1,San Luis,ADSL,11432.0
+2017,1,Santa Cruz,ADSL,15502.0
+2017,1,Santa Fe,ADSL,327458.0
+2017,1,Santiago Del Estero,ADSL,29616.0
+2017,1,Tierra Del Fuego,ADSL,22636.0
+2017,1,Tucumán,ADSL,147373.0
+2016,4,Buenos Aires,ADSL,1563542.0
+2016,4,Capital Federal,ADSL,434835.0
+2016,4,Catamarca,ADSL,26735.0
+2016,4,Chaco,ADSL,54974.0
+2016,4,Chubut,ADSL,43994.0
+2016,4,Córdoba,ADSL,337368.0
+2016,4,Corrientes,ADSL,54981.0
+2016,4,Entre Ríos,ADSL,109359.0
+2016,4,Formosa,ADSL,22400.0
+2016,4,Jujuy,ADSL,33838.0
+2016,4,La Pampa,ADSL,12754.0
+2016,4,La Rioja,ADSL,16270.0
+2016,4,Mendoza,ADSL,153320.0
+2016,4,Misiones,ADSL,57983.0
+2016,4,Neuquén,ADSL,51742.0
+2016,4,Río Negro,ADSL,67057.0
+2016,4,Salta,ADSL,79389.0
+2016,4,San Juan,ADSL,48670.0
+2016,4,San Luis,ADSL,11432.0
+2016,4,Santa Cruz,ADSL,15607.0
+2016,4,Santa Fe,ADSL,326721.0
+2016,4,Santiago Del Estero,ADSL,30192.0
+2016,4,Tierra Del Fuego,ADSL,22636.0
+2016,4,Tucumán,ADSL,146995.0
+2016,3,Buenos Aires,ADSL,1574216.0
+2016,3,Capital Federal,ADSL,447726.0
+2016,3,Catamarca,ADSL,26689.0
+2016,3,Chaco,ADSL,56251.0
+2016,3,Chubut,ADSL,43987.0
+2016,3,Córdoba,ADSL,348481.0
+2016,3,Corrientes,ADSL,55934.0
+2016,3,Entre Ríos,ADSL,112588.0
+2016,3,Formosa,ADSL,21800.0
+2016,3,Jujuy,ADSL,34250.0
+2016,3,La Pampa,ADSL,12751.0
+2016,3,La Rioja,ADSL,16891.0
+2016,3,Mendoza,ADSL,153233.0
+2016,3,Misiones,ADSL,59776.0
+2016,3,Neuquén,ADSL,51752.0
+2016,3,Río Negro,ADSL,67043.0
+2016,3,Salta,ADSL,80866.0
+2016,3,San Juan,ADSL,48670.0
+2016,3,San Luis,ADSL,11432.0
+2016,3,Santa Cruz,ADSL,15570.0
+2016,3,Santa Fe,ADSL,334911.0
+2016,3,Santiago Del Estero,ADSL,31730.0
+2016,3,Tierra Del Fuego,ADSL,22636.0
+2016,3,Tucumán,ADSL,147259.0
+2016,2,Buenos Aires,ADSL,1579448.0
+2016,2,Capital Federal,ADSL,450644.0
+2016,2,Catamarca,ADSL,26262.0
+2016,2,Chaco,ADSL,56112.0
+2016,2,Chubut,ADSL,43977.0
+2016,2,Córdoba,ADSL,348891.0
+2016,2,Corrientes,ADSL,55511.0
+2016,2,Entre Ríos,ADSL,112809.0
+2016,2,Formosa,ADSL,22101.0
+2016,2,Jujuy,ADSL,33758.0
+2016,2,La Pampa,ADSL,12754.0
+2016,2,La Rioja,ADSL,16691.0
+2016,2,Mendoza,ADSL,153321.0
+2016,2,Misiones,ADSL,59573.0
+2016,2,Neuquén,ADSL,51742.0
+2016,2,Río Negro,ADSL,67031.0
+2016,2,Salta,ADSL,79438.0
+2016,2,San Juan,ADSL,48670.0
+2016,2,San Luis,ADSL,11432.0
+2016,2,Santa Cruz,ADSL,15453.0
+2016,2,Santa Fe,ADSL,336244.0
+2016,2,Santiago Del Estero,ADSL,32101.0
+2016,2,Tierra Del Fuego,ADSL,22636.0
+2016,2,Tucumán,ADSL,145486.0
+2016,1,Buenos Aires,ADSL,1583560.0
+2016,1,Capital Federal,ADSL,454425.0
+2016,1,Catamarca,ADSL,26096.0
+2016,1,Chaco,ADSL,56353.0
+2016,1,Chubut,ADSL,43967.0
+2016,1,Córdoba,ADSL,350884.0
+2016,1,Corrientes,ADSL,55454.0
+2016,1,Entre Ríos,ADSL,113101.0
+2016,1,Formosa,ADSL,21852.0
+2016,1,Jujuy,ADSL,33481.0
+2016,1,La Pampa,ADSL,12754.0
+2016,1,La Rioja,ADSL,16645.0
+2016,1,Mendoza,ADSL,153299.0
+2016,1,Misiones,ADSL,59538.0
+2016,1,Neuquén,ADSL,51702.0
+2016,1,Río Negro,ADSL,66894.0
+2016,1,Salta,ADSL,78973.0
+2016,1,San Juan,ADSL,48670.0
+2016,1,San Luis,ADSL,11432.0
+2016,1,Santa Cruz,ADSL,15654.0
+2016,1,Santa Fe,ADSL,338052.0
+2016,1,Santiago Del Estero,ADSL,32838.0
+2016,1,Tierra Del Fuego,ADSL,22636.0
+2016,1,Tucumán,ADSL,144233.0
+2015,4,Buenos Aires,ADSL,1586343.0
+2015,4,Capital Federal,ADSL,455427.0
+2015,4,Catamarca,ADSL,26180.0
+2015,4,Chaco,ADSL,56818.0
+2015,4,Chubut,ADSL,43968.0
+2015,4,Córdoba,ADSL,353530.0
+2015,4,Corrientes,ADSL,55681.0
+2015,4,Entre Ríos,ADSL,113983.0
+2015,4,Formosa,ADSL,21734.0
+2015,4,Jujuy,ADSL,32934.0
+2015,4,La Pampa,ADSL,12755.0
+2015,4,La Rioja,ADSL,16886.0
+2015,4,Mendoza,ADSL,153293.0
+2015,4,Misiones,ADSL,60252.0
+2015,4,Neuquén,ADSL,51680.0
+2015,4,Río Negro,ADSL,66851.0
+2015,4,Salta,ADSL,78744.0
+2015,4,San Juan,ADSL,48670.0
+2015,4,San Luis,ADSL,11432.0
+2015,4,Santa Cruz,ADSL,15614.0
+2015,4,Santa Fe,ADSL,339843.0
+2015,4,Santiago Del Estero,ADSL,33582.0
+2015,4,Tierra Del Fuego,ADSL,22636.0
+2015,4,Tucumán,ADSL,144188.0
+2015,3,Buenos Aires,ADSL,1585467.0
+2015,3,Capital Federal,ADSL,454815.0
+2015,3,Catamarca,ADSL,25801.0
+2015,3,Chaco,ADSL,56282.0
+2015,3,Chubut,ADSL,43964.0
+2015,3,Córdoba,ADSL,351692.0
+2015,3,Corrientes,ADSL,55792.0
+2015,3,Entre Ríos,ADSL,113909.0
+2015,3,Formosa,ADSL,21573.0
+2015,3,Jujuy,ADSL,32598.0
+2015,3,La Pampa,ADSL,12755.0
+2015,3,La Rioja,ADSL,16725.0
+2015,3,Mendoza,ADSL,153299.0
+2015,3,Misiones,ADSL,59921.0
+2015,3,Neuquén,ADSL,47102.0
+2015,3,Río Negro,ADSL,66806.0
+2015,3,Salta,ADSL,78064.0
+2015,3,San Juan,ADSL,48670.0
+2015,3,San Luis,ADSL,11432.0
+2015,3,Santa Cruz,ADSL,15540.0
+2015,3,Santa Fe,ADSL,337042.0
+2015,3,Santiago Del Estero,ADSL,33886.0
+2015,3,Tierra Del Fuego,ADSL,22636.0
+2015,3,Tucumán,ADSL,142925.0
+2015,2,Buenos Aires,ADSL,1581770.0
+2015,2,Capital Federal,ADSL,453178.0
+2015,2,Catamarca,ADSL,25387.0
+2015,2,Chaco,ADSL,55767.0
+2015,2,Chubut,ADSL,43949.0
+2015,2,Córdoba,ADSL,348130.0
+2015,2,Corrientes,ADSL,55238.0
+2015,2,Entre Ríos,ADSL,113378.0
+2015,2,Formosa,ADSL,21097.0
+2015,2,Jujuy,ADSL,32183.0
+2015,2,La Pampa,ADSL,12756.0
+2015,2,La Rioja,ADSL,16463.0
+2015,2,Mendoza,ADSL,153301.0
+2015,2,Misiones,ADSL,59179.0
+2015,2,Neuquén,ADSL,47078.0
+2015,2,Río Negro,ADSL,66738.0
+2015,2,Salta,ADSL,77214.0
+2015,2,San Juan,ADSL,48670.0
+2015,2,San Luis,ADSL,11432.0
+2015,2,Santa Cruz,ADSL,15343.0
+2015,2,Santa Fe,ADSL,333117.0
+2015,2,Santiago Del Estero,ADSL,33873.0
+2015,2,Tierra Del Fuego,ADSL,22636.0
+2015,2,Tucumán,ADSL,139944.0
+2015,1,Buenos Aires,ADSL,1583135.0
+2015,1,Capital Federal,ADSL,454934.0
+2015,1,Catamarca,ADSL,25033.0
+2015,1,Chaco,ADSL,54952.0
+2015,1,Chubut,ADSL,45645.0
+2015,1,Córdoba,ADSL,343883.0
+2015,1,Corrientes,ADSL,54649.0
+2015,1,Entre Ríos,ADSL,112363.0
+2015,1,Formosa,ADSL,21022.0
+2015,1,Jujuy,ADSL,31505.0
+2015,1,La Pampa,ADSL,13143.0
+2015,1,La Rioja,ADSL,16282.0
+2015,1,Mendoza,ADSL,152433.0
+2015,1,Misiones,ADSL,58262.0
+2015,1,Neuquén,ADSL,47518.0
+2015,1,Río Negro,ADSL,66274.0
+2015,1,Salta,ADSL,76280.0
+2015,1,San Juan,ADSL,48441.0
+2015,1,San Luis,ADSL,11414.0
+2015,1,Santa Cruz,ADSL,16215.0
+2015,1,Santa Fe,ADSL,328809.0
+2015,1,Santiago Del Estero,ADSL,33813.0
+2015,1,Tierra Del Fuego,ADSL,22291.0
+2015,1,Tucumán,ADSL,137857.0
+2014,4,Buenos Aires,ADSL,1575978.0
+2014,4,Capital Federal,ADSL,455785.0
+2014,4,Catamarca,ADSL,25192.0
+2014,4,Chaco,ADSL,55024.0
+2014,4,Chubut,ADSL,48539.0
+2014,4,Córdoba,ADSL,345157.0
+2014,4,Corrientes,ADSL,54754.0
+2014,4,Entre Ríos,ADSL,112291.0
+2014,4,Formosa,ADSL,21245.0
+2014,4,Jujuy,ADSL,31349.0
+2014,4,La Pampa,ADSL,16043.0
+2014,4,La Rioja,ADSL,16352.0
+2014,4,Mendoza,ADSL,151797.0
+2014,4,Misiones,ADSL,58435.0
+2014,4,Neuquén,ADSL,47721.0
+2014,4,Río Negro,ADSL,66307.0
+2014,4,Salta,ADSL,76026.0
+2014,4,San Juan,ADSL,48653.0
+2014,4,San Luis,ADSL,11419.0
+2014,4,Santa Cruz,ADSL,17553.0
+2014,4,Santa Fe,ADSL,335267.0
+2014,4,Santiago Del Estero,ADSL,34110.0
+2014,4,Tierra Del Fuego,ADSL,21948.0
+2014,4,Tucumán,ADSL,137093.0
+2014,3,Buenos Aires,ADSL,1562533.0
+2014,3,Capital Federal,ADSL,450155.0
+2014,3,Catamarca,ADSL,24380.0
+2014,3,Chaco,ADSL,53321.0
+2014,3,Chubut,ADSL,49219.0
+2014,3,Córdoba,ADSL,340212.0
+2014,3,Corrientes,ADSL,52957.0
+2014,3,Entre Ríos,ADSL,108907.0
+2014,3,Formosa,ADSL,21021.0
+2014,3,Jujuy,ADSL,30128.0
+2014,3,La Pampa,ADSL,16051.0
+2014,3,La Rioja,ADSL,15864.0
+2014,3,Mendoza,ADSL,150120.0
+2014,3,Misiones,ADSL,56933.0
+2014,3,Neuquén,ADSL,54458.0
+2014,3,Río Negro,ADSL,65264.0
+2014,3,Salta,ADSL,73828.0
+2014,3,San Juan,ADSL,48272.0
+2014,3,San Luis,ADSL,11303.0
+2014,3,Santa Cruz,ADSL,17862.0
+2014,3,Santa Fe,ADSL,325577.0
+2014,3,Santiago Del Estero,ADSL,32820.0
+2014,3,Tierra Del Fuego,ADSL,21840.0
+2014,3,Tucumán,ADSL,131739.0
+2014,2,Buenos Aires,ADSL,1568881.0
+2014,2,Capital Federal,ADSL,447637.0
+2014,2,Catamarca,ADSL,24380.0
+2014,2,Chaco,ADSL,53321.0
+2014,2,Chubut,ADSL,51070.0
+2014,2,Córdoba,ADSL,337825.0
+2014,2,Corrientes,ADSL,52883.0
+2014,2,Entre Ríos,ADSL,108900.0
+2014,2,Formosa,ADSL,20894.0
+2014,2,Jujuy,ADSL,30128.0
+2014,2,La Pampa,ADSL,15957.0
+2014,2,La Rioja,ADSL,15864.0
+2014,2,Mendoza,ADSL,148979.0
+2014,2,Misiones,ADSL,56933.0
+2014,2,Neuquén,ADSL,47767.0
+2014,2,Río Negro,ADSL,64920.0
+2014,2,Salta,ADSL,73841.0
+2014,2,San Juan,ADSL,48161.0
+2014,2,San Luis,ADSL,11306.0
+2014,2,Santa Cruz,ADSL,18956.0
+2014,2,Santa Fe,ADSL,324101.0
+2014,2,Santiago Del Estero,ADSL,32820.0
+2014,2,Tierra Del Fuego,ADSL,21618.0
+2014,2,Tucumán,ADSL,131740.0
+2014,1,Buenos Aires,ADSL,1567685.0
+2014,1,Capital Federal,ADSL,445569.0
+2014,1,Catamarca,ADSL,24126.0
+2014,1,Chaco,ADSL,52971.0
+2014,1,Chubut,ADSL,51066.0
+2014,1,Córdoba,ADSL,336841.0
+2014,1,Corrientes,ADSL,52565.0
+2014,1,Entre Ríos,ADSL,107883.0
+2014,1,Formosa,ADSL,20774.0
+2014,1,Jujuy,ADSL,29765.0
+2014,1,La Pampa,ADSL,15826.0
+2014,1,La Rioja,ADSL,15663.0
+2014,1,Mendoza,ADSL,148970.0
+2014,1,Misiones,ADSL,56597.0
+2014,1,Neuquén,ADSL,47790.0
+2014,1,Río Negro,ADSL,64886.0
+2014,1,Salta,ADSL,73131.0
+2014,1,San Juan,ADSL,48161.0
+2014,1,San Luis,ADSL,11306.0
+2014,1,Santa Cruz,ADSL,18927.0
+2014,1,Santa Fe,ADSL,322662.0
+2014,1,Santiago Del Estero,ADSL,32567.0
+2014,1,Tierra Del Fuego,ADSL,21618.0
+2014,1,Tucumán,ADSL,129717.0
+2022,2,Buenos Aires,Cablemodem,2719613.0
+2022,2,Capital Federal,Cablemodem,1232226.0
+2022,2,Catamarca,Cablemodem,9430.0
+2022,2,Chaco,Cablemodem,61284.0
+2022,2,Chubut,Cablemodem,69242.0
+2022,2,Córdoba,Cablemodem,467595.0
+2022,2,Corrientes,Cablemodem,75769.0
+2022,2,Entre Ríos,Cablemodem,131029.0
+2022,2,Formosa,Cablemodem,25487.0
+2022,2,Jujuy,Cablemodem,54495.0
+2022,2,La Pampa,Cablemodem,59273.0
+2022,2,La Rioja,Cablemodem,52656.0
+2022,2,Mendoza,Cablemodem,77504.0
+2022,2,Misiones,Cablemodem,89260.0
+2022,2,Neuquén,Cablemodem,74905.0
+2022,2,Río Negro,Cablemodem,47040.0
+2022,2,Salta,Cablemodem,96178.0
+2022,2,San Juan,Cablemodem,19734.0
+2022,2,San Luis,Cablemodem,29034.0
+2022,2,Santa Cruz,Cablemodem,23725.0
+2022,2,Santa Fe,Cablemodem,428233.0
+2022,2,Santiago Del Estero,Cablemodem,80338.0
+2022,2,Tierra Del Fuego,Cablemodem,39837.0
+2022,2,Tucumán,Cablemodem,15327.0
+2022,1,Buenos Aires,Cablemodem,2728865.0
+2022,1,Capital Federal,Cablemodem,1217225.0
+2022,1,Catamarca,Cablemodem,15517.0
+2022,1,Chaco,Cablemodem,64546.0
+2022,1,Chubut,Cablemodem,66667.0
+2022,1,Córdoba,Cablemodem,501799.0
+2022,1,Corrientes,Cablemodem,79093.0
+2022,1,Entre Ríos,Cablemodem,138986.0
+2022,1,Formosa,Cablemodem,15927.0
+2022,1,Jujuy,Cablemodem,60616.0
+2022,1,La Pampa,Cablemodem,58978.0
+2022,1,La Rioja,Cablemodem,59228.0
+2022,1,Mendoza,Cablemodem,74145.0
+2022,1,Misiones,Cablemodem,91752.0
+2022,1,Neuquén,Cablemodem,73200.0
+2022,1,Río Negro,Cablemodem,45366.0
+2022,1,Salta,Cablemodem,98667.0
+2022,1,San Juan,Cablemodem,14449.0
+2022,1,San Luis,Cablemodem,11296.0
+2022,1,Santa Cruz,Cablemodem,23420.0
+2022,1,Santa Fe,Cablemodem,444609.0
+2022,1,Santiago Del Estero,Cablemodem,87979.0
+2022,1,Tierra Del Fuego,Cablemodem,38700.0
+2022,1,Tucumán,Cablemodem,62396.0
+2021,4,Buenos Aires,Cablemodem,2706506.0
+2021,4,Capital Federal,Cablemodem,1205128.0
+2021,4,Catamarca,Cablemodem,13858.0
+2021,4,Chaco,Cablemodem,63145.0
+2021,4,Chubut,Cablemodem,57412.0
+2021,4,Córdoba,Cablemodem,487489.0
+2021,4,Corrientes,Cablemodem,71183.0
+2021,4,Entre Ríos,Cablemodem,133387.0
+2021,4,Formosa,Cablemodem,15111.0
+2021,4,Jujuy,Cablemodem,60511.0
+2021,4,La Pampa,Cablemodem,58000.0
+2021,4,La Rioja,Cablemodem,56651.0
+2021,4,Mendoza,Cablemodem,71553.0
+2021,4,Misiones,Cablemodem,92068.0
+2021,4,Neuquén,Cablemodem,72761.0
+2021,4,Río Negro,Cablemodem,44495.0
+2021,4,Salta,Cablemodem,99808.0
+2021,4,San Juan,Cablemodem,13102.0
+2021,4,San Luis,Cablemodem,11064.0
+2021,4,Santa Cruz,Cablemodem,22902.0
+2021,4,Santa Fe,Cablemodem,444373.0
+2021,4,Santiago Del Estero,Cablemodem,86563.0
+2021,4,Tierra Del Fuego,Cablemodem,38148.0
+2021,4,Tucumán,Cablemodem,59022.0
+2021,3,Buenos Aires,Cablemodem,2595485.0
+2021,3,Capital Federal,Cablemodem,1192107.0
+2021,3,Catamarca,Cablemodem,11709.0
+2021,3,Chaco,Cablemodem,63659.0
+2021,3,Chubut,Cablemodem,55794.0
+2021,3,Córdoba,Cablemodem,477223.0
+2021,3,Corrientes,Cablemodem,69403.0
+2021,3,Entre Ríos,Cablemodem,128752.0
+2021,3,Formosa,Cablemodem,14111.0
+2021,3,Jujuy,Cablemodem,60758.0
+2021,3,La Pampa,Cablemodem,57881.0
+2021,3,La Rioja,Cablemodem,54744.0
+2021,3,Mendoza,Cablemodem,71247.0
+2021,3,Misiones,Cablemodem,89469.0
+2021,3,Neuquén,Cablemodem,73794.0
+2021,3,Río Negro,Cablemodem,44519.0
+2021,3,Salta,Cablemodem,98318.0
+2021,3,San Juan,Cablemodem,12922.0
+2021,3,San Luis,Cablemodem,11884.0
+2021,3,Santa Cruz,Cablemodem,22961.0
+2021,3,Santa Fe,Cablemodem,443156.0
+2021,3,Santiago Del Estero,Cablemodem,85535.0
+2021,3,Tierra Del Fuego,Cablemodem,36958.0
+2021,3,Tucumán,Cablemodem,53868.0
+2021,2,Buenos Aires,Cablemodem,2503830.0
+2021,2,Capital Federal,Cablemodem,1175097.0
+2021,2,Catamarca,Cablemodem,9426.0
+2021,2,Chaco,Cablemodem,62948.0
+2021,2,Chubut,Cablemodem,41497.0
+2021,2,Córdoba,Cablemodem,467782.0
+2021,2,Corrientes,Cablemodem,67262.0
+2021,2,Entre Ríos,Cablemodem,124957.0
+2021,2,Formosa,Cablemodem,12509.0
+2021,2,Jujuy,Cablemodem,60800.0
+2021,2,La Pampa,Cablemodem,57014.0
+2021,2,La Rioja,Cablemodem,54255.0
+2021,2,Mendoza,Cablemodem,70834.0
+2021,2,Misiones,Cablemodem,87861.0
+2021,2,Neuquén,Cablemodem,72690.0
+2021,2,Río Negro,Cablemodem,43761.0
+2021,2,Salta,Cablemodem,96016.0
+2021,2,San Juan,Cablemodem,12369.0
+2021,2,San Luis,Cablemodem,11308.0
+2021,2,Santa Cruz,Cablemodem,22967.0
+2021,2,Santa Fe,Cablemodem,431915.0
+2021,2,Santiago Del Estero,Cablemodem,83770.0
+2021,2,Tierra Del Fuego,Cablemodem,22504.0
+2021,2,Tucumán,Cablemodem,48359.0
+2021,1,Buenos Aires,Cablemodem,2452056.0
+2021,1,Capital Federal,Cablemodem,1145093.0
+2021,1,Catamarca,Cablemodem,4409.0
+2021,1,Chaco,Cablemodem,61251.0
+2021,1,Chubut,Cablemodem,40960.0
+2021,1,Córdoba,Cablemodem,444695.0
+2021,1,Corrientes,Cablemodem,62876.0
+2021,1,Entre Ríos,Cablemodem,118424.0
+2021,1,Formosa,Cablemodem,11412.0
+2021,1,Jujuy,Cablemodem,54324.0
+2021,1,La Pampa,Cablemodem,58711.0
+2021,1,La Rioja,Cablemodem,34984.0
+2021,1,Mendoza,Cablemodem,69295.0
+2021,1,Misiones,Cablemodem,82339.0
+2021,1,Neuquén,Cablemodem,70457.0
+2021,1,Río Negro,Cablemodem,42192.0
+2021,1,Salta,Cablemodem,89187.0
+2021,1,San Juan,Cablemodem,11589.0
+2021,1,San Luis,Cablemodem,10678.0
+2021,1,Santa Cruz,Cablemodem,23089.0
+2021,1,Santa Fe,Cablemodem,421480.0
+2021,1,Santiago Del Estero,Cablemodem,75849.0
+2021,1,Tierra Del Fuego,Cablemodem,27247.0
+2021,1,Tucumán,Cablemodem,12185.0
+2020,4,Buenos Aires,Cablemodem,2441248.0
+2020,4,Capital Federal,Cablemodem,1142528.0
+2020,4,Catamarca,Cablemodem,5115.0
+2020,4,Chaco,Cablemodem,61200.0
+2020,4,Chubut,Cablemodem,39756.0
+2020,4,Córdoba,Cablemodem,439322.0
+2020,4,Corrientes,Cablemodem,61495.0
+2020,4,Entre Ríos,Cablemodem,113670.0
+2020,4,Formosa,Cablemodem,10789.0
+2020,4,Jujuy,Cablemodem,52815.0
+2020,4,La Pampa,Cablemodem,58945.0
+2020,4,La Rioja,Cablemodem,34984.0
+2020,4,Mendoza,Cablemodem,68364.0
+2020,4,Misiones,Cablemodem,79855.0
+2020,4,Neuquén,Cablemodem,70614.0
+2020,4,Río Negro,Cablemodem,42022.0
+2020,4,Salta,Cablemodem,87817.0
+2020,4,San Juan,Cablemodem,7004.0
+2020,4,San Luis,Cablemodem,11767.0
+2020,4,Santa Cruz,Cablemodem,19657.0
+2020,4,Santa Fe,Cablemodem,414746.0
+2020,4,Santiago Del Estero,Cablemodem,70522.0
+2020,4,Tierra Del Fuego,Cablemodem,26439.0
+2020,4,Tucumán,Cablemodem,11150.0
+2020,3,Buenos Aires,Cablemodem,2384557.0
+2020,3,Capital Federal,Cablemodem,1129573.0
+2020,3,Catamarca,Cablemodem,3690.0
+2020,3,Chaco,Cablemodem,58825.0
+2020,3,Chubut,Cablemodem,39386.0
+2020,3,Córdoba,Cablemodem,430771.0
+2020,3,Corrientes,Cablemodem,58681.0
+2020,3,Entre Ríos,Cablemodem,106950.0
+2020,3,Formosa,Cablemodem,10003.0
+2020,3,Jujuy,Cablemodem,57682.0
+2020,3,La Pampa,Cablemodem,56845.0
+2020,3,La Rioja,Cablemodem,34984.0
+2020,3,Mendoza,Cablemodem,64672.0
+2020,3,Misiones,Cablemodem,77989.0
+2020,3,Neuquén,Cablemodem,70446.0
+2020,3,Río Negro,Cablemodem,40001.0
+2020,3,Salta,Cablemodem,84128.0
+2020,3,San Juan,Cablemodem,9223.0
+2020,3,San Luis,Cablemodem,10077.0
+2020,3,Santa Cruz,Cablemodem,16098.0
+2020,3,Santa Fe,Cablemodem,405807.0
+2020,3,Santiago Del Estero,Cablemodem,70720.0
+2020,3,Tierra Del Fuego,Cablemodem,26491.0
+2020,3,Tucumán,Cablemodem,11752.0
+2020,2,Buenos Aires,Cablemodem,2244277.0
+2020,2,Capital Federal,Cablemodem,1106133.0
+2020,2,Catamarca,Cablemodem,3641.0
+2020,2,Chaco,Cablemodem,56017.0
+2020,2,Chubut,Cablemodem,38279.0
+2020,2,Córdoba,Cablemodem,415007.0
+2020,2,Corrientes,Cablemodem,55536.0
+2020,2,Entre Ríos,Cablemodem,99423.0
+2020,2,Formosa,Cablemodem,9353.0
+2020,2,Jujuy,Cablemodem,38938.0
+2020,2,La Pampa,Cablemodem,54422.0
+2020,2,La Rioja,Cablemodem,34984.0
+2020,2,Mendoza,Cablemodem,62941.0
+2020,2,Misiones,Cablemodem,74497.0
+2020,2,Neuquén,Cablemodem,67990.0
+2020,2,Río Negro,Cablemodem,39650.0
+2020,2,Salta,Cablemodem,81740.0
+2020,2,San Juan,Cablemodem,8275.0
+2020,2,San Luis,Cablemodem,8357.0
+2020,2,Santa Cruz,Cablemodem,16044.0
+2020,2,Santa Fe,Cablemodem,381679.0
+2020,2,Santiago Del Estero,Cablemodem,72074.0
+2020,2,Tierra Del Fuego,Cablemodem,26025.0
+2020,2,Tucumán,Cablemodem,9833.0
+2020,1,Buenos Aires,Cablemodem,2210349.0
+2020,1,Capital Federal,Cablemodem,1097635.0
+2020,1,Catamarca,Cablemodem,3146.0
+2020,1,Chaco,Cablemodem,54144.0
+2020,1,Chubut,Cablemodem,27287.0
+2020,1,Córdoba,Cablemodem,406109.0
+2020,1,Corrientes,Cablemodem,53231.0
+2020,1,Entre Ríos,Cablemodem,95434.0
+2020,1,Formosa,Cablemodem,8887.0
+2020,1,Jujuy,Cablemodem,38938.0
+2020,1,La Pampa,Cablemodem,53755.0
+2020,1,La Rioja,Cablemodem,34984.0
+2020,1,Mendoza,Cablemodem,50251.0
+2020,1,Misiones,Cablemodem,69452.0
+2020,1,Neuquén,Cablemodem,65951.0
+2020,1,Río Negro,Cablemodem,38479.0
+2020,1,Salta,Cablemodem,75593.0
+2020,1,San Juan,Cablemodem,6448.0
+2020,1,San Luis,Cablemodem,7612.0
+2020,1,Santa Cruz,Cablemodem,15766.0
+2020,1,Santa Fe,Cablemodem,383673.0
+2020,1,Santiago Del Estero,Cablemodem,70424.0
+2020,1,Tierra Del Fuego,Cablemodem,25632.0
+2020,1,Tucumán,Cablemodem,10494.0
+2019,4,Buenos Aires,Cablemodem,2191672.0
+2019,4,Capital Federal,Cablemodem,1093143.0
+2019,4,Catamarca,Cablemodem,3318.0
+2019,4,Chaco,Cablemodem,53602.0
+2019,4,Chubut,Cablemodem,26977.0
+2019,4,Córdoba,Cablemodem,410038.0
+2019,4,Corrientes,Cablemodem,51845.0
+2019,4,Entre Ríos,Cablemodem,99206.0
+2019,4,Formosa,Cablemodem,8684.0
+2019,4,Jujuy,Cablemodem,37604.0
+2019,4,La Pampa,Cablemodem,56854.0
+2019,4,La Rioja,Cablemodem,34984.0
+2019,4,Mendoza,Cablemodem,49711.0
+2019,4,Misiones,Cablemodem,69676.0
+2019,4,Neuquén,Cablemodem,60970.0
+2019,4,Río Negro,Cablemodem,37933.0
+2019,4,Salta,Cablemodem,76062.0
+2019,4,San Juan,Cablemodem,6338.0
+2019,4,San Luis,Cablemodem,8027.0
+2019,4,Santa Cruz,Cablemodem,15899.0
+2019,4,Santa Fe,Cablemodem,382254.0
+2019,4,Santiago Del Estero,Cablemodem,71239.0
+2019,4,Tierra Del Fuego,Cablemodem,26821.0
+2019,4,Tucumán,Cablemodem,11012.0
+2019,3,Buenos Aires,Cablemodem,2144956.0
+2019,3,Capital Federal,Cablemodem,1080973.0
+2019,3,Catamarca,Cablemodem,5543.0
+2019,3,Chaco,Cablemodem,49156.0
+2019,3,Chubut,Cablemodem,27090.0
+2019,3,Córdoba,Cablemodem,399231.0
+2019,3,Corrientes,Cablemodem,50230.0
+2019,3,Entre Ríos,Cablemodem,96305.0
+2019,3,Formosa,Cablemodem,8359.0
+2019,3,Jujuy,Cablemodem,35742.0
+2019,3,La Pampa,Cablemodem,52941.0
+2019,3,La Rioja,Cablemodem,34984.0
+2019,3,Mendoza,Cablemodem,54312.0
+2019,3,Misiones,Cablemodem,65872.0
+2019,3,Neuquén,Cablemodem,60484.0
+2019,3,Río Negro,Cablemodem,37425.0
+2019,3,Salta,Cablemodem,74329.0
+2019,3,San Juan,Cablemodem,7425.0
+2019,3,San Luis,Cablemodem,10561.0
+2019,3,Santa Cruz,Cablemodem,17056.0
+2019,3,Santa Fe,Cablemodem,377171.0
+2019,3,Santiago Del Estero,Cablemodem,71198.0
+2019,3,Tierra Del Fuego,Cablemodem,26659.0
+2019,3,Tucumán,Cablemodem,12089.0
+2019,2,Buenos Aires,Cablemodem,2079900.0
+2019,2,Capital Federal,Cablemodem,1061358.0
+2019,2,Catamarca,Cablemodem,5543.0
+2019,2,Chaco,Cablemodem,47448.0
+2019,2,Chubut,Cablemodem,26338.0
+2019,2,Córdoba,Cablemodem,388254.0
+2019,2,Corrientes,Cablemodem,47431.0
+2019,2,Entre Ríos,Cablemodem,91081.0
+2019,2,Formosa,Cablemodem,8686.0
+2019,2,Jujuy,Cablemodem,30742.0
+2019,2,La Pampa,Cablemodem,52101.0
+2019,2,La Rioja,Cablemodem,34984.0
+2019,2,Mendoza,Cablemodem,54027.0
+2019,2,Misiones,Cablemodem,64272.0
+2019,2,Neuquén,Cablemodem,59021.0
+2019,2,Río Negro,Cablemodem,36527.0
+2019,2,Salta,Cablemodem,62343.0
+2019,2,San Juan,Cablemodem,7425.0
+2019,2,San Luis,Cablemodem,10298.0
+2019,2,Santa Cruz,Cablemodem,10257.0
+2019,2,Santa Fe,Cablemodem,355140.0
+2019,2,Santiago Del Estero,Cablemodem,64783.0
+2019,2,Tierra Del Fuego,Cablemodem,25527.0
+2019,2,Tucumán,Cablemodem,12089.0
+2019,1,Buenos Aires,Cablemodem,2020730.0
+2019,1,Capital Federal,Cablemodem,1030814.0
+2019,1,Catamarca,Cablemodem,4443.0
+2019,1,Chaco,Cablemodem,43555.0
+2019,1,Chubut,Cablemodem,23065.0
+2019,1,Córdoba,Cablemodem,363959.0
+2019,1,Corrientes,Cablemodem,43444.0
+2019,1,Entre Ríos,Cablemodem,90253.0
+2019,1,Formosa,Cablemodem,7878.0
+2019,1,Jujuy,Cablemodem,12484.0
+2019,1,La Pampa,Cablemodem,57373.0
+2019,1,La Rioja,Cablemodem,34984.0
+2019,1,Mendoza,Cablemodem,40205.0
+2019,1,Misiones,Cablemodem,59214.0
+2019,1,Neuquén,Cablemodem,55634.0
+2019,1,Río Negro,Cablemodem,34124.0
+2019,1,Salta,Cablemodem,57933.0
+2019,1,San Juan,Cablemodem,5838.0
+2019,1,San Luis,Cablemodem,7784.0
+2019,1,Santa Cruz,Cablemodem,4615.0
+2019,1,Santa Fe,Cablemodem,340344.0
+2019,1,Santiago Del Estero,Cablemodem,61547.0
+2019,1,Tierra Del Fuego,Cablemodem,23549.0
+2019,1,Tucumán,Cablemodem,11670.0
+2018,4,Buenos Aires,Cablemodem,1949637.0
+2018,4,Capital Federal,Cablemodem,1019490.0
+2018,4,Catamarca,Cablemodem,4443.0
+2018,4,Chaco,Cablemodem,43555.0
+2018,4,Chubut,Cablemodem,23065.0
+2018,4,Córdoba,Cablemodem,355716.0
+2018,4,Corrientes,Cablemodem,42418.0
+2018,4,Entre Ríos,Cablemodem,86198.0
+2018,4,Formosa,Cablemodem,7880.0
+2018,4,Jujuy,Cablemodem,12484.0
+2018,4,La Pampa,Cablemodem,55337.0
+2018,4,La Rioja,Cablemodem,34984.0
+2018,4,Mendoza,Cablemodem,40205.0
+2018,4,Misiones,Cablemodem,53673.0
+2018,4,Neuquén,Cablemodem,55634.0
+2018,4,Río Negro,Cablemodem,34292.0
+2018,4,Salta,Cablemodem,57539.0
+2018,4,San Juan,Cablemodem,5838.0
+2018,4,San Luis,Cablemodem,7784.0
+2018,4,Santa Cruz,Cablemodem,4615.0
+2018,4,Santa Fe,Cablemodem,322782.0
+2018,4,Santiago Del Estero,Cablemodem,61243.0
+2018,4,Tierra Del Fuego,Cablemodem,23349.0
+2018,4,Tucumán,Cablemodem,11670.0
+2018,3,Buenos Aires,Cablemodem,1929273.0
+2018,3,Capital Federal,Cablemodem,1009252.0
+2018,3,Catamarca,Cablemodem,4443.0
+2018,3,Chaco,Cablemodem,42359.0
+2018,3,Chubut,Cablemodem,23065.0
+2018,3,Córdoba,Cablemodem,342401.0
+2018,3,Corrientes,Cablemodem,41300.0
+2018,3,Entre Ríos,Cablemodem,83714.0
+2018,3,Formosa,Cablemodem,7589.0
+2018,3,Jujuy,Cablemodem,10856.0
+2018,3,La Pampa,Cablemodem,54574.0
+2018,3,La Rioja,Cablemodem,34984.0
+2018,3,Mendoza,Cablemodem,40205.0
+2018,3,Misiones,Cablemodem,50793.0
+2018,3,Neuquén,Cablemodem,54129.0
+2018,3,Río Negro,Cablemodem,33474.0
+2018,3,Salta,Cablemodem,53980.0
+2018,3,San Juan,Cablemodem,5838.0
+2018,3,San Luis,Cablemodem,7784.0
+2018,3,Santa Cruz,Cablemodem,4574.0
+2018,3,Santa Fe,Cablemodem,312866.0
+2018,3,Santiago Del Estero,Cablemodem,58789.0
+2018,3,Tierra Del Fuego,Cablemodem,22649.0
+2018,3,Tucumán,Cablemodem,9280.0
+2018,2,Buenos Aires,Cablemodem,1807868.0
+2018,2,Capital Federal,Cablemodem,977916.0
+2018,2,Catamarca,Cablemodem,4415.0
+2018,2,Chaco,Cablemodem,40750.0
+2018,2,Chubut,Cablemodem,19591.0
+2018,2,Córdoba,Cablemodem,327636.0
+2018,2,Corrientes,Cablemodem,39715.0
+2018,2,Entre Ríos,Cablemodem,80376.0
+2018,2,Formosa,Cablemodem,7311.0
+2018,2,Jujuy,Cablemodem,10856.0
+2018,2,La Pampa,Cablemodem,53587.0
+2018,2,La Rioja,Cablemodem,34984.0
+2018,2,Mendoza,Cablemodem,36872.0
+2018,2,Misiones,Cablemodem,47923.0
+2018,2,Neuquén,Cablemodem,52855.0
+2018,2,Río Negro,Cablemodem,32795.0
+2018,2,Salta,Cablemodem,53478.0
+2018,2,San Juan,Cablemodem,5068.0
+2018,2,San Luis,Cablemodem,7666.0
+2018,2,Santa Cruz,Cablemodem,4474.0
+2018,2,Santa Fe,Cablemodem,304349.0
+2018,2,Santiago Del Estero,Cablemodem,55935.0
+2018,2,Tierra Del Fuego,Cablemodem,22756.0
+2018,2,Tucumán,Cablemodem,8965.0
+2018,1,Buenos Aires,Cablemodem,1793884.0
+2018,1,Capital Federal,Cablemodem,968483.0
+2018,1,Catamarca,Cablemodem,4415.0
+2018,1,Chaco,Cablemodem,40157.0
+2018,1,Chubut,Cablemodem,19591.0
+2018,1,Córdoba,Cablemodem,326894.0
+2018,1,Corrientes,Cablemodem,35225.0
+2018,1,Entre Ríos,Cablemodem,75751.0
+2018,1,Formosa,Cablemodem,7095.0
+2018,1,Jujuy,Cablemodem,10456.0
+2018,1,La Pampa,Cablemodem,51389.0
+2018,1,La Rioja,Cablemodem,34984.0
+2018,1,Mendoza,Cablemodem,36872.0
+2018,1,Misiones,Cablemodem,46880.0
+2018,1,Neuquén,Cablemodem,55072.0
+2018,1,Río Negro,Cablemodem,31712.0
+2018,1,Salta,Cablemodem,51534.0
+2018,1,San Juan,Cablemodem,5068.0
+2018,1,San Luis,Cablemodem,7594.0
+2018,1,Santa Cruz,Cablemodem,4474.0
+2018,1,Santa Fe,Cablemodem,300421.0
+2018,1,Santiago Del Estero,Cablemodem,54594.0
+2018,1,Tierra Del Fuego,Cablemodem,9663.0
+2018,1,Tucumán,Cablemodem,8921.0
+2017,4,Buenos Aires,Cablemodem,1718013.0
+2017,4,Capital Federal,Cablemodem,961688.0
+2017,4,Catamarca,Cablemodem,263.0
+2017,4,Chaco,Cablemodem,39690.0
+2017,4,Chubut,Cablemodem,15097.0
+2017,4,Córdoba,Cablemodem,324709.0
+2017,4,Corrientes,Cablemodem,34722.0
+2017,4,Entre Ríos,Cablemodem,73692.0
+2017,4,Formosa,Cablemodem,6973.0
+2017,4,Jujuy,Cablemodem,9626.0
+2017,4,La Pampa,Cablemodem,50495.0
+2017,4,La Rioja,Cablemodem,34984.0
+2017,4,Mendoza,Cablemodem,16114.0
+2017,4,Misiones,Cablemodem,47470.0
+2017,4,Neuquén,Cablemodem,54119.0
+2017,4,Río Negro,Cablemodem,30451.0
+2017,4,Salta,Cablemodem,50446.0
+2017,4,San Juan,Cablemodem,451.0
+2017,4,San Luis,Cablemodem,1119.0
+2017,4,Santa Cruz,Cablemodem,1668.0
+2017,4,Santa Fe,Cablemodem,293831.0
+2017,4,Santiago Del Estero,Cablemodem,40407.0
+2017,4,Tierra Del Fuego,Cablemodem,6906.0
+2017,4,Tucumán,Cablemodem,5223.0
+2017,3,Buenos Aires,Cablemodem,1571180.0
+2017,3,Capital Federal,Cablemodem,941092.0
+2017,3,Catamarca,Cablemodem,4411.0
+2017,3,Chaco,Cablemodem,37307.0
+2017,3,Chubut,Cablemodem,5645.0
+2017,3,Córdoba,Cablemodem,319360.0
+2017,3,Corrientes,Cablemodem,33993.0
+2017,3,Entre Ríos,Cablemodem,69596.0
+2017,3,Formosa,Cablemodem,6816.0
+2017,3,Jujuy,Cablemodem,9395.0
+2017,3,La Pampa,Cablemodem,49679.0
+2017,3,La Rioja,Cablemodem,34984.0
+2017,3,Mendoza,Cablemodem,33788.0
+2017,3,Misiones,Cablemodem,43880.0
+2017,3,Neuquén,Cablemodem,52468.0
+2017,3,Río Negro,Cablemodem,30018.0
+2017,3,Salta,Cablemodem,50284.0
+2017,3,San Juan,Cablemodem,5068.0
+2017,3,San Luis,Cablemodem,7576.0
+2017,3,Santa Cruz,Cablemodem,5487.0
+2017,3,Santa Fe,Cablemodem,290655.0
+2017,3,Santiago Del Estero,Cablemodem,54096.0
+2017,3,Tierra Del Fuego,Cablemodem,7012.0
+2017,3,Tucumán,Cablemodem,6431.0
+2017,2,Buenos Aires,Cablemodem,1535037.0
+2017,2,Capital Federal,Cablemodem,932466.0
+2017,2,Catamarca,Cablemodem,255.0
+2017,2,Chaco,Cablemodem,35613.0
+2017,2,Chubut,Cablemodem,1067.0
+2017,2,Córdoba,Cablemodem,303488.0
+2017,2,Corrientes,Cablemodem,33192.0
+2017,2,Entre Ríos,Cablemodem,67650.0
+2017,2,Formosa,Cablemodem,6410.0
+2017,2,Jujuy,Cablemodem,8858.0
+2017,2,La Pampa,Cablemodem,48310.0
+2017,2,La Rioja,Cablemodem,0.0
+2017,2,Mendoza,Cablemodem,13030.0
+2017,2,Misiones,Cablemodem,42925.0
+2017,2,Neuquén,Cablemodem,50283.0
+2017,2,Río Negro,Cablemodem,29147.0
+2017,2,Salta,Cablemodem,27280.0
+2017,2,San Juan,Cablemodem,451.0
+2017,2,San Luis,Cablemodem,1120.0
+2017,2,Santa Cruz,Cablemodem,2722.0
+2017,2,Santa Fe,Cablemodem,228102.0
+2017,2,Santiago Del Estero,Cablemodem,3900.0
+2017,2,Tierra Del Fuego,Cablemodem,6905.0
+2017,2,Tucumán,Cablemodem,5223.0
+2017,1,Buenos Aires,Cablemodem,1465817.0
+2017,1,Capital Federal,Cablemodem,918328.0
+2017,1,Catamarca,Cablemodem,248.0
+2017,1,Chaco,Cablemodem,34277.0
+2017,1,Chubut,Cablemodem,999.0
+2017,1,Córdoba,Cablemodem,293479.0
+2017,1,Corrientes,Cablemodem,31994.0
+2017,1,Entre Ríos,Cablemodem,65095.0
+2017,1,Formosa,Cablemodem,6215.0
+2017,1,Jujuy,Cablemodem,9278.0
+2017,1,La Pampa,Cablemodem,47195.0
+2017,1,La Rioja,Cablemodem,0.0
+2017,1,Mendoza,Cablemodem,13030.0
+2017,1,Misiones,Cablemodem,40142.0
+2017,1,Neuquén,Cablemodem,48109.0
+2017,1,Río Negro,Cablemodem,28785.0
+2017,1,Salta,Cablemodem,26845.0
+2017,1,San Juan,Cablemodem,451.0
+2017,1,San Luis,Cablemodem,1120.0
+2017,1,Santa Cruz,Cablemodem,2722.0
+2017,1,Santa Fe,Cablemodem,226094.0
+2017,1,Santiago Del Estero,Cablemodem,3900.0
+2017,1,Tierra Del Fuego,Cablemodem,6905.0
+2017,1,Tucumán,Cablemodem,5223.0
+2016,4,Buenos Aires,Cablemodem,1414676.0
+2016,4,Capital Federal,Cablemodem,914952.0
+2016,4,Catamarca,Cablemodem,250.0
+2016,4,Chaco,Cablemodem,33534.0
+2016,4,Chubut,Cablemodem,955.0
+2016,4,Córdoba,Cablemodem,289344.0
+2016,4,Corrientes,Cablemodem,31497.0
+2016,4,Entre Ríos,Cablemodem,64141.0
+2016,4,Formosa,Cablemodem,6061.0
+2016,4,Jujuy,Cablemodem,8731.0
+2016,4,La Pampa,Cablemodem,47245.0
+2016,4,La Rioja,Cablemodem,0.0
+2016,4,Mendoza,Cablemodem,13030.0
+2016,4,Misiones,Cablemodem,39294.0
+2016,4,Neuquén,Cablemodem,46389.0
+2016,4,Río Negro,Cablemodem,28474.0
+2016,4,Salta,Cablemodem,26657.0
+2016,4,San Juan,Cablemodem,451.0
+2016,4,San Luis,Cablemodem,1120.0
+2016,4,Santa Cruz,Cablemodem,2722.0
+2016,4,Santa Fe,Cablemodem,225792.0
+2016,4,Santiago Del Estero,Cablemodem,3900.0
+2016,4,Tierra Del Fuego,Cablemodem,6905.0
+2016,4,Tucumán,Cablemodem,4482.0
+2016,3,Buenos Aires,Cablemodem,1355770.0
+2016,3,Capital Federal,Cablemodem,905105.0
+2016,3,Catamarca,Cablemodem,248.0
+2016,3,Chaco,Cablemodem,32730.0
+2016,3,Chubut,Cablemodem,935.0
+2016,3,Córdoba,Cablemodem,285480.0
+2016,3,Corrientes,Cablemodem,30813.0
+2016,3,Entre Ríos,Cablemodem,61850.0
+2016,3,Formosa,Cablemodem,5905.0
+2016,3,Jujuy,Cablemodem,8236.0
+2016,3,La Pampa,Cablemodem,45952.0
+2016,3,La Rioja,Cablemodem,0.0
+2016,3,Mendoza,Cablemodem,13030.0
+2016,3,Misiones,Cablemodem,38130.0
+2016,3,Neuquén,Cablemodem,44739.0
+2016,3,Río Negro,Cablemodem,28496.0
+2016,3,Salta,Cablemodem,26113.0
+2016,3,San Juan,Cablemodem,451.0
+2016,3,San Luis,Cablemodem,1113.0
+2016,3,Santa Cruz,Cablemodem,2722.0
+2016,3,Santa Fe,Cablemodem,223011.0
+2016,3,Santiago Del Estero,Cablemodem,3900.0
+2016,3,Tierra Del Fuego,Cablemodem,6276.0
+2016,3,Tucumán,Cablemodem,3850.0
+2016,2,Buenos Aires,Cablemodem,1305949.0
+2016,2,Capital Federal,Cablemodem,892209.0
+2016,2,Catamarca,Cablemodem,245.0
+2016,2,Chaco,Cablemodem,31825.0
+2016,2,Chubut,Cablemodem,867.0
+2016,2,Córdoba,Cablemodem,277615.0
+2016,2,Corrientes,Cablemodem,29845.0
+2016,2,Entre Ríos,Cablemodem,58768.0
+2016,2,Formosa,Cablemodem,5658.0
+2016,2,Jujuy,Cablemodem,7374.0
+2016,2,La Pampa,Cablemodem,44654.0
+2016,2,La Rioja,Cablemodem,0.0
+2016,2,Mendoza,Cablemodem,13030.0
+2016,2,Misiones,Cablemodem,36145.0
+2016,2,Neuquén,Cablemodem,42370.0
+2016,2,Río Negro,Cablemodem,28100.0
+2016,2,Salta,Cablemodem,24719.0
+2016,2,San Juan,Cablemodem,451.0
+2016,2,San Luis,Cablemodem,1063.0
+2016,2,Santa Cruz,Cablemodem,2722.0
+2016,2,Santa Fe,Cablemodem,219088.0
+2016,2,Santiago Del Estero,Cablemodem,3900.0
+2016,2,Tierra Del Fuego,Cablemodem,5707.0
+2016,2,Tucumán,Cablemodem,2968.0
+2016,1,Buenos Aires,Cablemodem,1200859.0
+2016,1,Capital Federal,Cablemodem,832126.0
+2016,1,Catamarca,Cablemodem,243.0
+2016,1,Chaco,Cablemodem,29994.0
+2016,1,Chubut,Cablemodem,834.0
+2016,1,Córdoba,Cablemodem,252346.0
+2016,1,Corrientes,Cablemodem,28491.0
+2016,1,Entre Ríos,Cablemodem,54948.0
+2016,1,Formosa,Cablemodem,5420.0
+2016,1,Jujuy,Cablemodem,6751.0
+2016,1,La Pampa,Cablemodem,41881.0
+2016,1,La Rioja,Cablemodem,0.0
+2016,1,Mendoza,Cablemodem,13030.0
+2016,1,Misiones,Cablemodem,33330.0
+2016,1,Neuquén,Cablemodem,36122.0
+2016,1,Río Negro,Cablemodem,27312.0
+2016,1,Salta,Cablemodem,22741.0
+2016,1,San Juan,Cablemodem,451.0
+2016,1,San Luis,Cablemodem,1042.0
+2016,1,Santa Cruz,Cablemodem,2723.0
+2016,1,Santa Fe,Cablemodem,204816.0
+2016,1,Santiago Del Estero,Cablemodem,3900.0
+2016,1,Tierra Del Fuego,Cablemodem,4834.0
+2016,1,Tucumán,Cablemodem,2165.0
+2015,4,Buenos Aires,Cablemodem,1223603.0
+2015,4,Capital Federal,Cablemodem,879950.0
+2015,4,Catamarca,Cablemodem,242.0
+2015,4,Chaco,Cablemodem,29456.0
+2015,4,Chubut,Cablemodem,811.0
+2015,4,Córdoba,Cablemodem,266062.0
+2015,4,Corrientes,Cablemodem,28178.0
+2015,4,Entre Ríos,Cablemodem,53411.0
+2015,4,Formosa,Cablemodem,5314.0
+2015,4,Jujuy,Cablemodem,6933.0
+2015,4,La Pampa,Cablemodem,42705.0
+2015,4,La Rioja,Cablemodem,0.0
+2015,4,Mendoza,Cablemodem,13030.0
+2015,4,Misiones,Cablemodem,32533.0
+2015,4,Neuquén,Cablemodem,38902.0
+2015,4,Río Negro,Cablemodem,27221.0
+2015,4,Salta,Cablemodem,22446.0
+2015,4,San Juan,Cablemodem,451.0
+2015,4,San Luis,Cablemodem,1025.0
+2015,4,Santa Cruz,Cablemodem,2723.0
+2015,4,Santa Fe,Cablemodem,212911.0
+2015,4,Santiago Del Estero,Cablemodem,4365.0
+2015,4,Tierra Del Fuego,Cablemodem,4301.0
+2015,4,Tucumán,Cablemodem,1653.0
+2015,3,Buenos Aires,Cablemodem,1183894.0
+2015,3,Capital Federal,Cablemodem,871262.0
+2015,3,Catamarca,Cablemodem,242.0
+2015,3,Chaco,Cablemodem,28809.0
+2015,3,Chubut,Cablemodem,792.0
+2015,3,Córdoba,Cablemodem,264055.0
+2015,3,Corrientes,Cablemodem,27604.0
+2015,3,Entre Ríos,Cablemodem,51945.0
+2015,3,Formosa,Cablemodem,5264.0
+2015,3,Jujuy,Cablemodem,6895.0
+2015,3,La Pampa,Cablemodem,41886.0
+2015,3,La Rioja,Cablemodem,0.0
+2015,3,Mendoza,Cablemodem,13030.0
+2015,3,Misiones,Cablemodem,31635.0
+2015,3,Neuquén,Cablemodem,36620.0
+2015,3,Río Negro,Cablemodem,27130.0
+2015,3,Salta,Cablemodem,21688.0
+2015,3,San Juan,Cablemodem,451.0
+2015,3,San Luis,Cablemodem,1025.0
+2015,3,Santa Cruz,Cablemodem,2718.0
+2015,3,Santa Fe,Cablemodem,209673.0
+2015,3,Santiago Del Estero,Cablemodem,4365.0
+2015,3,Tierra Del Fuego,Cablemodem,8085.0
+2015,3,Tucumán,Cablemodem,1135.0
+2015,2,Buenos Aires,Cablemodem,1141052.0
+2015,2,Capital Federal,Cablemodem,858342.0
+2015,2,Catamarca,Cablemodem,242.0
+2015,2,Chaco,Cablemodem,27809.0
+2015,2,Chubut,Cablemodem,762.0
+2015,2,Córdoba,Cablemodem,255596.0
+2015,2,Corrientes,Cablemodem,26553.0
+2015,2,Entre Ríos,Cablemodem,49767.0
+2015,2,Formosa,Cablemodem,5164.0
+2015,2,Jujuy,Cablemodem,5482.0
+2015,2,La Pampa,Cablemodem,40825.0
+2015,2,La Rioja,Cablemodem,0.0
+2015,2,Mendoza,Cablemodem,13030.0
+2015,2,Misiones,Cablemodem,29283.0
+2015,2,Neuquén,Cablemodem,34183.0
+2015,2,Río Negro,Cablemodem,26268.0
+2015,2,Salta,Cablemodem,20297.0
+2015,2,San Juan,Cablemodem,451.0
+2015,2,San Luis,Cablemodem,1025.0
+2015,2,Santa Cruz,Cablemodem,2707.0
+2015,2,Santa Fe,Cablemodem,204685.0
+2015,2,Santiago Del Estero,Cablemodem,4365.0
+2015,2,Tierra Del Fuego,Cablemodem,7927.0
+2015,2,Tucumán,Cablemodem,479.0
+2015,1,Buenos Aires,Cablemodem,1096836.0
+2015,1,Capital Federal,Cablemodem,841743.0
+2015,1,Catamarca,Cablemodem,241.0
+2015,1,Chaco,Cablemodem,26161.0
+2015,1,Chubut,Cablemodem,717.0
+2015,1,Córdoba,Cablemodem,247564.0
+2015,1,Corrientes,Cablemodem,25372.0
+2015,1,Entre Ríos,Cablemodem,47411.0
+2015,1,Formosa,Cablemodem,4951.0
+2015,1,Jujuy,Cablemodem,5048.0
+2015,1,La Pampa,Cablemodem,39571.0
+2015,1,La Rioja,Cablemodem,0.0
+2015,1,Mendoza,Cablemodem,13030.0
+2015,1,Misiones,Cablemodem,26836.0
+2015,1,Neuquén,Cablemodem,32152.0
+2015,1,Río Negro,Cablemodem,25217.0
+2015,1,Salta,Cablemodem,19781.0
+2015,1,San Juan,Cablemodem,451.0
+2015,1,San Luis,Cablemodem,1025.0
+2015,1,Santa Cruz,Cablemodem,2700.0
+2015,1,Santa Fe,Cablemodem,199037.0
+2015,1,Santiago Del Estero,Cablemodem,4365.0
+2015,1,Tierra Del Fuego,Cablemodem,7924.0
+2015,1,Tucumán,Cablemodem,115.0
+2014,4,Buenos Aires,Cablemodem,1070135.0
+2014,4,Capital Federal,Cablemodem,840224.0
+2014,4,Catamarca,Cablemodem,241.0
+2014,4,Chaco,Cablemodem,10918.0
+2014,4,Chubut,Cablemodem,697.0
+2014,4,Córdoba,Cablemodem,240452.0
+2014,4,Corrientes,Cablemodem,9526.0
+2014,4,Entre Ríos,Cablemodem,23027.0
+2014,4,Formosa,Cablemodem,4896.0
+2014,4,Jujuy,Cablemodem,4583.0
+2014,4,La Pampa,Cablemodem,34281.0
+2014,4,La Rioja,Cablemodem,0.0
+2014,4,Mendoza,Cablemodem,13030.0
+2014,4,Misiones,Cablemodem,18613.0
+2014,4,Neuquén,Cablemodem,31778.0
+2014,4,Río Negro,Cablemodem,23703.0
+2014,4,Salta,Cablemodem,17289.0
+2014,4,San Juan,Cablemodem,451.0
+2014,4,San Luis,Cablemodem,926.0
+2014,4,Santa Cruz,Cablemodem,448.0
+2014,4,Santa Fe,Cablemodem,183009.0
+2014,4,Santiago Del Estero,Cablemodem,4231.0
+2014,4,Tierra Del Fuego,Cablemodem,3664.0
+2014,4,Tucumán,Cablemodem,97.0
+2014,3,Buenos Aires,Cablemodem,1110628.0
+2014,3,Capital Federal,Cablemodem,833402.0
+2014,3,Catamarca,Cablemodem,244.0
+2014,3,Chaco,Cablemodem,10336.0
+2014,3,Chubut,Cablemodem,668.0
+2014,3,Córdoba,Cablemodem,240334.0
+2014,3,Corrientes,Cablemodem,9184.0
+2014,3,Entre Ríos,Cablemodem,22440.0
+2014,3,Formosa,Cablemodem,4836.0
+2014,3,Jujuy,Cablemodem,3541.0
+2014,3,La Pampa,Cablemodem,33940.0
+2014,3,La Rioja,Cablemodem,0.0
+2014,3,Mendoza,Cablemodem,13030.0
+2014,3,Misiones,Cablemodem,18373.0
+2014,3,Neuquén,Cablemodem,30964.0
+2014,3,Río Negro,Cablemodem,26590.0
+2014,3,Salta,Cablemodem,18394.0
+2014,3,San Juan,Cablemodem,451.0
+2014,3,San Luis,Cablemodem,925.0
+2014,3,Santa Cruz,Cablemodem,492.0
+2014,3,Santa Fe,Cablemodem,183630.0
+2014,3,Santiago Del Estero,Cablemodem,3900.0
+2014,3,Tierra Del Fuego,Cablemodem,3469.0
+2014,3,Tucumán,Cablemodem,97.0
+2014,2,Buenos Aires,Cablemodem,1025490.0
+2014,2,Capital Federal,Cablemodem,828411.0
+2014,2,Catamarca,Cablemodem,243.0
+2014,2,Chaco,Cablemodem,9870.0
+2014,2,Chubut,Cablemodem,649.0
+2014,2,Córdoba,Cablemodem,234729.0
+2014,2,Corrientes,Cablemodem,8680.0
+2014,2,Entre Ríos,Cablemodem,21706.0
+2014,2,Formosa,Cablemodem,4628.0
+2014,2,Jujuy,Cablemodem,4161.0
+2014,2,La Pampa,Cablemodem,32600.0
+2014,2,La Rioja,Cablemodem,0.0
+2014,2,Mendoza,Cablemodem,13030.0
+2014,2,Misiones,Cablemodem,17594.0
+2014,2,Neuquén,Cablemodem,29776.0
+2014,2,Río Negro,Cablemodem,24944.0
+2014,2,Salta,Cablemodem,17504.0
+2014,2,San Juan,Cablemodem,451.0
+2014,2,San Luis,Cablemodem,925.0
+2014,2,Santa Cruz,Cablemodem,448.0
+2014,2,Santa Fe,Cablemodem,178495.0
+2014,2,Santiago Del Estero,Cablemodem,4231.0
+2014,2,Tierra Del Fuego,Cablemodem,3008.0
+2014,2,Tucumán,Cablemodem,97.0
+2014,1,Buenos Aires,Cablemodem,1000879.0
+2014,1,Capital Federal,Cablemodem,820161.0
+2014,1,Catamarca,Cablemodem,46.0
+2014,1,Chaco,Cablemodem,9497.0
+2014,1,Chubut,Cablemodem,539.0
+2014,1,Córdoba,Cablemodem,225769.0
+2014,1,Corrientes,Cablemodem,8279.0
+2014,1,Entre Ríos,Cablemodem,21379.0
+2014,1,Formosa,Cablemodem,4548.0
+2014,1,Jujuy,Cablemodem,4030.0
+2014,1,La Pampa,Cablemodem,31305.0
+2014,1,La Rioja,Cablemodem,0.0
+2014,1,Mendoza,Cablemodem,12076.0
+2014,1,Misiones,Cablemodem,17191.0
+2014,1,Neuquén,Cablemodem,28161.0
+2014,1,Río Negro,Cablemodem,24156.0
+2014,1,Salta,Cablemodem,17538.0
+2014,1,San Juan,Cablemodem,434.0
+2014,1,San Luis,Cablemodem,428.0
+2014,1,Santa Cruz,Cablemodem,100.0
+2014,1,Santa Fe,Cablemodem,174296.0
+2014,1,Santiago Del Estero,Cablemodem,3598.0
+2014,1,Tierra Del Fuego,Cablemodem,2837.0
+2014,1,Tucumán,Cablemodem,83.0
+2022,2,Buenos Aires,Fibra óptica,1399043.0
+2022,2,Capital Federal,Fibra óptica,121506.0
+2022,2,Catamarca,Fibra óptica,42087.0
+2022,2,Chaco,Fibra óptica,42194.0
+2022,2,Chubut,Fibra óptica,9574.0
+2022,2,Córdoba,Fibra óptica,308895.0
+2022,2,Corrientes,Fibra óptica,18181.0
+2022,2,Entre Ríos,Fibra óptica,35839.0
+2022,2,Formosa,Fibra óptica,9875.0
+2022,2,Jujuy,Fibra óptica,34184.0
+2022,2,La Pampa,Fibra óptica,22994.0
+2022,2,La Rioja,Fibra óptica,19189.0
+2022,2,Mendoza,Fibra óptica,135504.0
+2022,2,Misiones,Fibra óptica,33649.0
+2022,2,Neuquén,Fibra óptica,28824.0
+2022,2,Río Negro,Fibra óptica,40946.0
+2022,2,Salta,Fibra óptica,47076.0
+2022,2,San Juan,Fibra óptica,12328.0
+2022,2,San Luis,Fibra óptica,248.0
+2022,2,Santa Cruz,Fibra óptica,10815.0
+2022,2,Santa Fe,Fibra óptica,189503.0
+2022,2,Santiago Del Estero,Fibra óptica,11605.0
+2022,2,Tierra Del Fuego,Fibra óptica,403.0
+2022,2,Tucumán,Fibra óptica,148823.0
+2022,1,Buenos Aires,Fibra óptica,1242121.0
+2022,1,Capital Federal,Fibra óptica,62308.0
+2022,1,Catamarca,Fibra óptica,29118.0
+2022,1,Chaco,Fibra óptica,36662.0
+2022,1,Chubut,Fibra óptica,9184.0
+2022,1,Córdoba,Fibra óptica,235838.0
+2022,1,Corrientes,Fibra óptica,10875.0
+2022,1,Entre Ríos,Fibra óptica,23091.0
+2022,1,Formosa,Fibra óptica,5146.0
+2022,1,Jujuy,Fibra óptica,25949.0
+2022,1,La Pampa,Fibra óptica,21739.0
+2022,1,La Rioja,Fibra óptica,9546.0
+2022,1,Mendoza,Fibra óptica,123228.0
+2022,1,Misiones,Fibra óptica,25178.0
+2022,1,Neuquén,Fibra óptica,24193.0
+2022,1,Río Negro,Fibra óptica,38037.0
+2022,1,Salta,Fibra óptica,40994.0
+2022,1,San Juan,Fibra óptica,11294.0
+2022,1,San Luis,Fibra óptica,31.0
+2022,1,Santa Cruz,Fibra óptica,10766.0
+2022,1,Santa Fe,Fibra óptica,146552.0
+2022,1,Santiago Del Estero,Fibra óptica,1093.0
+2022,1,Tierra Del Fuego,Fibra óptica,416.0
+2022,1,Tucumán,Fibra óptica,86174.0
+2021,4,Buenos Aires,Fibra óptica,1176024.0
+2021,4,Capital Federal,Fibra óptica,60005.0
+2021,4,Catamarca,Fibra óptica,25100.0
+2021,4,Chaco,Fibra óptica,34688.0
+2021,4,Chubut,Fibra óptica,9655.0
+2021,4,Córdoba,Fibra óptica,217214.0
+2021,4,Corrientes,Fibra óptica,10138.0
+2021,4,Entre Ríos,Fibra óptica,23452.0
+2021,4,Formosa,Fibra óptica,5151.0
+2021,4,Jujuy,Fibra óptica,24156.0
+2021,4,La Pampa,Fibra óptica,20192.0
+2021,4,La Rioja,Fibra óptica,9446.0
+2021,4,Mendoza,Fibra óptica,109667.0
+2021,4,Misiones,Fibra óptica,22035.0
+2021,4,Neuquén,Fibra óptica,23253.0
+2021,4,Río Negro,Fibra óptica,32212.0
+2021,4,Salta,Fibra óptica,39555.0
+2021,4,San Juan,Fibra óptica,11072.0
+2021,4,San Luis,Fibra óptica,30.0
+2021,4,Santa Cruz,Fibra óptica,10031.0
+2021,4,Santa Fe,Fibra óptica,128856.0
+2021,4,Santiago Del Estero,Fibra óptica,1088.0
+2021,4,Tierra Del Fuego,Fibra óptica,426.0
+2021,4,Tucumán,Fibra óptica,78790.0
+2021,3,Buenos Aires,Fibra óptica,885613.0
+2021,3,Capital Federal,Fibra óptica,42966.0
+2021,3,Catamarca,Fibra óptica,22331.0
+2021,3,Chaco,Fibra óptica,27583.0
+2021,3,Chubut,Fibra óptica,8946.0
+2021,3,Córdoba,Fibra óptica,167495.0
+2021,3,Corrientes,Fibra óptica,7542.0
+2021,3,Entre Ríos,Fibra óptica,20485.0
+2021,3,Formosa,Fibra óptica,4730.0
+2021,3,Jujuy,Fibra óptica,19926.0
+2021,3,La Pampa,Fibra óptica,17817.0
+2021,3,La Rioja,Fibra óptica,9444.0
+2021,3,Mendoza,Fibra óptica,70579.0
+2021,3,Misiones,Fibra óptica,10969.0
+2021,3,Neuquén,Fibra óptica,16455.0
+2021,3,Río Negro,Fibra óptica,18725.0
+2021,3,Salta,Fibra óptica,36126.0
+2021,3,San Juan,Fibra óptica,6670.0
+2021,3,San Luis,Fibra óptica,27.0
+2021,3,Santa Cruz,Fibra óptica,6328.0
+2021,3,Santa Fe,Fibra óptica,93412.0
+2021,3,Santiago Del Estero,Fibra óptica,909.0
+2021,3,Tierra Del Fuego,Fibra óptica,6.0
+2021,3,Tucumán,Fibra óptica,70964.0
+2021,2,Buenos Aires,Fibra óptica,854173.0
+2021,2,Capital Federal,Fibra óptica,41318.0
+2021,2,Catamarca,Fibra óptica,22331.0
+2021,2,Chaco,Fibra óptica,27584.0
+2021,2,Chubut,Fibra óptica,6081.0
+2021,2,Córdoba,Fibra óptica,151855.0
+2021,2,Corrientes,Fibra óptica,3731.0
+2021,2,Entre Ríos,Fibra óptica,17856.0
+2021,2,Formosa,Fibra óptica,3610.0
+2021,2,Jujuy,Fibra óptica,19611.0
+2021,2,La Pampa,Fibra óptica,17132.0
+2021,2,La Rioja,Fibra óptica,9445.0
+2021,2,Mendoza,Fibra óptica,44696.0
+2021,2,Misiones,Fibra óptica,10376.0
+2021,2,Neuquén,Fibra óptica,15619.0
+2021,2,Río Negro,Fibra óptica,18727.0
+2021,2,Salta,Fibra óptica,32050.0
+2021,2,San Juan,Fibra óptica,6673.0
+2021,2,San Luis,Fibra óptica,28.0
+2021,2,Santa Cruz,Fibra óptica,6328.0
+2021,2,Santa Fe,Fibra óptica,90424.0
+2021,2,Santiago Del Estero,Fibra óptica,909.0
+2021,2,Tierra Del Fuego,Fibra óptica,6.0
+2021,2,Tucumán,Fibra óptica,71683.0
+2021,1,Buenos Aires,Fibra óptica,821597.0
+2021,1,Capital Federal,Fibra óptica,39980.0
+2021,1,Catamarca,Fibra óptica,18688.0
+2021,1,Chaco,Fibra óptica,25426.0
+2021,1,Chubut,Fibra óptica,3444.0
+2021,1,Córdoba,Fibra óptica,134634.0
+2021,1,Corrientes,Fibra óptica,3337.0
+2021,1,Entre Ríos,Fibra óptica,16846.0
+2021,1,Formosa,Fibra óptica,2562.0
+2021,1,Jujuy,Fibra óptica,17322.0
+2021,1,La Pampa,Fibra óptica,15779.0
+2021,1,La Rioja,Fibra óptica,1.0
+2021,1,Mendoza,Fibra óptica,38619.0
+2021,1,Misiones,Fibra óptica,7064.0
+2021,1,Neuquén,Fibra óptica,14171.0
+2021,1,Río Negro,Fibra óptica,17828.0
+2021,1,Salta,Fibra óptica,31498.0
+2021,1,San Juan,Fibra óptica,6671.0
+2021,1,San Luis,Fibra óptica,28.0
+2021,1,Santa Cruz,Fibra óptica,5975.0
+2021,1,Santa Fe,Fibra óptica,70976.0
+2021,1,Santiago Del Estero,Fibra óptica,570.0
+2021,1,Tierra Del Fuego,Fibra óptica,6.0
+2021,1,Tucumán,Fibra óptica,69954.0
+2020,4,Buenos Aires,Fibra óptica,804991.0
+2020,4,Capital Federal,Fibra óptica,39890.0
+2020,4,Catamarca,Fibra óptica,17856.0
+2020,4,Chaco,Fibra óptica,23687.0
+2020,4,Chubut,Fibra óptica,3040.0
+2020,4,Córdoba,Fibra óptica,125620.0
+2020,4,Corrientes,Fibra óptica,3146.0
+2020,4,Entre Ríos,Fibra óptica,15653.0
+2020,4,Formosa,Fibra óptica,2432.0
+2020,4,Jujuy,Fibra óptica,15639.0
+2020,4,La Pampa,Fibra óptica,15432.0
+2020,4,La Rioja,Fibra óptica,1.0
+2020,4,Mendoza,Fibra óptica,36083.0
+2020,4,Misiones,Fibra óptica,6589.0
+2020,4,Neuquén,Fibra óptica,13732.0
+2020,4,Río Negro,Fibra óptica,17826.0
+2020,4,Salta,Fibra óptica,30604.0
+2020,4,San Juan,Fibra óptica,6599.0
+2020,4,San Luis,Fibra óptica,27.0
+2020,4,Santa Cruz,Fibra óptica,1041.0
+2020,4,Santa Fe,Fibra óptica,62692.0
+2020,4,Santiago Del Estero,Fibra óptica,570.0
+2020,4,Tierra Del Fuego,Fibra óptica,6.0
+2020,4,Tucumán,Fibra óptica,68043.0
+2020,3,Buenos Aires,Fibra óptica,749087.0
+2020,3,Capital Federal,Fibra óptica,39417.0
+2020,3,Catamarca,Fibra óptica,16857.0
+2020,3,Chaco,Fibra óptica,20675.0
+2020,3,Chubut,Fibra óptica,2897.0
+2020,3,Córdoba,Fibra óptica,102217.0
+2020,3,Corrientes,Fibra óptica,2960.0
+2020,3,Entre Ríos,Fibra óptica,13954.0
+2020,3,Formosa,Fibra óptica,2000.0
+2020,3,Jujuy,Fibra óptica,11112.0
+2020,3,La Pampa,Fibra óptica,14677.0
+2020,3,La Rioja,Fibra óptica,1.0
+2020,3,Mendoza,Fibra óptica,32817.0
+2020,3,Misiones,Fibra óptica,2572.0
+2020,3,Neuquén,Fibra óptica,11043.0
+2020,3,Río Negro,Fibra óptica,10381.0
+2020,3,Salta,Fibra óptica,25445.0
+2020,3,San Juan,Fibra óptica,5509.0
+2020,3,San Luis,Fibra óptica,6.0
+2020,3,Santa Cruz,Fibra óptica,1027.0
+2020,3,Santa Fe,Fibra óptica,45721.0
+2020,3,Santiago Del Estero,Fibra óptica,555.0
+2020,3,Tierra Del Fuego,Fibra óptica,0.0
+2020,3,Tucumán,Fibra óptica,59949.0
+2020,2,Buenos Aires,Fibra óptica,723072.0
+2020,2,Capital Federal,Fibra óptica,39482.0
+2020,2,Catamarca,Fibra óptica,14878.0
+2020,2,Chaco,Fibra óptica,17266.0
+2020,2,Chubut,Fibra óptica,1324.0
+2020,2,Córdoba,Fibra óptica,85818.0
+2020,2,Corrientes,Fibra óptica,3144.0
+2020,2,Entre Ríos,Fibra óptica,13954.0
+2020,2,Formosa,Fibra óptica,1882.0
+2020,2,Jujuy,Fibra óptica,5057.0
+2020,2,La Pampa,Fibra óptica,14232.0
+2020,2,La Rioja,Fibra óptica,1.0
+2020,2,Mendoza,Fibra óptica,29613.0
+2020,2,Misiones,Fibra óptica,2579.0
+2020,2,Neuquén,Fibra óptica,11037.0
+2020,2,Río Negro,Fibra óptica,10382.0
+2020,2,Salta,Fibra óptica,24289.0
+2020,2,San Juan,Fibra óptica,5509.0
+2020,2,San Luis,Fibra óptica,6.0
+2020,2,Santa Cruz,Fibra óptica,1027.0
+2020,2,Santa Fe,Fibra óptica,46698.0
+2020,2,Santiago Del Estero,Fibra óptica,355.0
+2020,2,Tierra Del Fuego,Fibra óptica,0.0
+2020,2,Tucumán,Fibra óptica,55120.0
+2020,1,Buenos Aires,Fibra óptica,720688.0
+2020,1,Capital Federal,Fibra óptica,38898.0
+2020,1,Catamarca,Fibra óptica,12056.0
+2020,1,Chaco,Fibra óptica,11958.0
+2020,1,Chubut,Fibra óptica,1324.0
+2020,1,Córdoba,Fibra óptica,68512.0
+2020,1,Corrientes,Fibra óptica,2172.0
+2020,1,Entre Ríos,Fibra óptica,13245.0
+2020,1,Formosa,Fibra óptica,1800.0
+2020,1,Jujuy,Fibra óptica,3078.0
+2020,1,La Pampa,Fibra óptica,13821.0
+2020,1,La Rioja,Fibra óptica,0.0
+2020,1,Mendoza,Fibra óptica,28059.0
+2020,1,Misiones,Fibra óptica,1220.0
+2020,1,Neuquén,Fibra óptica,11031.0
+2020,1,Río Negro,Fibra óptica,10381.0
+2020,1,Salta,Fibra óptica,23025.0
+2020,1,San Juan,Fibra óptica,5508.0
+2020,1,San Luis,Fibra óptica,5.0
+2020,1,Santa Cruz,Fibra óptica,1026.0
+2020,1,Santa Fe,Fibra óptica,35123.0
+2020,1,Santiago Del Estero,Fibra óptica,200.0
+2020,1,Tierra Del Fuego,Fibra óptica,0.0
+2020,1,Tucumán,Fibra óptica,44687.0
+2019,4,Buenos Aires,Fibra óptica,669194.0
+2019,4,Capital Federal,Fibra óptica,35534.0
+2019,4,Catamarca,Fibra óptica,9506.0
+2019,4,Chaco,Fibra óptica,8831.0
+2019,4,Chubut,Fibra óptica,1324.0
+2019,4,Córdoba,Fibra óptica,53335.0
+2019,4,Corrientes,Fibra óptica,2002.0
+2019,4,Entre Ríos,Fibra óptica,12875.0
+2019,4,Formosa,Fibra óptica,1760.0
+2019,4,Jujuy,Fibra óptica,873.0
+2019,4,La Pampa,Fibra óptica,4942.0
+2019,4,La Rioja,Fibra óptica,0.0
+2019,4,Mendoza,Fibra óptica,24989.0
+2019,4,Misiones,Fibra óptica,847.0
+2019,4,Neuquén,Fibra óptica,10549.0
+2019,4,Río Negro,Fibra óptica,9658.0
+2019,4,Salta,Fibra óptica,21865.0
+2019,4,San Juan,Fibra óptica,4931.0
+2019,4,San Luis,Fibra óptica,6.0
+2019,4,Santa Cruz,Fibra óptica,1036.0
+2019,4,Santa Fe,Fibra óptica,27464.0
+2019,4,Santiago Del Estero,Fibra óptica,200.0
+2019,4,Tierra Del Fuego,Fibra óptica,0.0
+2019,4,Tucumán,Fibra óptica,39574.0
+2019,3,Buenos Aires,Fibra óptica,425386.0
+2019,3,Capital Federal,Fibra óptica,24900.0
+2019,3,Catamarca,Fibra óptica,13.0
+2019,3,Chaco,Fibra óptica,8063.0
+2019,3,Chubut,Fibra óptica,1917.0
+2019,3,Córdoba,Fibra óptica,30064.0
+2019,3,Corrientes,Fibra óptica,1888.0
+2019,3,Entre Ríos,Fibra óptica,12888.0
+2019,3,Formosa,Fibra óptica,1476.0
+2019,3,Jujuy,Fibra óptica,274.0
+2019,3,La Pampa,Fibra óptica,4994.0
+2019,3,La Rioja,Fibra óptica,11.0
+2019,3,Mendoza,Fibra óptica,6865.0
+2019,3,Misiones,Fibra óptica,829.0
+2019,3,Neuquén,Fibra óptica,5560.0
+2019,3,Río Negro,Fibra óptica,9739.0
+2019,3,Salta,Fibra óptica,733.0
+2019,3,San Juan,Fibra óptica,1227.0
+2019,3,San Luis,Fibra óptica,350.0
+2019,3,Santa Cruz,Fibra óptica,969.0
+2019,3,Santa Fe,Fibra óptica,18690.0
+2019,3,Santiago Del Estero,Fibra óptica,219.0
+2019,3,Tierra Del Fuego,Fibra óptica,651.0
+2019,3,Tucumán,Fibra óptica,116.0
+2019,2,Buenos Aires,Fibra óptica,382971.0
+2019,2,Capital Federal,Fibra óptica,36082.0
+2019,2,Catamarca,Fibra óptica,13.0
+2019,2,Chaco,Fibra óptica,4203.0
+2019,2,Chubut,Fibra óptica,1917.0
+2019,2,Córdoba,Fibra óptica,23023.0
+2019,2,Corrientes,Fibra óptica,1701.0
+2019,2,Entre Ríos,Fibra óptica,12764.0
+2019,2,Formosa,Fibra óptica,1382.0
+2019,2,Jujuy,Fibra óptica,274.0
+2019,2,La Pampa,Fibra óptica,4840.0
+2019,2,La Rioja,Fibra óptica,11.0
+2019,2,Mendoza,Fibra óptica,6865.0
+2019,2,Misiones,Fibra óptica,543.0
+2019,2,Neuquén,Fibra óptica,4983.0
+2019,2,Río Negro,Fibra óptica,4037.0
+2019,2,Salta,Fibra óptica,725.0
+2019,2,San Juan,Fibra óptica,1174.0
+2019,2,San Luis,Fibra óptica,347.0
+2019,2,Santa Cruz,Fibra óptica,379.0
+2019,2,Santa Fe,Fibra óptica,18236.0
+2019,2,Santiago Del Estero,Fibra óptica,219.0
+2019,2,Tierra Del Fuego,Fibra óptica,651.0
+2019,2,Tucumán,Fibra óptica,116.0
+2019,1,Buenos Aires,Fibra óptica,336362.0
+2019,1,Capital Federal,Fibra óptica,32281.0
+2019,1,Catamarca,Fibra óptica,16.0
+2019,1,Chaco,Fibra óptica,1951.0
+2019,1,Chubut,Fibra óptica,1923.0
+2019,1,Córdoba,Fibra óptica,19902.0
+2019,1,Corrientes,Fibra óptica,1615.0
+2019,1,Entre Ríos,Fibra óptica,12723.0
+2019,1,Formosa,Fibra óptica,940.0
+2019,1,Jujuy,Fibra óptica,153.0
+2019,1,La Pampa,Fibra óptica,2891.0
+2019,1,La Rioja,Fibra óptica,12.0
+2019,1,Mendoza,Fibra óptica,5662.0
+2019,1,Misiones,Fibra óptica,465.0
+2019,1,Neuquén,Fibra óptica,3114.0
+2019,1,Río Negro,Fibra óptica,3994.0
+2019,1,Salta,Fibra óptica,647.0
+2019,1,San Juan,Fibra óptica,808.0
+2019,1,San Luis,Fibra óptica,378.0
+2019,1,Santa Cruz,Fibra óptica,382.0
+2019,1,Santa Fe,Fibra óptica,15621.0
+2019,1,Santiago Del Estero,Fibra óptica,23.0
+2019,1,Tierra Del Fuego,Fibra óptica,1623.0
+2019,1,Tucumán,Fibra óptica,118.0
+2018,4,Buenos Aires,Fibra óptica,296102.0
+2018,4,Capital Federal,Fibra óptica,33042.0
+2018,4,Catamarca,Fibra óptica,16.0
+2018,4,Chaco,Fibra óptica,1940.0
+2018,4,Chubut,Fibra óptica,952.0
+2018,4,Córdoba,Fibra óptica,17675.0
+2018,4,Corrientes,Fibra óptica,796.0
+2018,4,Entre Ríos,Fibra óptica,4853.0
+2018,4,Formosa,Fibra óptica,887.0
+2018,4,Jujuy,Fibra óptica,153.0
+2018,4,La Pampa,Fibra óptica,2685.0
+2018,4,La Rioja,Fibra óptica,12.0
+2018,4,Mendoza,Fibra óptica,5665.0
+2018,4,Misiones,Fibra óptica,465.0
+2018,4,Neuquén,Fibra óptica,3115.0
+2018,4,Río Negro,Fibra óptica,1299.0
+2018,4,Salta,Fibra óptica,638.0
+2018,4,San Juan,Fibra óptica,806.0
+2018,4,San Luis,Fibra óptica,378.0
+2018,4,Santa Cruz,Fibra óptica,382.0
+2018,4,Santa Fe,Fibra óptica,14387.0
+2018,4,Santiago Del Estero,Fibra óptica,23.0
+2018,4,Tierra Del Fuego,Fibra óptica,1623.0
+2018,4,Tucumán,Fibra óptica,119.0
+2018,3,Buenos Aires,Fibra óptica,156382.0
+2018,3,Capital Federal,Fibra óptica,35694.0
+2018,3,Catamarca,Fibra óptica,15.0
+2018,3,Chaco,Fibra óptica,1990.0
+2018,3,Chubut,Fibra óptica,1239.0
+2018,3,Córdoba,Fibra óptica,15785.0
+2018,3,Corrientes,Fibra óptica,212.0
+2018,3,Entre Ríos,Fibra óptica,2403.0
+2018,3,Formosa,Fibra óptica,817.0
+2018,3,Jujuy,Fibra óptica,32.0
+2018,3,La Pampa,Fibra óptica,8437.0
+2018,3,La Rioja,Fibra óptica,13.0
+2018,3,Mendoza,Fibra óptica,5744.0
+2018,3,Misiones,Fibra óptica,512.0
+2018,3,Neuquén,Fibra óptica,998.0
+2018,3,Río Negro,Fibra óptica,1252.0
+2018,3,Salta,Fibra óptica,678.0
+2018,3,San Juan,Fibra óptica,826.0
+2018,3,San Luis,Fibra óptica,368.0
+2018,3,Santa Cruz,Fibra óptica,585.0
+2018,3,Santa Fe,Fibra óptica,11749.0
+2018,3,Santiago Del Estero,Fibra óptica,23.0
+2018,3,Tierra Del Fuego,Fibra óptica,1502.0
+2018,3,Tucumán,Fibra óptica,110.0
+2018,2,Buenos Aires,Fibra óptica,143626.0
+2018,2,Capital Federal,Fibra óptica,35610.0
+2018,2,Catamarca,Fibra óptica,15.0
+2018,2,Chaco,Fibra óptica,562.0
+2018,2,Chubut,Fibra óptica,1239.0
+2018,2,Córdoba,Fibra óptica,13832.0
+2018,2,Corrientes,Fibra óptica,201.0
+2018,2,Entre Ríos,Fibra óptica,2405.0
+2018,2,Formosa,Fibra óptica,18.0
+2018,2,Jujuy,Fibra óptica,23.0
+2018,2,La Pampa,Fibra óptica,8420.0
+2018,2,La Rioja,Fibra óptica,13.0
+2018,2,Mendoza,Fibra óptica,3084.0
+2018,2,Misiones,Fibra óptica,512.0
+2018,2,Neuquén,Fibra óptica,998.0
+2018,2,Río Negro,Fibra óptica,1252.0
+2018,2,Salta,Fibra óptica,678.0
+2018,2,San Juan,Fibra óptica,826.0
+2018,2,San Luis,Fibra óptica,368.0
+2018,2,Santa Cruz,Fibra óptica,585.0
+2018,2,Santa Fe,Fibra óptica,11354.0
+2018,2,Santiago Del Estero,Fibra óptica,23.0
+2018,2,Tierra Del Fuego,Fibra óptica,531.0
+2018,2,Tucumán,Fibra óptica,110.0
+2018,1,Buenos Aires,Fibra óptica,133928.0
+2018,1,Capital Federal,Fibra óptica,35535.0
+2018,1,Catamarca,Fibra óptica,15.0
+2018,1,Chaco,Fibra óptica,383.0
+2018,1,Chubut,Fibra óptica,1194.0
+2018,1,Córdoba,Fibra óptica,13178.0
+2018,1,Corrientes,Fibra óptica,888.0
+2018,1,Entre Ríos,Fibra óptica,3789.0
+2018,1,Formosa,Fibra óptica,17.0
+2018,1,Jujuy,Fibra óptica,23.0
+2018,1,La Pampa,Fibra óptica,8386.0
+2018,1,La Rioja,Fibra óptica,13.0
+2018,1,Mendoza,Fibra óptica,3086.0
+2018,1,Misiones,Fibra óptica,328.0
+2018,1,Neuquén,Fibra óptica,1000.0
+2018,1,Río Negro,Fibra óptica,1251.0
+2018,1,Salta,Fibra óptica,118.0
+2018,1,San Juan,Fibra óptica,826.0
+2018,1,San Luis,Fibra óptica,368.0
+2018,1,Santa Cruz,Fibra óptica,1799.0
+2018,1,Santa Fe,Fibra óptica,10674.0
+2018,1,Santiago Del Estero,Fibra óptica,23.0
+2018,1,Tierra Del Fuego,Fibra óptica,531.0
+2018,1,Tucumán,Fibra óptica,107.0
+2017,4,Buenos Aires,Fibra óptica,131181.0
+2017,4,Capital Federal,Fibra óptica,36277.0
+2017,4,Catamarca,Fibra óptica,11.0
+2017,4,Chaco,Fibra óptica,389.0
+2017,4,Chubut,Fibra óptica,1187.0
+2017,4,Córdoba,Fibra óptica,12778.0
+2017,4,Corrientes,Fibra óptica,894.0
+2017,4,Entre Ríos,Fibra óptica,1894.0
+2017,4,Formosa,Fibra óptica,19.0
+2017,4,Jujuy,Fibra óptica,20.0
+2017,4,La Pampa,Fibra óptica,8272.0
+2017,4,La Rioja,Fibra óptica,14.0
+2017,4,Mendoza,Fibra óptica,3015.0
+2017,4,Misiones,Fibra óptica,95.0
+2017,4,Neuquén,Fibra óptica,1017.0
+2017,4,Río Negro,Fibra óptica,1250.0
+2017,4,Salta,Fibra óptica,127.0
+2017,4,San Juan,Fibra óptica,812.0
+2017,4,San Luis,Fibra óptica,335.0
+2017,4,Santa Cruz,Fibra óptica,582.0
+2017,4,Santa Fe,Fibra óptica,10602.0
+2017,4,Santiago Del Estero,Fibra óptica,19.0
+2017,4,Tierra Del Fuego,Fibra óptica,530.0
+2017,4,Tucumán,Fibra óptica,105.0
+2017,3,Buenos Aires,Fibra óptica,124920.0
+2017,3,Capital Federal,Fibra óptica,33481.0
+2017,3,Catamarca,Fibra óptica,12.0
+2017,3,Chaco,Fibra óptica,456.0
+2017,3,Chubut,Fibra óptica,1217.0
+2017,3,Córdoba,Fibra óptica,10579.0
+2017,3,Corrientes,Fibra óptica,947.0
+2017,3,Entre Ríos,Fibra óptica,1786.0
+2017,3,Formosa,Fibra óptica,428.0
+2017,3,Jujuy,Fibra óptica,20.0
+2017,3,La Pampa,Fibra óptica,5153.0
+2017,3,La Rioja,Fibra óptica,14.0
+2017,3,Mendoza,Fibra óptica,2772.0
+2017,3,Misiones,Fibra óptica,110.0
+2017,3,Neuquén,Fibra óptica,1044.0
+2017,3,Río Negro,Fibra óptica,1106.0
+2017,3,Salta,Fibra óptica,127.0
+2017,3,San Juan,Fibra óptica,816.0
+2017,3,San Luis,Fibra óptica,347.0
+2017,3,Santa Cruz,Fibra óptica,1544.0
+2017,3,Santa Fe,Fibra óptica,6338.0
+2017,3,Santiago Del Estero,Fibra óptica,19.0
+2017,3,Tierra Del Fuego,Fibra óptica,622.0
+2017,3,Tucumán,Fibra óptica,106.0
+2017,2,Buenos Aires,Fibra óptica,119132.0
+2017,2,Capital Federal,Fibra óptica,38628.0
+2017,2,Catamarca,Fibra óptica,14.0
+2017,2,Chaco,Fibra óptica,458.0
+2017,2,Chubut,Fibra óptica,916.0
+2017,2,Córdoba,Fibra óptica,4451.0
+2017,2,Corrientes,Fibra óptica,258.0
+2017,2,Entre Ríos,Fibra óptica,254.0
+2017,2,Formosa,Fibra óptica,17.0
+2017,2,Jujuy,Fibra óptica,22.0
+2017,2,La Pampa,Fibra óptica,5194.0
+2017,2,La Rioja,Fibra óptica,15.0
+2017,2,Mendoza,Fibra óptica,2581.0
+2017,2,Misiones,Fibra óptica,103.0
+2017,2,Neuquén,Fibra óptica,1133.0
+2017,2,Río Negro,Fibra óptica,961.0
+2017,2,Salta,Fibra óptica,115.0
+2017,2,San Juan,Fibra óptica,772.0
+2017,2,San Luis,Fibra óptica,354.0
+2017,2,Santa Cruz,Fibra óptica,1365.0
+2017,2,Santa Fe,Fibra óptica,3234.0
+2017,2,Santiago Del Estero,Fibra óptica,19.0
+2017,2,Tierra Del Fuego,Fibra óptica,665.0
+2017,2,Tucumán,Fibra óptica,116.0
+2017,1,Buenos Aires,Fibra óptica,118839.0
+2017,1,Capital Federal,Fibra óptica,38259.0
+2017,1,Catamarca,Fibra óptica,14.0
+2017,1,Chaco,Fibra óptica,252.0
+2017,1,Chubut,Fibra óptica,916.0
+2017,1,Córdoba,Fibra óptica,4871.0
+2017,1,Corrientes,Fibra óptica,236.0
+2017,1,Entre Ríos,Fibra óptica,230.0
+2017,1,Formosa,Fibra óptica,16.0
+2017,1,Jujuy,Fibra óptica,22.0
+2017,1,La Pampa,Fibra óptica,5194.0
+2017,1,La Rioja,Fibra óptica,15.0
+2017,1,Mendoza,Fibra óptica,2581.0
+2017,1,Misiones,Fibra óptica,101.0
+2017,1,Neuquén,Fibra óptica,1124.0
+2017,1,Río Negro,Fibra óptica,954.0
+2017,1,Salta,Fibra óptica,114.0
+2017,1,San Juan,Fibra óptica,772.0
+2017,1,San Luis,Fibra óptica,354.0
+2017,1,Santa Cruz,Fibra óptica,1272.0
+2017,1,Santa Fe,Fibra óptica,3210.0
+2017,1,Santiago Del Estero,Fibra óptica,19.0
+2017,1,Tierra Del Fuego,Fibra óptica,665.0
+2017,1,Tucumán,Fibra óptica,116.0
+2016,4,Buenos Aires,Fibra óptica,118747.0
+2016,4,Capital Federal,Fibra óptica,38161.0
+2016,4,Catamarca,Fibra óptica,14.0
+2016,4,Chaco,Fibra óptica,248.0
+2016,4,Chubut,Fibra óptica,916.0
+2016,4,Córdoba,Fibra óptica,3368.0
+2016,4,Corrientes,Fibra óptica,233.0
+2016,4,Entre Ríos,Fibra óptica,226.0
+2016,4,Formosa,Fibra óptica,16.0
+2016,4,Jujuy,Fibra óptica,22.0
+2016,4,La Pampa,Fibra óptica,5054.0
+2016,4,La Rioja,Fibra óptica,16.0
+2016,4,Mendoza,Fibra óptica,2579.0
+2016,4,Misiones,Fibra óptica,100.0
+2016,4,Neuquén,Fibra óptica,1124.0
+2016,4,Río Negro,Fibra óptica,954.0
+2016,4,Salta,Fibra óptica,110.0
+2016,4,San Juan,Fibra óptica,772.0
+2016,4,San Luis,Fibra óptica,354.0
+2016,4,Santa Cruz,Fibra óptica,1055.0
+2016,4,Santa Fe,Fibra óptica,3201.0
+2016,4,Santiago Del Estero,Fibra óptica,19.0
+2016,4,Tierra Del Fuego,Fibra óptica,665.0
+2016,4,Tucumán,Fibra óptica,116.0
+2016,3,Buenos Aires,Fibra óptica,113463.0
+2016,3,Capital Federal,Fibra óptica,36796.0
+2016,3,Catamarca,Fibra óptica,14.0
+2016,3,Chaco,Fibra óptica,232.0
+2016,3,Chubut,Fibra óptica,916.0
+2016,3,Córdoba,Fibra óptica,2540.0
+2016,3,Corrientes,Fibra óptica,217.0
+2016,3,Entre Ríos,Fibra óptica,206.0
+2016,3,Formosa,Fibra óptica,9.0
+2016,3,Jujuy,Fibra óptica,22.0
+2016,3,La Pampa,Fibra óptica,4910.0
+2016,3,La Rioja,Fibra óptica,15.0
+2016,3,Mendoza,Fibra óptica,2576.0
+2016,3,Misiones,Fibra óptica,79.0
+2016,3,Neuquén,Fibra óptica,1093.0
+2016,3,Río Negro,Fibra óptica,942.0
+2016,3,Salta,Fibra óptica,90.0
+2016,3,San Juan,Fibra óptica,770.0
+2016,3,San Luis,Fibra óptica,354.0
+2016,3,Santa Cruz,Fibra óptica,817.0
+2016,3,Santa Fe,Fibra óptica,3037.0
+2016,3,Santiago Del Estero,Fibra óptica,19.0
+2016,3,Tierra Del Fuego,Fibra óptica,665.0
+2016,3,Tucumán,Fibra óptica,116.0
+2016,2,Buenos Aires,Fibra óptica,113070.0
+2016,2,Capital Federal,Fibra óptica,36669.0
+2016,2,Catamarca,Fibra óptica,14.0
+2016,2,Chaco,Fibra óptica,221.0
+2016,2,Chubut,Fibra óptica,916.0
+2016,2,Córdoba,Fibra óptica,1709.0
+2016,2,Corrientes,Fibra óptica,203.0
+2016,2,Entre Ríos,Fibra óptica,169.0
+2016,2,Formosa,Fibra óptica,6.0
+2016,2,Jujuy,Fibra óptica,22.0
+2016,2,La Pampa,Fibra óptica,4708.0
+2016,2,La Rioja,Fibra óptica,15.0
+2016,2,Mendoza,Fibra óptica,2576.0
+2016,2,Misiones,Fibra óptica,77.0
+2016,2,Neuquén,Fibra óptica,1088.0
+2016,2,Río Negro,Fibra óptica,939.0
+2016,2,Salta,Fibra óptica,85.0
+2016,2,San Juan,Fibra óptica,770.0
+2016,2,San Luis,Fibra óptica,354.0
+2016,2,Santa Cruz,Fibra óptica,396.0
+2016,2,Santa Fe,Fibra óptica,2981.0
+2016,2,Santiago Del Estero,Fibra óptica,19.0
+2016,2,Tierra Del Fuego,Fibra óptica,665.0
+2016,2,Tucumán,Fibra óptica,116.0
+2016,1,Buenos Aires,Fibra óptica,111231.0
+2016,1,Capital Federal,Fibra óptica,36332.0
+2016,1,Catamarca,Fibra óptica,15.0
+2016,1,Chaco,Fibra óptica,211.0
+2016,1,Chubut,Fibra óptica,916.0
+2016,1,Córdoba,Fibra óptica,674.0
+2016,1,Corrientes,Fibra óptica,192.0
+2016,1,Entre Ríos,Fibra óptica,146.0
+2016,1,Formosa,Fibra óptica,5.0
+2016,1,Jujuy,Fibra óptica,22.0
+2016,1,La Pampa,Fibra óptica,4536.0
+2016,1,La Rioja,Fibra óptica,16.0
+2016,1,Mendoza,Fibra óptica,2576.0
+2016,1,Misiones,Fibra óptica,70.0
+2016,1,Neuquén,Fibra óptica,1085.0
+2016,1,Río Negro,Fibra óptica,937.0
+2016,1,Salta,Fibra óptica,73.0
+2016,1,San Juan,Fibra óptica,770.0
+2016,1,San Luis,Fibra óptica,354.0
+2016,1,Santa Cruz,Fibra óptica,396.0
+2016,1,Santa Fe,Fibra óptica,3014.0
+2016,1,Santiago Del Estero,Fibra óptica,19.0
+2016,1,Tierra Del Fuego,Fibra óptica,665.0
+2016,1,Tucumán,Fibra óptica,116.0
+2015,4,Buenos Aires,Fibra óptica,103269.0
+2015,4,Capital Federal,Fibra óptica,19818.0
+2015,4,Catamarca,Fibra óptica,15.0
+2015,4,Chaco,Fibra óptica,186.0
+2015,4,Chubut,Fibra óptica,916.0
+2015,4,Córdoba,Fibra óptica,480.0
+2015,4,Corrientes,Fibra óptica,177.0
+2015,4,Entre Ríos,Fibra óptica,122.0
+2015,4,Formosa,Fibra óptica,4.0
+2015,4,Jujuy,Fibra óptica,22.0
+2015,4,La Pampa,Fibra óptica,4327.0
+2015,4,La Rioja,Fibra óptica,16.0
+2015,4,Mendoza,Fibra óptica,2572.0
+2015,4,Misiones,Fibra óptica,48.0
+2015,4,Neuquén,Fibra óptica,1048.0
+2015,4,Río Negro,Fibra óptica,915.0
+2015,4,Salta,Fibra óptica,47.0
+2015,4,San Juan,Fibra óptica,770.0
+2015,4,San Luis,Fibra óptica,354.0
+2015,4,Santa Cruz,Fibra óptica,396.0
+2015,4,Santa Fe,Fibra óptica,2885.0
+2015,4,Santiago Del Estero,Fibra óptica,19.0
+2015,4,Tierra Del Fuego,Fibra óptica,665.0
+2015,4,Tucumán,Fibra óptica,116.0
+2015,3,Buenos Aires,Fibra óptica,113590.0
+2015,3,Capital Federal,Fibra óptica,30974.0
+2015,3,Catamarca,Fibra óptica,15.0
+2015,3,Chaco,Fibra óptica,186.0
+2015,3,Chubut,Fibra óptica,916.0
+2015,3,Córdoba,Fibra óptica,1450.0
+2015,3,Corrientes,Fibra óptica,176.0
+2015,3,Entre Ríos,Fibra óptica,122.0
+2015,3,Formosa,Fibra óptica,2.0
+2015,3,Jujuy,Fibra óptica,22.0
+2015,3,La Pampa,Fibra óptica,4078.0
+2015,3,La Rioja,Fibra óptica,16.0
+2015,3,Mendoza,Fibra óptica,2572.0
+2015,3,Misiones,Fibra óptica,46.0
+2015,3,Neuquén,Fibra óptica,1045.0
+2015,3,Río Negro,Fibra óptica,917.0
+2015,3,Salta,Fibra óptica,47.0
+2015,3,San Juan,Fibra óptica,770.0
+2015,3,San Luis,Fibra óptica,354.0
+2015,3,Santa Cruz,Fibra óptica,396.0
+2015,3,Santa Fe,Fibra óptica,4169.0
+2015,3,Santiago Del Estero,Fibra óptica,19.0
+2015,3,Tierra Del Fuego,Fibra óptica,665.0
+2015,3,Tucumán,Fibra óptica,116.0
+2015,2,Buenos Aires,Fibra óptica,115660.0
+2015,2,Capital Federal,Fibra óptica,19786.0
+2015,2,Catamarca,Fibra óptica,15.0
+2015,2,Chaco,Fibra óptica,179.0
+2015,2,Chubut,Fibra óptica,916.0
+2015,2,Córdoba,Fibra óptica,435.0
+2015,2,Corrientes,Fibra óptica,157.0
+2015,2,Entre Ríos,Fibra óptica,119.0
+2015,2,Formosa,Fibra óptica,2.0
+2015,2,Jujuy,Fibra óptica,22.0
+2015,2,La Pampa,Fibra óptica,3719.0
+2015,2,La Rioja,Fibra óptica,16.0
+2015,2,Mendoza,Fibra óptica,2572.0
+2015,2,Misiones,Fibra óptica,37.0
+2015,2,Neuquén,Fibra óptica,1044.0
+2015,2,Río Negro,Fibra óptica,916.0
+2015,2,Salta,Fibra óptica,47.0
+2015,2,San Juan,Fibra óptica,770.0
+2015,2,San Luis,Fibra óptica,354.0
+2015,2,Santa Cruz,Fibra óptica,396.0
+2015,2,Santa Fe,Fibra óptica,2877.0
+2015,2,Santiago Del Estero,Fibra óptica,19.0
+2015,2,Tierra Del Fuego,Fibra óptica,665.0
+2015,2,Tucumán,Fibra óptica,116.0
+2015,1,Buenos Aires,Fibra óptica,134177.0
+2015,1,Capital Federal,Fibra óptica,19334.0
+2015,1,Catamarca,Fibra óptica,16.0
+2015,1,Chaco,Fibra óptica,164.0
+2015,1,Chubut,Fibra óptica,906.0
+2015,1,Córdoba,Fibra óptica,415.0
+2015,1,Corrientes,Fibra óptica,129.0
+2015,1,Entre Ríos,Fibra óptica,108.0
+2015,1,Formosa,Fibra óptica,1.0
+2015,1,Jujuy,Fibra óptica,22.0
+2015,1,La Pampa,Fibra óptica,3215.0
+2015,1,La Rioja,Fibra óptica,16.0
+2015,1,Mendoza,Fibra óptica,2542.0
+2015,1,Misiones,Fibra óptica,30.0
+2015,1,Neuquén,Fibra óptica,1024.0
+2015,1,Río Negro,Fibra óptica,907.0
+2015,1,Salta,Fibra óptica,47.0
+2015,1,San Juan,Fibra óptica,755.0
+2015,1,San Luis,Fibra óptica,351.0
+2015,1,Santa Cruz,Fibra óptica,392.0
+2015,1,Santa Fe,Fibra óptica,2845.0
+2015,1,Santiago Del Estero,Fibra óptica,19.0
+2015,1,Tierra Del Fuego,Fibra óptica,657.0
+2015,1,Tucumán,Fibra óptica,116.0
+2014,4,Buenos Aires,Fibra óptica,120528.0
+2014,4,Capital Federal,Fibra óptica,17155.0
+2014,4,Catamarca,Fibra óptica,16.0
+2014,4,Chaco,Fibra óptica,31.0
+2014,4,Chubut,Fibra óptica,891.0
+2014,4,Córdoba,Fibra óptica,419.0
+2014,4,Corrientes,Fibra óptica,40.0
+2014,4,Entre Ríos,Fibra óptica,57.0
+2014,4,Formosa,Fibra óptica,1.0
+2014,4,Jujuy,Fibra óptica,22.0
+2014,4,La Pampa,Fibra óptica,514.0
+2014,4,La Rioja,Fibra óptica,17.0
+2014,4,Mendoza,Fibra óptica,2534.0
+2014,4,Misiones,Fibra óptica,16.0
+2014,4,Neuquén,Fibra óptica,1014.0
+2014,4,Río Negro,Fibra óptica,901.0
+2014,4,Salta,Fibra óptica,48.0
+2014,4,San Juan,Fibra óptica,740.0
+2014,4,San Luis,Fibra óptica,355.0
+2014,4,Santa Cruz,Fibra óptica,388.0
+2014,4,Santa Fe,Fibra óptica,3205.0
+2014,4,Santiago Del Estero,Fibra óptica,19.0
+2014,4,Tierra Del Fuego,Fibra óptica,655.0
+2014,4,Tucumán,Fibra óptica,116.0
+2014,3,Buenos Aires,Fibra óptica,124474.0
+2014,3,Capital Federal,Fibra óptica,17886.0
+2014,3,Catamarca,Fibra óptica,15.0
+2014,3,Chaco,Fibra óptica,29.0
+2014,3,Chubut,Fibra óptica,882.0
+2014,3,Córdoba,Fibra óptica,444.0
+2014,3,Corrientes,Fibra óptica,31.0
+2014,3,Entre Ríos,Fibra óptica,48.0
+2014,3,Formosa,Fibra óptica,0.0
+2014,3,Jujuy,Fibra óptica,22.0
+2014,3,La Pampa,Fibra óptica,538.0
+2014,3,La Rioja,Fibra óptica,14.0
+2014,3,Mendoza,Fibra óptica,2512.0
+2014,3,Misiones,Fibra óptica,4.0
+2014,3,Neuquén,Fibra óptica,1000.0
+2014,3,Río Negro,Fibra óptica,888.0
+2014,3,Salta,Fibra óptica,43.0
+2014,3,San Juan,Fibra óptica,731.0
+2014,3,San Luis,Fibra óptica,355.0
+2014,3,Santa Cruz,Fibra óptica,385.0
+2014,3,Santa Fe,Fibra óptica,4407.0
+2014,3,Santiago Del Estero,Fibra óptica,19.0
+2014,3,Tierra Del Fuego,Fibra óptica,650.0
+2014,3,Tucumán,Fibra óptica,117.0
+2014,2,Buenos Aires,Fibra óptica,120008.0
+2014,2,Capital Federal,Fibra óptica,17729.0
+2014,2,Catamarca,Fibra óptica,17.0
+2014,2,Chaco,Fibra óptica,30.0
+2014,2,Chubut,Fibra óptica,866.0
+2014,2,Córdoba,Fibra óptica,351.0
+2014,2,Corrientes,Fibra óptica,31.0
+2014,2,Entre Ríos,Fibra óptica,49.0
+2014,2,Formosa,Fibra óptica,0.0
+2014,2,Jujuy,Fibra óptica,23.0
+2014,2,La Pampa,Fibra óptica,513.0
+2014,2,La Rioja,Fibra óptica,14.0
+2014,2,Mendoza,Fibra óptica,2480.0
+2014,2,Misiones,Fibra óptica,4.0
+2014,2,Neuquén,Fibra óptica,997.0
+2014,2,Río Negro,Fibra óptica,876.0
+2014,2,Salta,Fibra óptica,45.0
+2014,2,San Juan,Fibra óptica,722.0
+2014,2,San Luis,Fibra óptica,354.0
+2014,2,Santa Cruz,Fibra óptica,381.0
+2014,2,Santa Fe,Fibra óptica,3085.0
+2014,2,Santiago Del Estero,Fibra óptica,19.0
+2014,2,Tierra Del Fuego,Fibra óptica,648.0
+2014,2,Tucumán,Fibra óptica,121.0
+2014,1,Buenos Aires,Fibra óptica,120960.0
+2014,1,Capital Federal,Fibra óptica,17767.0
+2014,1,Catamarca,Fibra óptica,17.0
+2014,1,Chaco,Fibra óptica,30.0
+2014,1,Chubut,Fibra óptica,866.0
+2014,1,Córdoba,Fibra óptica,347.0
+2014,1,Corrientes,Fibra óptica,31.0
+2014,1,Entre Ríos,Fibra óptica,49.0
+2014,1,Formosa,Fibra óptica,0.0
+2014,1,Jujuy,Fibra óptica,23.0
+2014,1,La Pampa,Fibra óptica,513.0
+2014,1,La Rioja,Fibra óptica,14.0
+2014,1,Mendoza,Fibra óptica,2480.0
+2014,1,Misiones,Fibra óptica,4.0
+2014,1,Neuquén,Fibra óptica,997.0
+2014,1,Río Negro,Fibra óptica,876.0
+2014,1,Salta,Fibra óptica,45.0
+2014,1,San Juan,Fibra óptica,722.0
+2014,1,San Luis,Fibra óptica,354.0
+2014,1,Santa Cruz,Fibra óptica,381.0
+2014,1,Santa Fe,Fibra óptica,3059.0
+2014,1,Santiago Del Estero,Fibra óptica,19.0
+2014,1,Tierra Del Fuego,Fibra óptica,648.0
+2014,1,Tucumán,Fibra óptica,121.0
+2022,2,Buenos Aires,Wireless,126847.0
+2022,2,Capital Federal,Wireless,5757.0
+2022,2,Catamarca,Wireless,1329.0
+2022,2,Chaco,Wireless,8178.0
+2022,2,Chubut,Wireless,29784.0
+2022,2,Córdoba,Wireless,61107.0
+2022,2,Corrientes,Wireless,7256.0
+2022,2,Entre Ríos,Wireless,26098.0
+2022,2,Formosa,Wireless,16910.0
+2022,2,Jujuy,Wireless,3955.0
+2022,2,La Pampa,Wireless,20200.0
+2022,2,La Rioja,Wireless,6395.0
+2022,2,Mendoza,Wireless,26964.0
+2022,2,Misiones,Wireless,11074.0
+2022,2,Neuquén,Wireless,27371.0
+2022,2,Río Negro,Wireless,16760.0
+2022,2,Salta,Wireless,10068.0
+2022,2,San Juan,Wireless,21859.0
+2022,2,San Luis,Wireless,70614.0
+2022,2,Santa Cruz,Wireless,3896.0
+2022,2,Santa Fe,Wireless,43081.0
+2022,2,Santiago Del Estero,Wireless,6618.0
+2022,2,Tierra Del Fuego,Wireless,125.0
+2022,2,Tucumán,Wireless,3997.0
+2022,1,Buenos Aires,Wireless,125521.0
+2022,1,Capital Federal,Wireless,5784.0
+2022,1,Catamarca,Wireless,1328.0
+2022,1,Chaco,Wireless,8164.0
+2022,1,Chubut,Wireless,30592.0
+2022,1,Córdoba,Wireless,60843.0
+2022,1,Corrientes,Wireless,6774.0
+2022,1,Entre Ríos,Wireless,26098.0
+2022,1,Formosa,Wireless,16876.0
+2022,1,Jujuy,Wireless,4662.0
+2022,1,La Pampa,Wireless,19903.0
+2022,1,La Rioja,Wireless,6395.0
+2022,1,Mendoza,Wireless,26969.0
+2022,1,Misiones,Wireless,7807.0
+2022,1,Neuquén,Wireless,23098.0
+2022,1,Río Negro,Wireless,16815.0
+2022,1,Salta,Wireless,5950.0
+2022,1,San Juan,Wireless,20723.0
+2022,1,San Luis,Wireless,71809.0
+2022,1,Santa Cruz,Wireless,3974.0
+2022,1,Santa Fe,Wireless,45261.0
+2022,1,Santiago Del Estero,Wireless,6349.0
+2022,1,Tierra Del Fuego,Wireless,124.0
+2022,1,Tucumán,Wireless,3995.0
+2021,4,Buenos Aires,Wireless,126887.0
+2021,4,Capital Federal,Wireless,5679.0
+2021,4,Catamarca,Wireless,1512.0
+2021,4,Chaco,Wireless,8005.0
+2021,4,Chubut,Wireless,28041.0
+2021,4,Córdoba,Wireless,61277.0
+2021,4,Corrientes,Wireless,6778.0
+2021,4,Entre Ríos,Wireless,25022.0
+2021,4,Formosa,Wireless,16018.0
+2021,4,Jujuy,Wireless,2927.0
+2021,4,La Pampa,Wireless,19286.0
+2021,4,La Rioja,Wireless,6613.0
+2021,4,Mendoza,Wireless,24666.0
+2021,4,Misiones,Wireless,7649.0
+2021,4,Neuquén,Wireless,21531.0
+2021,4,Río Negro,Wireless,16558.0
+2021,4,Salta,Wireless,5882.0
+2021,4,San Juan,Wireless,11423.0
+2021,4,San Luis,Wireless,70560.0
+2021,4,Santa Cruz,Wireless,4346.0
+2021,4,Santa Fe,Wireless,43556.0
+2021,4,Santiago Del Estero,Wireless,6256.0
+2021,4,Tierra Del Fuego,Wireless,124.0
+2021,4,Tucumán,Wireless,2511.0
+2021,3,Buenos Aires,Wireless,120228.0
+2021,3,Capital Federal,Wireless,6059.0
+2021,3,Catamarca,Wireless,1568.0
+2021,3,Chaco,Wireless,8018.0
+2021,3,Chubut,Wireless,23376.0
+2021,3,Córdoba,Wireless,57617.0
+2021,3,Corrientes,Wireless,6766.0
+2021,3,Entre Ríos,Wireless,23500.0
+2021,3,Formosa,Wireless,15690.0
+2021,3,Jujuy,Wireless,2952.0
+2021,3,La Pampa,Wireless,14479.0
+2021,3,La Rioja,Wireless,6613.0
+2021,3,Mendoza,Wireless,21811.0
+2021,3,Misiones,Wireless,7198.0
+2021,3,Neuquén,Wireless,19270.0
+2021,3,Río Negro,Wireless,15031.0
+2021,3,Salta,Wireless,5724.0
+2021,3,San Juan,Wireless,11372.0
+2021,3,San Luis,Wireless,68856.0
+2021,3,Santa Cruz,Wireless,4269.0
+2021,3,Santa Fe,Wireless,43447.0
+2021,3,Santiago Del Estero,Wireless,6147.0
+2021,3,Tierra Del Fuego,Wireless,16.0
+2021,3,Tucumán,Wireless,2408.0
+2021,2,Buenos Aires,Wireless,113546.0
+2021,2,Capital Federal,Wireless,5580.0
+2021,2,Catamarca,Wireless,1449.0
+2021,2,Chaco,Wireless,8018.0
+2021,2,Chubut,Wireless,23682.0
+2021,2,Córdoba,Wireless,55944.0
+2021,2,Corrientes,Wireless,6557.0
+2021,2,Entre Ríos,Wireless,23786.0
+2021,2,Formosa,Wireless,15690.0
+2021,2,Jujuy,Wireless,2731.0
+2021,2,La Pampa,Wireless,13209.0
+2021,2,La Rioja,Wireless,6245.0
+2021,2,Mendoza,Wireless,21811.0
+2021,2,Misiones,Wireless,5317.0
+2021,2,Neuquén,Wireless,19218.0
+2021,2,Río Negro,Wireless,15031.0
+2021,2,Salta,Wireless,5724.0
+2021,2,San Juan,Wireless,11372.0
+2021,2,San Luis,Wireless,66860.0
+2021,2,Santa Cruz,Wireless,4269.0
+2021,2,Santa Fe,Wireless,43997.0
+2021,2,Santiago Del Estero,Wireless,5081.0
+2021,2,Tierra Del Fuego,Wireless,14.0
+2021,2,Tucumán,Wireless,1837.0
+2021,1,Buenos Aires,Wireless,98806.0
+2021,1,Capital Federal,Wireless,5559.0
+2021,1,Catamarca,Wireless,322.0
+2021,1,Chaco,Wireless,8004.0
+2021,1,Chubut,Wireless,23723.0
+2021,1,Córdoba,Wireless,54137.0
+2021,1,Corrientes,Wireless,5949.0
+2021,1,Entre Ríos,Wireless,20836.0
+2021,1,Formosa,Wireless,15669.0
+2021,1,Jujuy,Wireless,2677.0
+2021,1,La Pampa,Wireless,12369.0
+2021,1,La Rioja,Wireless,250.0
+2021,1,Mendoza,Wireless,18332.0
+2021,1,Misiones,Wireless,4796.0
+2021,1,Neuquén,Wireless,17752.0
+2021,1,Río Negro,Wireless,13994.0
+2021,1,Salta,Wireless,5669.0
+2021,1,San Juan,Wireless,11482.0
+2021,1,San Luis,Wireless,63826.0
+2021,1,Santa Cruz,Wireless,4264.0
+2021,1,Santa Fe,Wireless,39140.0
+2021,1,Santiago Del Estero,Wireless,5158.0
+2021,1,Tierra Del Fuego,Wireless,0.0
+2021,1,Tucumán,Wireless,1834.0
+2020,4,Buenos Aires,Wireless,93444.0
+2020,4,Capital Federal,Wireless,4815.0
+2020,4,Catamarca,Wireless,322.0
+2020,4,Chaco,Wireless,7997.0
+2020,4,Chubut,Wireless,23363.0
+2020,4,Córdoba,Wireless,52827.0
+2020,4,Corrientes,Wireless,5626.0
+2020,4,Entre Ríos,Wireless,20206.0
+2020,4,Formosa,Wireless,15341.0
+2020,4,Jujuy,Wireless,1077.0
+2020,4,La Pampa,Wireless,12194.0
+2020,4,La Rioja,Wireless,250.0
+2020,4,Mendoza,Wireless,18331.0
+2020,4,Misiones,Wireless,4359.0
+2020,4,Neuquén,Wireless,17689.0
+2020,4,Río Negro,Wireless,13994.0
+2020,4,Salta,Wireless,5858.0
+2020,4,San Juan,Wireless,10468.0
+2020,4,San Luis,Wireless,63019.0
+2020,4,Santa Cruz,Wireless,4659.0
+2020,4,Santa Fe,Wireless,38712.0
+2020,4,Santiago Del Estero,Wireless,5169.0
+2020,4,Tierra Del Fuego,Wireless,0.0
+2020,4,Tucumán,Wireless,1834.0
+2020,3,Buenos Aires,Wireless,94162.0
+2020,3,Capital Federal,Wireless,3936.0
+2020,3,Catamarca,Wireless,261.0
+2020,3,Chaco,Wireless,6706.0
+2020,3,Chubut,Wireless,23216.0
+2020,3,Córdoba,Wireless,48368.0
+2020,3,Corrientes,Wireless,5513.0
+2020,3,Entre Ríos,Wireless,20379.0
+2020,3,Formosa,Wireless,15023.0
+2020,3,Jujuy,Wireless,952.0
+2020,3,La Pampa,Wireless,11893.0
+2020,3,La Rioja,Wireless,250.0
+2020,3,Mendoza,Wireless,17523.0
+2020,3,Misiones,Wireless,3445.0
+2020,3,Neuquén,Wireless,16787.0
+2020,3,Río Negro,Wireless,13187.0
+2020,3,Salta,Wireless,5764.0
+2020,3,San Juan,Wireless,14023.0
+2020,3,San Luis,Wireless,61828.0
+2020,3,Santa Cruz,Wireless,6938.0
+2020,3,Santa Fe,Wireless,37112.0
+2020,3,Santiago Del Estero,Wireless,4185.0
+2020,3,Tierra Del Fuego,Wireless,0.0
+2020,3,Tucumán,Wireless,1808.0
+2020,2,Buenos Aires,Wireless,91736.0
+2020,2,Capital Federal,Wireless,3937.0
+2020,2,Catamarca,Wireless,261.0
+2020,2,Chaco,Wireless,6452.0
+2020,2,Chubut,Wireless,17678.0
+2020,2,Córdoba,Wireless,44522.0
+2020,2,Corrientes,Wireless,3927.0
+2020,2,Entre Ríos,Wireless,20042.0
+2020,2,Formosa,Wireless,14723.0
+2020,2,Jujuy,Wireless,952.0
+2020,2,La Pampa,Wireless,11314.0
+2020,2,La Rioja,Wireless,250.0
+2020,2,Mendoza,Wireless,15924.0
+2020,2,Misiones,Wireless,3319.0
+2020,2,Neuquén,Wireless,15755.0
+2020,2,Río Negro,Wireless,11331.0
+2020,2,Salta,Wireless,5123.0
+2020,2,San Juan,Wireless,7019.0
+2020,2,San Luis,Wireless,60935.0
+2020,2,Santa Cruz,Wireless,6585.0
+2020,2,Santa Fe,Wireless,30487.0
+2020,2,Santiago Del Estero,Wireless,3038.0
+2020,2,Tierra Del Fuego,Wireless,0.0
+2020,2,Tucumán,Wireless,1357.0
+2020,1,Buenos Aires,Wireless,85443.0
+2020,1,Capital Federal,Wireless,3911.0
+2020,1,Catamarca,Wireless,261.0
+2020,1,Chaco,Wireless,6239.0
+2020,1,Chubut,Wireless,16885.0
+2020,1,Córdoba,Wireless,41617.0
+2020,1,Corrientes,Wireless,2437.0
+2020,1,Entre Ríos,Wireless,18737.0
+2020,1,Formosa,Wireless,14510.0
+2020,1,Jujuy,Wireless,942.0
+2020,1,La Pampa,Wireless,11295.0
+2020,1,La Rioja,Wireless,251.0
+2020,1,Mendoza,Wireless,12465.0
+2020,1,Misiones,Wireless,460.0
+2020,1,Neuquén,Wireless,14711.0
+2020,1,Río Negro,Wireless,11222.0
+2020,1,Salta,Wireless,4125.0
+2020,1,San Juan,Wireless,7082.0
+2020,1,San Luis,Wireless,58301.0
+2020,1,Santa Cruz,Wireless,6817.0
+2020,1,Santa Fe,Wireless,30488.0
+2020,1,Santiago Del Estero,Wireless,2779.0
+2020,1,Tierra Del Fuego,Wireless,0.0
+2020,1,Tucumán,Wireless,1355.0
+2019,4,Buenos Aires,Wireless,87111.0
+2019,4,Capital Federal,Wireless,3914.0
+2019,4,Catamarca,Wireless,261.0
+2019,4,Chaco,Wireless,5229.0
+2019,4,Chubut,Wireless,15267.0
+2019,4,Córdoba,Wireless,37750.0
+2019,4,Corrientes,Wireless,2458.0
+2019,4,Entre Ríos,Wireless,18561.0
+2019,4,Formosa,Wireless,14531.0
+2019,4,Jujuy,Wireless,814.0
+2019,4,La Pampa,Wireless,11341.0
+2019,4,La Rioja,Wireless,251.0
+2019,4,Mendoza,Wireless,13672.0
+2019,4,Misiones,Wireless,441.0
+2019,4,Neuquén,Wireless,14246.0
+2019,4,Río Negro,Wireless,11437.0
+2019,4,Salta,Wireless,3040.0
+2019,4,San Juan,Wireless,7241.0
+2019,4,San Luis,Wireless,55266.0
+2019,4,Santa Cruz,Wireless,6800.0
+2019,4,Santa Fe,Wireless,26978.0
+2019,4,Santiago Del Estero,Wireless,2810.0
+2019,4,Tierra Del Fuego,Wireless,0.0
+2019,4,Tucumán,Wireless,725.0
+2019,3,Buenos Aires,Wireless,85572.0
+2019,3,Capital Federal,Wireless,3895.0
+2019,3,Catamarca,Wireless,244.0
+2019,3,Chaco,Wireless,5224.0
+2019,3,Chubut,Wireless,15149.0
+2019,3,Córdoba,Wireless,37277.0
+2019,3,Corrientes,Wireless,2458.0
+2019,3,Entre Ríos,Wireless,18530.0
+2019,3,Formosa,Wireless,14292.0
+2019,3,Jujuy,Wireless,812.0
+2019,3,La Pampa,Wireless,11462.0
+2019,3,La Rioja,Wireless,251.0
+2019,3,Mendoza,Wireless,12975.0
+2019,3,Misiones,Wireless,419.0
+2019,3,Neuquén,Wireless,13512.0
+2019,3,Río Negro,Wireless,10806.0
+2019,3,Salta,Wireless,1580.0
+2019,3,San Juan,Wireless,7241.0
+2019,3,San Luis,Wireless,62286.0
+2019,3,Santa Cruz,Wireless,6544.0
+2019,3,Santa Fe,Wireless,24269.0
+2019,3,Santiago Del Estero,Wireless,2759.0
+2019,3,Tierra Del Fuego,Wireless,0.0
+2019,3,Tucumán,Wireless,684.0
+2019,2,Buenos Aires,Wireless,75240.0
+2019,2,Capital Federal,Wireless,3962.0
+2019,2,Catamarca,Wireless,146.0
+2019,2,Chaco,Wireless,4727.0
+2019,2,Chubut,Wireless,14443.0
+2019,2,Córdoba,Wireless,33847.0
+2019,2,Corrientes,Wireless,2444.0
+2019,2,Entre Ríos,Wireless,17369.0
+2019,2,Formosa,Wireless,14292.0
+2019,2,Jujuy,Wireless,812.0
+2019,2,La Pampa,Wireless,10789.0
+2019,2,La Rioja,Wireless,251.0
+2019,2,Mendoza,Wireless,12748.0
+2019,2,Misiones,Wireless,421.0
+2019,2,Neuquén,Wireless,12792.0
+2019,2,Río Negro,Wireless,10485.0
+2019,2,Salta,Wireless,1210.0
+2019,2,San Juan,Wireless,2870.0
+2019,2,San Luis,Wireless,57242.0
+2019,2,Santa Cruz,Wireless,6514.0
+2019,2,Santa Fe,Wireless,21980.0
+2019,2,Santiago Del Estero,Wireless,2759.0
+2019,2,Tierra Del Fuego,Wireless,0.0
+2019,2,Tucumán,Wireless,684.0
+2019,1,Buenos Aires,Wireless,64867.0
+2019,1,Capital Federal,Wireless,3978.0
+2019,1,Catamarca,Wireless,0.0
+2019,1,Chaco,Wireless,3628.0
+2019,1,Chubut,Wireless,14443.0
+2019,1,Córdoba,Wireless,24615.0
+2019,1,Corrientes,Wireless,1528.0
+2019,1,Entre Ríos,Wireless,16231.0
+2019,1,Formosa,Wireless,13761.0
+2019,1,Jujuy,Wireless,640.0
+2019,1,La Pampa,Wireless,9023.0
+2019,1,La Rioja,Wireless,252.0
+2019,1,Mendoza,Wireless,10363.0
+2019,1,Misiones,Wireless,426.0
+2019,1,Neuquén,Wireless,12510.0
+2019,1,Río Negro,Wireless,9736.0
+2019,1,Salta,Wireless,1135.0
+2019,1,San Juan,Wireless,2932.0
+2019,1,San Luis,Wireless,53097.0
+2019,1,Santa Cruz,Wireless,6514.0
+2019,1,Santa Fe,Wireless,23215.0
+2019,1,Santiago Del Estero,Wireless,2847.0
+2019,1,Tierra Del Fuego,Wireless,0.0
+2019,1,Tucumán,Wireless,678.0
+2018,4,Buenos Aires,Wireless,65477.0
+2018,4,Capital Federal,Wireless,3978.0
+2018,4,Catamarca,Wireless,0.0
+2018,4,Chaco,Wireless,3236.0
+2018,4,Chubut,Wireless,14443.0
+2018,4,Córdoba,Wireless,21851.0
+2018,4,Corrientes,Wireless,1515.0
+2018,4,Entre Ríos,Wireless,15472.0
+2018,4,Formosa,Wireless,13761.0
+2018,4,Jujuy,Wireless,640.0
+2018,4,La Pampa,Wireless,7772.0
+2018,4,La Rioja,Wireless,252.0
+2018,4,Mendoza,Wireless,10363.0
+2018,4,Misiones,Wireless,426.0
+2018,4,Neuquén,Wireless,12425.0
+2018,4,Río Negro,Wireless,8037.0
+2018,4,Salta,Wireless,253.0
+2018,4,San Juan,Wireless,2883.0
+2018,4,San Luis,Wireless,53097.0
+2018,4,Santa Cruz,Wireless,6378.0
+2018,4,Santa Fe,Wireless,18705.0
+2018,4,Santiago Del Estero,Wireless,2649.0
+2018,4,Tierra Del Fuego,Wireless,0.0
+2018,4,Tucumán,Wireless,686.0
+2018,3,Buenos Aires,Wireless,62318.0
+2018,3,Capital Federal,Wireless,3872.0
+2018,3,Catamarca,Wireless,1.0
+2018,3,Chaco,Wireless,2628.0
+2018,3,Chubut,Wireless,13817.0
+2018,3,Córdoba,Wireless,19213.0
+2018,3,Corrientes,Wireless,1468.0
+2018,3,Entre Ríos,Wireless,15093.0
+2018,3,Formosa,Wireless,13625.0
+2018,3,Jujuy,Wireless,641.0
+2018,3,La Pampa,Wireless,7011.0
+2018,3,La Rioja,Wireless,253.0
+2018,3,Mendoza,Wireless,8195.0
+2018,3,Misiones,Wireless,391.0
+2018,3,Neuquén,Wireless,12277.0
+2018,3,Río Negro,Wireless,5051.0
+2018,3,Salta,Wireless,234.0
+2018,3,San Juan,Wireless,2744.0
+2018,3,San Luis,Wireless,52859.0
+2018,3,Santa Cruz,Wireless,6238.0
+2018,3,Santa Fe,Wireless,16337.0
+2018,3,Santiago Del Estero,Wireless,1662.0
+2018,3,Tierra Del Fuego,Wireless,1.0
+2018,3,Tucumán,Wireless,252.0
+2018,2,Buenos Aires,Wireless,71256.0
+2018,2,Capital Federal,Wireless,3908.0
+2018,2,Catamarca,Wireless,1.0
+2018,2,Chaco,Wireless,1946.0
+2018,2,Chubut,Wireless,14070.0
+2018,2,Córdoba,Wireless,16355.0
+2018,2,Corrientes,Wireless,1468.0
+2018,2,Entre Ríos,Wireless,12313.0
+2018,2,Formosa,Wireless,13625.0
+2018,2,Jujuy,Wireless,640.0
+2018,2,La Pampa,Wireless,7011.0
+2018,2,La Rioja,Wireless,253.0
+2018,2,Mendoza,Wireless,6206.0
+2018,2,Misiones,Wireless,391.0
+2018,2,Neuquén,Wireless,12649.0
+2018,2,Río Negro,Wireless,4396.0
+2018,2,Salta,Wireless,234.0
+2018,2,San Juan,Wireless,3079.0
+2018,2,San Luis,Wireless,16.0
+2018,2,Santa Cruz,Wireless,6734.0
+2018,2,Santa Fe,Wireless,15801.0
+2018,2,Santiago Del Estero,Wireless,1662.0
+2018,2,Tierra Del Fuego,Wireless,1.0
+2018,2,Tucumán,Wireless,252.0
+2018,1,Buenos Aires,Wireless,64379.0
+2018,1,Capital Federal,Wireless,3164.0
+2018,1,Catamarca,Wireless,1.0
+2018,1,Chaco,Wireless,388.0
+2018,1,Chubut,Wireless,14070.0
+2018,1,Córdoba,Wireless,13237.0
+2018,1,Corrientes,Wireless,1334.0
+2018,1,Entre Ríos,Wireless,10776.0
+2018,1,Formosa,Wireless,1603.0
+2018,1,Jujuy,Wireless,28.0
+2018,1,La Pampa,Wireless,10556.0
+2018,1,La Rioja,Wireless,253.0
+2018,1,Mendoza,Wireless,6206.0
+2018,1,Misiones,Wireless,5.0
+2018,1,Neuquén,Wireless,12404.0
+2018,1,Río Negro,Wireless,4259.0
+2018,1,Salta,Wireless,204.0
+2018,1,San Juan,Wireless,2246.0
+2018,1,San Luis,Wireless,16.0
+2018,1,Santa Cruz,Wireless,6734.0
+2018,1,Santa Fe,Wireless,11636.0
+2018,1,Santiago Del Estero,Wireless,1432.0
+2018,1,Tierra Del Fuego,Wireless,1.0
+2018,1,Tucumán,Wireless,368.0
+2017,4,Buenos Aires,Wireless,60082.0
+2017,4,Capital Federal,Wireless,3119.0
+2017,4,Catamarca,Wireless,1.0
+2017,4,Chaco,Wireless,380.0
+2017,4,Chubut,Wireless,14070.0
+2017,4,Córdoba,Wireless,12043.0
+2017,4,Corrientes,Wireless,1334.0
+2017,4,Entre Ríos,Wireless,10267.0
+2017,4,Formosa,Wireless,1603.0
+2017,4,Jujuy,Wireless,28.0
+2017,4,La Pampa,Wireless,10569.0
+2017,4,La Rioja,Wireless,253.0
+2017,4,Mendoza,Wireless,6206.0
+2017,4,Misiones,Wireless,5.0
+2017,4,Neuquén,Wireless,12404.0
+2017,4,Río Negro,Wireless,4259.0
+2017,4,Salta,Wireless,158.0
+2017,4,San Juan,Wireless,2246.0
+2017,4,San Luis,Wireless,17.0
+2017,4,Santa Cruz,Wireless,4638.0
+2017,4,Santa Fe,Wireless,10965.0
+2017,4,Santiago Del Estero,Wireless,1025.0
+2017,4,Tierra Del Fuego,Wireless,1.0
+2017,4,Tucumán,Wireless,102.0
+2017,3,Buenos Aires,Wireless,35058.0
+2017,3,Capital Federal,Wireless,2814.0
+2017,3,Catamarca,Wireless,1.0
+2017,3,Chaco,Wireless,36.0
+2017,3,Chubut,Wireless,13503.0
+2017,3,Córdoba,Wireless,7137.0
+2017,3,Corrientes,Wireless,1334.0
+2017,3,Entre Ríos,Wireless,6245.0
+2017,3,Formosa,Wireless,2202.0
+2017,3,Jujuy,Wireless,23.0
+2017,3,La Pampa,Wireless,11536.0
+2017,3,La Rioja,Wireless,252.0
+2017,3,Mendoza,Wireless,29.0
+2017,3,Misiones,Wireless,5.0
+2017,3,Neuquén,Wireless,11576.0
+2017,3,Río Negro,Wireless,3054.0
+2017,3,Salta,Wireless,158.0
+2017,3,San Juan,Wireless,1053.0
+2017,3,San Luis,Wireless,26.0
+2017,3,Santa Cruz,Wireless,4552.0
+2017,3,Santa Fe,Wireless,4897.0
+2017,3,Santiago Del Estero,Wireless,911.0
+2017,3,Tierra Del Fuego,Wireless,1.0
+2017,3,Tucumán,Wireless,40.0
+2017,2,Buenos Aires,Wireless,21555.0
+2017,2,Capital Federal,Wireless,2819.0
+2017,2,Catamarca,Wireless,1.0
+2017,2,Chaco,Wireless,52.0
+2017,2,Chubut,Wireless,13194.0
+2017,2,Córdoba,Wireless,6446.0
+2017,2,Corrientes,Wireless,1354.0
+2017,2,Entre Ríos,Wireless,6448.0
+2017,2,Formosa,Wireless,1023.0
+2017,2,Jujuy,Wireless,0.0
+2017,2,La Pampa,Wireless,6253.0
+2017,2,La Rioja,Wireless,2.0
+2017,2,Mendoza,Wireless,27.0
+2017,2,Misiones,Wireless,5.0
+2017,2,Neuquén,Wireless,11545.0
+2017,2,Río Negro,Wireless,3213.0
+2017,2,Salta,Wireless,158.0
+2017,2,San Juan,Wireless,1073.0
+2017,2,San Luis,Wireless,26.0
+2017,2,Santa Cruz,Wireless,4735.0
+2017,2,Santa Fe,Wireless,4958.0
+2017,2,Santiago Del Estero,Wireless,911.0
+2017,2,Tierra Del Fuego,Wireless,1.0
+2017,2,Tucumán,Wireless,14.0
+2017,1,Buenos Aires,Wireless,21200.0
+2017,1,Capital Federal,Wireless,2730.0
+2017,1,Catamarca,Wireless,1.0
+2017,1,Chaco,Wireless,52.0
+2017,1,Chubut,Wireless,13194.0
+2017,1,Córdoba,Wireless,5782.0
+2017,1,Corrientes,Wireless,1354.0
+2017,1,Entre Ríos,Wireless,6448.0
+2017,1,Formosa,Wireless,1023.0
+2017,1,Jujuy,Wireless,0.0
+2017,1,La Pampa,Wireless,6253.0
+2017,1,La Rioja,Wireless,2.0
+2017,1,Mendoza,Wireless,27.0
+2017,1,Misiones,Wireless,5.0
+2017,1,Neuquén,Wireless,11665.0
+2017,1,Río Negro,Wireless,3213.0
+2017,1,Salta,Wireless,158.0
+2017,1,San Juan,Wireless,1073.0
+2017,1,San Luis,Wireless,26.0
+2017,1,Santa Cruz,Wireless,4733.0
+2017,1,Santa Fe,Wireless,4948.0
+2017,1,Santiago Del Estero,Wireless,911.0
+2017,1,Tierra Del Fuego,Wireless,1.0
+2017,1,Tucumán,Wireless,14.0
+2016,4,Buenos Aires,Wireless,21394.0
+2016,4,Capital Federal,Wireless,2583.0
+2016,4,Catamarca,Wireless,1.0
+2016,4,Chaco,Wireless,52.0
+2016,4,Chubut,Wireless,13107.0
+2016,4,Córdoba,Wireless,5686.0
+2016,4,Corrientes,Wireless,1354.0
+2016,4,Entre Ríos,Wireless,6448.0
+2016,4,Formosa,Wireless,1023.0
+2016,4,Jujuy,Wireless,0.0
+2016,4,La Pampa,Wireless,6253.0
+2016,4,La Rioja,Wireless,2.0
+2016,4,Mendoza,Wireless,27.0
+2016,4,Misiones,Wireless,5.0
+2016,4,Neuquén,Wireless,11910.0
+2016,4,Río Negro,Wireless,3274.0
+2016,4,Salta,Wireless,158.0
+2016,4,San Juan,Wireless,1121.0
+2016,4,San Luis,Wireless,26.0
+2016,4,Santa Cruz,Wireless,4823.0
+2016,4,Santa Fe,Wireless,4946.0
+2016,4,Santiago Del Estero,Wireless,911.0
+2016,4,Tierra Del Fuego,Wireless,1.0
+2016,4,Tucumán,Wireless,14.0
+2016,3,Buenos Aires,Wireless,18867.0
+2016,3,Capital Federal,Wireless,2514.0
+2016,3,Catamarca,Wireless,1.0
+2016,3,Chaco,Wireless,2.0
+2016,3,Chubut,Wireless,13364.0
+2016,3,Córdoba,Wireless,5695.0
+2016,3,Corrientes,Wireless,1354.0
+2016,3,Entre Ríos,Wireless,6441.0
+2016,3,Formosa,Wireless,0.0
+2016,3,Jujuy,Wireless,0.0
+2016,3,La Pampa,Wireless,6236.0
+2016,3,La Rioja,Wireless,2.0
+2016,3,Mendoza,Wireless,28.0
+2016,3,Misiones,Wireless,5.0
+2016,3,Neuquén,Wireless,12402.0
+2016,3,Río Negro,Wireless,3293.0
+2016,3,Salta,Wireless,157.0
+2016,3,San Juan,Wireless,1174.0
+2016,3,San Luis,Wireless,23.0
+2016,3,Santa Cruz,Wireless,4978.0
+2016,3,Santa Fe,Wireless,4862.0
+2016,3,Santiago Del Estero,Wireless,3.0
+2016,3,Tierra Del Fuego,Wireless,1.0
+2016,3,Tucumán,Wireless,53.0
+2016,2,Buenos Aires,Wireless,21163.0
+2016,2,Capital Federal,Wireless,2390.0
+2016,2,Catamarca,Wireless,1.0
+2016,2,Chaco,Wireless,52.0
+2016,2,Chubut,Wireless,13293.0
+2016,2,Córdoba,Wireless,5610.0
+2016,2,Corrientes,Wireless,1354.0
+2016,2,Entre Ríos,Wireless,6434.0
+2016,2,Formosa,Wireless,1023.0
+2016,2,Jujuy,Wireless,0.0
+2016,2,La Pampa,Wireless,6225.0
+2016,2,La Rioja,Wireless,2.0
+2016,2,Mendoza,Wireless,29.0
+2016,2,Misiones,Wireless,5.0
+2016,2,Neuquén,Wireless,12466.0
+2016,2,Río Negro,Wireless,3300.0
+2016,2,Salta,Wireless,151.0
+2016,2,San Juan,Wireless,1214.0
+2016,2,San Luis,Wireless,30.0
+2016,2,Santa Cruz,Wireless,4996.0
+2016,2,Santa Fe,Wireless,4744.0
+2016,2,Santiago Del Estero,Wireless,911.0
+2016,2,Tierra Del Fuego,Wireless,1.0
+2016,2,Tucumán,Wireless,58.0
+2016,1,Buenos Aires,Wireless,21108.0
+2016,1,Capital Federal,Wireless,2284.0
+2016,1,Catamarca,Wireless,1.0
+2016,1,Chaco,Wireless,52.0
+2016,1,Chubut,Wireless,13280.0
+2016,1,Córdoba,Wireless,5636.0
+2016,1,Corrientes,Wireless,1354.0
+2016,1,Entre Ríos,Wireless,6425.0
+2016,1,Formosa,Wireless,1023.0
+2016,1,Jujuy,Wireless,0.0
+2016,1,La Pampa,Wireless,6209.0
+2016,1,La Rioja,Wireless,2.0
+2016,1,Mendoza,Wireless,34.0
+2016,1,Misiones,Wireless,5.0
+2016,1,Neuquén,Wireless,12502.0
+2016,1,Río Negro,Wireless,3341.0
+2016,1,Salta,Wireless,132.0
+2016,1,San Juan,Wireless,1195.0
+2016,1,San Luis,Wireless,27.0
+2016,1,Santa Cruz,Wireless,5088.0
+2016,1,Santa Fe,Wireless,4686.0
+2016,1,Santiago Del Estero,Wireless,911.0
+2016,1,Tierra Del Fuego,Wireless,1.0
+2016,1,Tucumán,Wireless,74.0
+2015,4,Buenos Aires,Wireless,20397.0
+2015,4,Capital Federal,Wireless,2273.0
+2015,4,Catamarca,Wireless,1.0
+2015,4,Chaco,Wireless,52.0
+2015,4,Chubut,Wireless,13521.0
+2015,4,Córdoba,Wireless,5613.0
+2015,4,Corrientes,Wireless,1354.0
+2015,4,Entre Ríos,Wireless,6427.0
+2015,4,Formosa,Wireless,1023.0
+2015,4,Jujuy,Wireless,0.0
+2015,4,La Pampa,Wireless,6205.0
+2015,4,La Rioja,Wireless,2.0
+2015,4,Mendoza,Wireless,38.0
+2015,4,Misiones,Wireless,5.0
+2015,4,Neuquén,Wireless,12934.0
+2015,4,Río Negro,Wireless,3407.0
+2015,4,Salta,Wireless,129.0
+2015,4,San Juan,Wireless,1230.0
+2015,4,San Luis,Wireless,30.0
+2015,4,Santa Cruz,Wireless,5261.0
+2015,4,Santa Fe,Wireless,4596.0
+2015,4,Santiago Del Estero,Wireless,1139.0
+2015,4,Tierra Del Fuego,Wireless,1.0
+2015,4,Tucumán,Wireless,88.0
+2015,3,Buenos Aires,Wireless,19989.0
+2015,3,Capital Federal,Wireless,2229.0
+2015,3,Catamarca,Wireless,1.0
+2015,3,Chaco,Wireless,52.0
+2015,3,Chubut,Wireless,13408.0
+2015,3,Córdoba,Wireless,5412.0
+2015,3,Corrientes,Wireless,1340.0
+2015,3,Entre Ríos,Wireless,6261.0
+2015,3,Formosa,Wireless,899.0
+2015,3,Jujuy,Wireless,0.0
+2015,3,La Pampa,Wireless,6195.0
+2015,3,La Rioja,Wireless,2.0
+2015,3,Mendoza,Wireless,42.0
+2015,3,Misiones,Wireless,5.0
+2015,3,Neuquén,Wireless,13051.0
+2015,3,Río Negro,Wireless,3415.0
+2015,3,Salta,Wireless,129.0
+2015,3,San Juan,Wireless,1231.0
+2015,3,San Luis,Wireless,31.0
+2015,3,Santa Cruz,Wireless,5226.0
+2015,3,Santa Fe,Wireless,4426.0
+2015,3,Santiago Del Estero,Wireless,1097.0
+2015,3,Tierra Del Fuego,Wireless,1.0
+2015,3,Tucumán,Wireless,88.0
+2015,2,Buenos Aires,Wireless,19268.0
+2015,2,Capital Federal,Wireless,2172.0
+2015,2,Catamarca,Wireless,1.0
+2015,2,Chaco,Wireless,52.0
+2015,2,Chubut,Wireless,13055.0
+2015,2,Córdoba,Wireless,5199.0
+2015,2,Corrientes,Wireless,1321.0
+2015,2,Entre Ríos,Wireless,6031.0
+2015,2,Formosa,Wireless,737.0
+2015,2,Jujuy,Wireless,0.0
+2015,2,La Pampa,Wireless,6190.0
+2015,2,La Rioja,Wireless,2.0
+2015,2,Mendoza,Wireless,38.0
+2015,2,Misiones,Wireless,5.0
+2015,2,Neuquén,Wireless,12781.0
+2015,2,Río Negro,Wireless,3457.0
+2015,2,Salta,Wireless,129.0
+2015,2,San Juan,Wireless,1189.0
+2015,2,San Luis,Wireless,33.0
+2015,2,Santa Cruz,Wireless,4917.0
+2015,2,Santa Fe,Wireless,4320.0
+2015,2,Santiago Del Estero,Wireless,1091.0
+2015,2,Tierra Del Fuego,Wireless,1.0
+2015,2,Tucumán,Wireless,88.0
+2015,1,Buenos Aires,Wireless,18754.0
+2015,1,Capital Federal,Wireless,1994.0
+2015,1,Catamarca,Wireless,1.0
+2015,1,Chaco,Wireless,27.0
+2015,1,Chubut,Wireless,12540.0
+2015,1,Córdoba,Wireless,4645.0
+2015,1,Corrientes,Wireless,1319.0
+2015,1,Entre Ríos,Wireless,5943.0
+2015,1,Formosa,Wireless,670.0
+2015,1,Jujuy,Wireless,0.0
+2015,1,La Pampa,Wireless,6164.0
+2015,1,La Rioja,Wireless,2.0
+2015,1,Mendoza,Wireless,29.0
+2015,1,Misiones,Wireless,5.0
+2015,1,Neuquén,Wireless,12088.0
+2015,1,Río Negro,Wireless,3473.0
+2015,1,Salta,Wireless,129.0
+2015,1,San Juan,Wireless,1165.0
+2015,1,San Luis,Wireless,30.0
+2015,1,Santa Cruz,Wireless,4772.0
+2015,1,Santa Fe,Wireless,4239.0
+2015,1,Santiago Del Estero,Wireless,1020.0
+2015,1,Tierra Del Fuego,Wireless,1.0
+2015,1,Tucumán,Wireless,88.0
+2014,4,Buenos Aires,Wireless,17728.0
+2014,4,Capital Federal,Wireless,1962.0
+2014,4,Catamarca,Wireless,0.0
+2014,4,Chaco,Wireless,0.0
+2014,4,Chubut,Wireless,12256.0
+2014,4,Córdoba,Wireless,3918.0
+2014,4,Corrientes,Wireless,1315.0
+2014,4,Entre Ríos,Wireless,5178.0
+2014,4,Formosa,Wireless,0.0
+2014,4,Jujuy,Wireless,37.0
+2014,4,La Pampa,Wireless,5894.0
+2014,4,La Rioja,Wireless,0.0
+2014,4,Mendoza,Wireless,31.0
+2014,4,Misiones,Wireless,150.0
+2014,4,Neuquén,Wireless,11853.0
+2014,4,Río Negro,Wireless,3819.0
+2014,4,Salta,Wireless,6.0
+2014,4,San Juan,Wireless,1202.0
+2014,4,San Luis,Wireless,24.0
+2014,4,Santa Cruz,Wireless,4395.0
+2014,4,Santa Fe,Wireless,6282.0
+2014,4,Santiago Del Estero,Wireless,920.0
+2014,4,Tierra Del Fuego,Wireless,1.0
+2014,4,Tucumán,Wireless,13.0
+2014,3,Buenos Aires,Wireless,20049.0
+2014,3,Capital Federal,Wireless,1995.0
+2014,3,Catamarca,Wireless,0.0
+2014,3,Chaco,Wireless,1.0
+2014,3,Chubut,Wireless,11853.0
+2014,3,Córdoba,Wireless,4064.0
+2014,3,Corrientes,Wireless,1312.0
+2014,3,Entre Ríos,Wireless,5203.0
+2014,3,Formosa,Wireless,0.0
+2014,3,Jujuy,Wireless,37.0
+2014,3,La Pampa,Wireless,11219.0
+2014,3,La Rioja,Wireless,1.0
+2014,3,Mendoza,Wireless,40.0
+2014,3,Misiones,Wireless,3.0
+2014,3,Neuquén,Wireless,12858.0
+2014,3,Río Negro,Wireless,3533.0
+2014,3,Salta,Wireless,109.0
+2014,3,San Juan,Wireless,1199.0
+2014,3,San Luis,Wireless,25.0
+2014,3,Santa Cruz,Wireless,4273.0
+2014,3,Santa Fe,Wireless,6540.0
+2014,3,Santiago Del Estero,Wireless,768.0
+2014,3,Tierra Del Fuego,Wireless,1.0
+2014,3,Tucumán,Wireless,13.0
+2014,2,Buenos Aires,Wireless,17020.0
+2014,2,Capital Federal,Wireless,1883.0
+2014,2,Catamarca,Wireless,0.0
+2014,2,Chaco,Wireless,0.0
+2014,2,Chubut,Wireless,10960.0
+2014,2,Córdoba,Wireless,3673.0
+2014,2,Corrientes,Wireless,1309.0
+2014,2,Entre Ríos,Wireless,4795.0
+2014,2,Formosa,Wireless,0.0
+2014,2,Jujuy,Wireless,40.0
+2014,2,La Pampa,Wireless,5869.0
+2014,2,La Rioja,Wireless,0.0
+2014,2,Mendoza,Wireless,36.0
+2014,2,Misiones,Wireless,150.0
+2014,2,Neuquén,Wireless,10765.0
+2014,2,Río Negro,Wireless,3657.0
+2014,2,Salta,Wireless,7.0
+2014,2,San Juan,Wireless,1139.0
+2014,2,San Luis,Wireless,22.0
+2014,2,Santa Cruz,Wireless,4118.0
+2014,2,Santa Fe,Wireless,6041.0
+2014,2,Santiago Del Estero,Wireless,907.0
+2014,2,Tierra Del Fuego,Wireless,1.0
+2014,2,Tucumán,Wireless,13.0
+2014,1,Buenos Aires,Wireless,16528.0
+2014,1,Capital Federal,Wireless,1866.0
+2014,1,Catamarca,Wireless,0.0
+2014,1,Chaco,Wireless,0.0
+2014,1,Chubut,Wireless,10776.0
+2014,1,Córdoba,Wireless,3585.0
+2014,1,Corrientes,Wireless,1306.0
+2014,1,Entre Ríos,Wireless,4887.0
+2014,1,Formosa,Wireless,0.0
+2014,1,Jujuy,Wireless,0.0
+2014,1,La Pampa,Wireless,5848.0
+2014,1,La Rioja,Wireless,0.0
+2014,1,Mendoza,Wireless,37.0
+2014,1,Misiones,Wireless,150.0
+2014,1,Neuquén,Wireless,10381.0
+2014,1,Río Negro,Wireless,3576.0
+2014,1,Salta,Wireless,8.0
+2014,1,San Juan,Wireless,808.0
+2014,1,San Luis,Wireless,21.0
+2014,1,Santa Cruz,Wireless,4092.0
+2014,1,Santa Fe,Wireless,5951.0
+2014,1,Santiago Del Estero,Wireless,915.0
+2014,1,Tierra Del Fuego,Wireless,1.0
+2014,1,Tucumán,Wireless,13.0
+2022,2,Buenos Aires,Otros,71028.0
+2022,2,Capital Federal,Otros,31791.0
+2022,2,Catamarca,Otros,2234.0
+2022,2,Chaco,Otros,2356.0
+2022,2,Chubut,Otros,8828.0
+2022,2,Córdoba,Otros,9657.0
+2022,2,Corrientes,Otros,5323.0
+2022,2,Entre Ríos,Otros,12592.0
+2022,2,Formosa,Otros,212.0
+2022,2,Jujuy,Otros,2377.0
+2022,2,La Pampa,Otros,1264.0
+2022,2,La Rioja,Otros,31.0
+2022,2,Mendoza,Otros,1927.0
+2022,2,Misiones,Otros,7622.0
+2022,2,Neuquén,Otros,1119.0
+2022,2,Río Negro,Otros,18968.0
+2022,2,Salta,Otros,7190.0
+2022,2,San Juan,Otros,7916.0
+2022,2,San Luis,Otros,14985.0
+2022,2,Santa Cruz,Otros,579.0
+2022,2,Santa Fe,Otros,19550.0
+2022,2,Santiago Del Estero,Otros,2922.0
+2022,2,Tierra Del Fuego,Otros,651.0
+2022,2,Tucumán,Otros,487.0
+2022,1,Buenos Aires,Otros,66872.0
+2022,1,Capital Federal,Otros,29934.0
+2022,1,Catamarca,Otros,2234.0
+2022,1,Chaco,Otros,2356.0
+2022,1,Chubut,Otros,21052.0
+2022,1,Córdoba,Otros,9713.0
+2022,1,Corrientes,Otros,5374.0
+2022,1,Entre Ríos,Otros,12592.0
+2022,1,Formosa,Otros,202.0
+2022,1,Jujuy,Otros,3975.0
+2022,1,La Pampa,Otros,1109.0
+2022,1,La Rioja,Otros,31.0
+2022,1,Mendoza,Otros,1379.0
+2022,1,Misiones,Otros,7624.0
+2022,1,Neuquén,Otros,745.0
+2022,1,Río Negro,Otros,18494.0
+2022,1,Salta,Otros,7190.0
+2022,1,San Juan,Otros,7674.0
+2022,1,San Luis,Otros,28721.0
+2022,1,Santa Cruz,Otros,405.0
+2022,1,Santa Fe,Otros,20571.0
+2022,1,Santiago Del Estero,Otros,2922.0
+2022,1,Tierra Del Fuego,Otros,340.0
+2022,1,Tucumán,Otros,487.0
+2021,4,Buenos Aires,Otros,73415.0
+2021,4,Capital Federal,Otros,29947.0
+2021,4,Catamarca,Otros,2235.0
+2021,4,Chaco,Otros,2359.0
+2021,4,Chubut,Otros,18839.0
+2021,4,Córdoba,Otros,8779.0
+2021,4,Corrientes,Otros,5290.0
+2021,4,Entre Ríos,Otros,12726.0
+2021,4,Formosa,Otros,172.0
+2021,4,Jujuy,Otros,3991.0
+2021,4,La Pampa,Otros,1354.0
+2021,4,La Rioja,Otros,31.0
+2021,4,Mendoza,Otros,1859.0
+2021,4,Misiones,Otros,7602.0
+2021,4,Neuquén,Otros,746.0
+2021,4,Río Negro,Otros,18451.0
+2021,4,Salta,Otros,7188.0
+2021,4,San Juan,Otros,8493.0
+2021,4,San Luis,Otros,28723.0
+2021,4,Santa Cruz,Otros,417.0
+2021,4,Santa Fe,Otros,16229.0
+2021,4,Santiago Del Estero,Otros,2922.0
+2021,4,Tierra Del Fuego,Otros,342.0
+2021,4,Tucumán,Otros,486.0
+2021,3,Buenos Aires,Otros,64554.0
+2021,3,Capital Federal,Otros,29371.0
+2021,3,Catamarca,Otros,2233.0
+2021,3,Chaco,Otros,2353.0
+2021,3,Chubut,Otros,18681.0
+2021,3,Córdoba,Otros,15178.0
+2021,3,Corrientes,Otros,5303.0
+2021,3,Entre Ríos,Otros,13195.0
+2021,3,Formosa,Otros,171.0
+2021,3,Jujuy,Otros,3968.0
+2021,3,La Pampa,Otros,1295.0
+2021,3,La Rioja,Otros,30.0
+2021,3,Mendoza,Otros,828.0
+2021,3,Misiones,Otros,7662.0
+2021,3,Neuquén,Otros,640.0
+2021,3,Río Negro,Otros,18376.0
+2021,3,Salta,Otros,6453.0
+2021,3,San Juan,Otros,8447.0
+2021,3,San Luis,Otros,28680.0
+2021,3,Santa Cruz,Otros,3071.0
+2021,3,Santa Fe,Otros,15640.0
+2021,3,Santiago Del Estero,Otros,2928.0
+2021,3,Tierra Del Fuego,Otros,390.0
+2021,3,Tucumán,Otros,743.0
+2021,2,Buenos Aires,Otros,57547.0
+2021,2,Capital Federal,Otros,29371.0
+2021,2,Catamarca,Otros,2233.0
+2021,2,Chaco,Otros,2353.0
+2021,2,Chubut,Otros,18706.0
+2021,2,Córdoba,Otros,15519.0
+2021,2,Corrientes,Otros,5303.0
+2021,2,Entre Ríos,Otros,13197.0
+2021,2,Formosa,Otros,171.0
+2021,2,Jujuy,Otros,3968.0
+2021,2,La Pampa,Otros,1295.0
+2021,2,La Rioja,Otros,30.0
+2021,2,Mendoza,Otros,827.0
+2021,2,Misiones,Otros,7662.0
+2021,2,Neuquén,Otros,640.0
+2021,2,Río Negro,Otros,18376.0
+2021,2,Salta,Otros,6453.0
+2021,2,San Juan,Otros,8447.0
+2021,2,San Luis,Otros,36205.0
+2021,2,Santa Cruz,Otros,3071.0
+2021,2,Santa Fe,Otros,17523.0
+2021,2,Santiago Del Estero,Otros,3596.0
+2021,2,Tierra Del Fuego,Otros,316.0
+2021,2,Tucumán,Otros,743.0
+2021,1,Buenos Aires,Otros,57864.0
+2021,1,Capital Federal,Otros,29236.0
+2021,1,Catamarca,Otros,2233.0
+2021,1,Chaco,Otros,1875.0
+2021,1,Chubut,Otros,18712.0
+2021,1,Córdoba,Otros,17065.0
+2021,1,Corrientes,Otros,5303.0
+2021,1,Entre Ríos,Otros,12169.0
+2021,1,Formosa,Otros,380.0
+2021,1,Jujuy,Otros,3879.0
+2021,1,La Pampa,Otros,1300.0
+2021,1,La Rioja,Otros,30.0
+2021,1,Mendoza,Otros,833.0
+2021,1,Misiones,Otros,6896.0
+2021,1,Neuquén,Otros,632.0
+2021,1,Río Negro,Otros,18377.0
+2021,1,Salta,Otros,6452.0
+2021,1,San Juan,Otros,8453.0
+2021,1,San Luis,Otros,36205.0
+2021,1,Santa Cruz,Otros,390.0
+2021,1,Santa Fe,Otros,17519.0
+2021,1,Santiago Del Estero,Otros,3596.0
+2021,1,Tierra Del Fuego,Otros,316.0
+2021,1,Tucumán,Otros,740.0
+2020,4,Buenos Aires,Otros,57927.0
+2020,4,Capital Federal,Otros,29237.0
+2020,4,Catamarca,Otros,2233.0
+2020,4,Chaco,Otros,1875.0
+2020,4,Chubut,Otros,18712.0
+2020,4,Córdoba,Otros,17536.0
+2020,4,Corrientes,Otros,5290.0
+2020,4,Entre Ríos,Otros,12169.0
+2020,4,Formosa,Otros,380.0
+2020,4,Jujuy,Otros,3470.0
+2020,4,La Pampa,Otros,1315.0
+2020,4,La Rioja,Otros,30.0
+2020,4,Mendoza,Otros,833.0
+2020,4,Misiones,Otros,6896.0
+2020,4,Neuquén,Otros,632.0
+2020,4,Río Negro,Otros,18377.0
+2020,4,Salta,Otros,6452.0
+2020,4,San Juan,Otros,8453.0
+2020,4,San Luis,Otros,36205.0
+2020,4,Santa Cruz,Otros,2970.0
+2020,4,Santa Fe,Otros,17392.0
+2020,4,Santiago Del Estero,Otros,3596.0
+2020,4,Tierra Del Fuego,Otros,316.0
+2020,4,Tucumán,Otros,740.0
+2020,3,Buenos Aires,Otros,55541.0
+2020,3,Capital Federal,Otros,29374.0
+2020,3,Catamarca,Otros,2228.0
+2020,3,Chaco,Otros,2003.0
+2020,3,Chubut,Otros,18767.0
+2020,3,Córdoba,Otros,9756.0
+2020,3,Corrientes,Otros,5379.0
+2020,3,Entre Ríos,Otros,12320.0
+2020,3,Formosa,Otros,393.0
+2020,3,Jujuy,Otros,4371.0
+2020,3,La Pampa,Otros,1305.0
+2020,3,La Rioja,Otros,35.0
+2020,3,Mendoza,Otros,868.0
+2020,3,Misiones,Otros,8985.0
+2020,3,Neuquén,Otros,737.0
+2020,3,Río Negro,Otros,18368.0
+2020,3,Salta,Otros,7293.0
+2020,3,San Juan,Otros,8480.0
+2020,3,San Luis,Otros,36253.0
+2020,3,Santa Cruz,Otros,2373.0
+2020,3,Santa Fe,Otros,19307.0
+2020,3,Santiago Del Estero,Otros,3613.0
+2020,3,Tierra Del Fuego,Otros,310.0
+2020,3,Tucumán,Otros,762.0
+2020,2,Buenos Aires,Otros,57189.0
+2020,2,Capital Federal,Otros,29373.0
+2020,2,Catamarca,Otros,2228.0
+2020,2,Chaco,Otros,1581.0
+2020,2,Chubut,Otros,5614.0
+2020,2,Córdoba,Otros,8263.0
+2020,2,Corrientes,Otros,5011.0
+2020,2,Entre Ríos,Otros,11303.0
+2020,2,Formosa,Otros,169.0
+2020,2,Jujuy,Otros,16664.0
+2020,2,La Pampa,Otros,1290.0
+2020,2,La Rioja,Otros,35.0
+2020,2,Mendoza,Otros,802.0
+2020,2,Misiones,Otros,9153.0
+2020,2,Neuquén,Otros,1134.0
+2020,2,Río Negro,Otros,18367.0
+2020,2,Salta,Otros,7108.0
+2020,2,San Juan,Otros,8882.0
+2020,2,San Luis,Otros,36253.0
+2020,2,Santa Cruz,Otros,2368.0
+2020,2,Santa Fe,Otros,19094.0
+2020,2,Santiago Del Estero,Otros,4063.0
+2020,2,Tierra Del Fuego,Otros,310.0
+2020,2,Tucumán,Otros,762.0
+2020,1,Buenos Aires,Otros,18334.0
+2020,1,Capital Federal,Otros,28556.0
+2020,1,Catamarca,Otros,2227.0
+2020,1,Chaco,Otros,1580.0
+2020,1,Chubut,Otros,5479.0
+2020,1,Córdoba,Otros,8693.0
+2020,1,Corrientes,Otros,5004.0
+2020,1,Entre Ríos,Otros,14062.0
+2020,1,Formosa,Otros,169.0
+2020,1,Jujuy,Otros,16641.0
+2020,1,La Pampa,Otros,1802.0
+2020,1,La Rioja,Otros,29.0
+2020,1,Mendoza,Otros,722.0
+2020,1,Misiones,Otros,10962.0
+2020,1,Neuquén,Otros,729.0
+2020,1,Río Negro,Otros,18362.0
+2020,1,Salta,Otros,7212.0
+2020,1,San Juan,Otros,5101.0
+2020,1,San Luis,Otros,36333.0
+2020,1,Santa Cruz,Otros,2368.0
+2020,1,Santa Fe,Otros,19468.0
+2020,1,Santiago Del Estero,Otros,4657.0
+2020,1,Tierra Del Fuego,Otros,308.0
+2020,1,Tucumán,Otros,347.0
+2019,4,Buenos Aires,Otros,18266.0
+2019,4,Capital Federal,Otros,28576.0
+2019,4,Catamarca,Otros,2227.0
+2019,4,Chaco,Otros,1580.0
+2019,4,Chubut,Otros,5489.0
+2019,4,Córdoba,Otros,8693.0
+2019,4,Corrientes,Otros,5004.0
+2019,4,Entre Ríos,Otros,15407.0
+2019,4,Formosa,Otros,169.0
+2019,4,Jujuy,Otros,16641.0
+2019,4,La Pampa,Otros,1805.0
+2019,4,La Rioja,Otros,29.0
+2019,4,Mendoza,Otros,730.0
+2019,4,Misiones,Otros,11733.0
+2019,4,Neuquén,Otros,854.0
+2019,4,Río Negro,Otros,18365.0
+2019,4,Salta,Otros,8206.0
+2019,4,San Juan,Otros,5104.0
+2019,4,San Luis,Otros,36333.0
+2019,4,Santa Cruz,Otros,2371.0
+2019,4,Santa Fe,Otros,20401.0
+2019,4,Santiago Del Estero,Otros,4657.0
+2019,4,Tierra Del Fuego,Otros,310.0
+2019,4,Tucumán,Otros,348.0
+2019,3,Buenos Aires,Otros,27070.0
+2019,3,Capital Federal,Otros,31155.0
+2019,3,Catamarca,Otros,2251.0
+2019,3,Chaco,Otros,1592.0
+2019,3,Chubut,Otros,7551.0
+2019,3,Córdoba,Otros,8701.0
+2019,3,Corrientes,Otros,4839.0
+2019,3,Entre Ríos,Otros,15432.0
+2019,3,Formosa,Otros,162.0
+2019,3,Jujuy,Otros,16638.0
+2019,3,La Pampa,Otros,1962.0
+2019,3,La Rioja,Otros,41.0
+2019,3,Mendoza,Otros,1545.0
+2019,3,Misiones,Otros,12270.0
+2019,3,Neuquén,Otros,2518.0
+2019,3,Río Negro,Otros,18847.0
+2019,3,Salta,Otros,9394.0
+2019,3,San Juan,Otros,5535.0
+2019,3,San Luis,Otros,36466.0
+2019,3,Santa Cruz,Otros,2738.0
+2019,3,Santa Fe,Otros,21408.0
+2019,3,Santiago Del Estero,Otros,34400.0
+2019,3,Tierra Del Fuego,Otros,1487.0
+2019,3,Tucumán,Otros,324.0
+2019,2,Buenos Aires,Otros,32929.0
+2019,2,Capital Federal,Otros,4281.0
+2019,2,Catamarca,Otros,2251.0
+2019,2,Chaco,Otros,1591.0
+2019,2,Chubut,Otros,7545.0
+2019,2,Córdoba,Otros,15236.0
+2019,2,Corrientes,Otros,6138.0
+2019,2,Entre Ríos,Otros,17529.0
+2019,2,Formosa,Otros,162.0
+2019,2,Jujuy,Otros,21857.0
+2019,2,La Pampa,Otros,3004.0
+2019,2,La Rioja,Otros,41.0
+2019,2,Mendoza,Otros,1544.0
+2019,2,Misiones,Otros,12269.0
+2019,2,Neuquén,Otros,2737.0
+2019,2,Río Negro,Otros,19657.0
+2019,2,Salta,Otros,9463.0
+2019,2,San Juan,Otros,6876.0
+2019,2,San Luis,Otros,38368.0
+2019,2,Santa Cruz,Otros,2735.0
+2019,2,Santa Fe,Otros,22708.0
+2019,2,Santiago Del Estero,Otros,34600.0
+2019,2,Tierra Del Fuego,Otros,1486.0
+2019,2,Tucumán,Otros,321.0
+2019,1,Buenos Aires,Otros,20201.0
+2019,1,Capital Federal,Otros,4281.0
+2019,1,Catamarca,Otros,2251.0
+2019,1,Chaco,Otros,1134.0
+2019,1,Chubut,Otros,3045.0
+2019,1,Córdoba,Otros,12367.0
+2019,1,Corrientes,Otros,58.0
+2019,1,Entre Ríos,Otros,12241.0
+2019,1,Formosa,Otros,62.0
+2019,1,Jujuy,Otros,43622.0
+2019,1,La Pampa,Otros,1041.0
+2019,1,La Rioja,Otros,41.0
+2019,1,Mendoza,Otros,1544.0
+2019,1,Misiones,Otros,7717.0
+2019,1,Neuquén,Otros,2372.0
+2019,1,Río Negro,Otros,4857.0
+2019,1,Salta,Otros,1879.0
+2019,1,San Juan,Otros,1207.0
+2019,1,San Luis,Otros,23968.0
+2019,1,Santa Cruz,Otros,2735.0
+2019,1,Santa Fe,Otros,17860.0
+2019,1,Santiago Del Estero,Otros,99.0
+2019,1,Tierra Del Fuego,Otros,1486.0
+2019,1,Tucumán,Otros,321.0
+2018,4,Buenos Aires,Otros,19814.0
+2018,4,Capital Federal,Otros,4257.0
+2018,4,Catamarca,Otros,2212.0
+2018,4,Chaco,Otros,1130.0
+2018,4,Chubut,Otros,3047.0
+2018,4,Córdoba,Otros,13243.0
+2018,4,Corrientes,Otros,30.0
+2018,4,Entre Ríos,Otros,14356.0
+2018,4,Formosa,Otros,57.0
+2018,4,Jujuy,Otros,43608.0
+2018,4,La Pampa,Otros,1010.0
+2018,4,La Rioja,Otros,36.0
+2018,4,Mendoza,Otros,1547.0
+2018,4,Misiones,Otros,6209.0
+2018,4,Neuquén,Otros,2444.0
+2018,4,Río Negro,Otros,4832.0
+2018,4,Salta,Otros,1853.0
+2018,4,San Juan,Otros,1211.0
+2018,4,San Luis,Otros,23964.0
+2018,4,Santa Cruz,Otros,2734.0
+2018,4,Santa Fe,Otros,28997.0
+2018,4,Santiago Del Estero,Otros,81.0
+2018,4,Tierra Del Fuego,Otros,1499.0
+2018,4,Tucumán,Otros,314.0
+2018,3,Buenos Aires,Otros,26448.0
+2018,3,Capital Federal,Otros,9319.0
+2018,3,Catamarca,Otros,2214.0
+2018,3,Chaco,Otros,1129.0
+2018,3,Chubut,Otros,6728.0
+2018,3,Córdoba,Otros,10839.0
+2018,3,Corrientes,Otros,32.0
+2018,3,Entre Ríos,Otros,80.0
+2018,3,Formosa,Otros,57.0
+2018,3,Jujuy,Otros,43.0
+2018,3,La Pampa,Otros,987.0
+2018,3,La Rioja,Otros,35.0
+2018,3,Mendoza,Otros,1852.0
+2018,3,Misiones,Otros,56.0
+2018,3,Neuquén,Otros,2712.0
+2018,3,Río Negro,Otros,5125.0
+2018,3,Salta,Otros,1391.0
+2018,3,San Juan,Otros,1048.0
+2018,3,San Luis,Otros,2314.0
+2018,3,Santa Cruz,Otros,3996.0
+2018,3,Santa Fe,Otros,15022.0
+2018,3,Santiago Del Estero,Otros,81.0
+2018,3,Tierra Del Fuego,Otros,2047.0
+2018,3,Tucumán,Otros,315.0
+2018,2,Buenos Aires,Otros,27746.0
+2018,2,Capital Federal,Otros,9321.0
+2018,2,Catamarca,Otros,2214.0
+2018,2,Chaco,Otros,1129.0
+2018,2,Chubut,Otros,6729.0
+2018,2,Córdoba,Otros,10109.0
+2018,2,Corrientes,Otros,32.0
+2018,2,Entre Ríos,Otros,80.0
+2018,2,Formosa,Otros,57.0
+2018,2,Jujuy,Otros,43.0
+2018,2,La Pampa,Otros,987.0
+2018,2,La Rioja,Otros,35.0
+2018,2,Mendoza,Otros,1852.0
+2018,2,Misiones,Otros,56.0
+2018,2,Neuquén,Otros,2713.0
+2018,2,Río Negro,Otros,5125.0
+2018,2,Salta,Otros,1391.0
+2018,2,San Juan,Otros,1048.0
+2018,2,San Luis,Otros,2314.0
+2018,2,Santa Cruz,Otros,3997.0
+2018,2,Santa Fe,Otros,15114.0
+2018,2,Santiago Del Estero,Otros,81.0
+2018,2,Tierra Del Fuego,Otros,2047.0
+2018,2,Tucumán,Otros,315.0
+2018,1,Buenos Aires,Otros,31194.0
+2018,1,Capital Federal,Otros,9393.0
+2018,1,Catamarca,Otros,2214.0
+2018,1,Chaco,Otros,1130.0
+2018,1,Chubut,Otros,6729.0
+2018,1,Córdoba,Otros,11275.0
+2018,1,Corrientes,Otros,33.0
+2018,1,Entre Ríos,Otros,80.0
+2018,1,Formosa,Otros,57.0
+2018,1,Jujuy,Otros,43.0
+2018,1,La Pampa,Otros,1926.0
+2018,1,La Rioja,Otros,35.0
+2018,1,Mendoza,Otros,1852.0
+2018,1,Misiones,Otros,56.0
+2018,1,Neuquén,Otros,2713.0
+2018,1,Río Negro,Otros,5128.0
+2018,1,Salta,Otros,1391.0
+2018,1,San Juan,Otros,1048.0
+2018,1,San Luis,Otros,2314.0
+2018,1,Santa Cruz,Otros,2783.0
+2018,1,Santa Fe,Otros,15298.0
+2018,1,Santiago Del Estero,Otros,81.0
+2018,1,Tierra Del Fuego,Otros,2047.0
+2018,1,Tucumán,Otros,50.0
+2017,4,Buenos Aires,Otros,31448.0
+2017,4,Capital Federal,Otros,9877.0
+2017,4,Catamarca,Otros,2200.0
+2017,4,Chaco,Otros,1121.0
+2017,4,Chubut,Otros,6708.0
+2017,4,Córdoba,Otros,10739.0
+2017,4,Corrientes,Otros,35.0
+2017,4,Entre Ríos,Otros,86.0
+2017,4,Formosa,Otros,51.0
+2017,4,Jujuy,Otros,34.0
+2017,4,La Pampa,Otros,1927.0
+2017,4,La Rioja,Otros,31.0
+2017,4,Mendoza,Otros,1920.0
+2017,4,Misiones,Otros,54.0
+2017,4,Neuquén,Otros,2692.0
+2017,4,Río Negro,Otros,5114.0
+2017,4,Salta,Otros,1376.0
+2017,4,San Juan,Otros,1036.0
+2017,4,San Luis,Otros,2329.0
+2017,4,Santa Cruz,Otros,3950.0
+2017,4,Santa Fe,Otros,15382.0
+2017,4,Santiago Del Estero,Otros,80.0
+2017,4,Tierra Del Fuego,Otros,2045.0
+2017,4,Tucumán,Otros,319.0
+2017,3,Buenos Aires,Otros,38777.0
+2017,3,Capital Federal,Otros,9723.0
+2017,3,Catamarca,Otros,2181.0
+2017,3,Chaco,Otros,1072.0
+2017,3,Chubut,Otros,6820.0
+2017,3,Córdoba,Otros,14988.0
+2017,3,Corrientes,Otros,27.0
+2017,3,Entre Ríos,Otros,63.0
+2017,3,Formosa,Otros,12.0
+2017,3,Jujuy,Otros,8.0
+2017,3,La Pampa,Otros,1944.0
+2017,3,La Rioja,Otros,25.0
+2017,3,Mendoza,Otros,1866.0
+2017,3,Misiones,Otros,9.0
+2017,3,Neuquén,Otros,2695.0
+2017,3,Río Negro,Otros,4017.0
+2017,3,Salta,Otros,1167.0
+2017,3,San Juan,Otros,1013.0
+2017,3,San Luis,Otros,2363.0
+2017,3,Santa Cruz,Otros,2887.0
+2017,3,Santa Fe,Otros,37499.0
+2017,3,Santiago Del Estero,Otros,35.0
+2017,3,Tierra Del Fuego,Otros,2244.0
+2017,3,Tucumán,Otros,305.0
+2017,2,Buenos Aires,Otros,24358.0
+2017,2,Capital Federal,Otros,11016.0
+2017,2,Catamarca,Otros,34.0
+2017,2,Chaco,Otros,39.0
+2017,2,Chubut,Otros,4804.0
+2017,2,Córdoba,Otros,1505.0
+2017,2,Corrientes,Otros,31.0
+2017,2,Entre Ríos,Otros,71.0
+2017,2,Formosa,Otros,13.0
+2017,2,Jujuy,Otros,35.0
+2017,2,La Pampa,Otros,511.0
+2017,2,La Rioja,Otros,28.0
+2017,2,Mendoza,Otros,1784.0
+2017,2,Misiones,Otros,9.0
+2017,2,Neuquén,Otros,2678.0
+2017,2,Río Negro,Otros,1260.0
+2017,2,Salta,Otros,804.0
+2017,2,San Juan,Otros,915.0
+2017,2,San Luis,Otros,375.0
+2017,2,Santa Cruz,Otros,2255.0
+2017,2,Santa Fe,Otros,1173.0
+2017,2,Santiago Del Estero,Otros,29.0
+2017,2,Tierra Del Fuego,Otros,2350.0
+2017,2,Tucumán,Otros,45.0
+2017,1,Buenos Aires,Otros,24342.0
+2017,1,Capital Federal,Otros,10928.0
+2017,1,Catamarca,Otros,34.0
+2017,1,Chaco,Otros,39.0
+2017,1,Chubut,Otros,4793.0
+2017,1,Córdoba,Otros,1394.0
+2017,1,Corrientes,Otros,31.0
+2017,1,Entre Ríos,Otros,71.0
+2017,1,Formosa,Otros,13.0
+2017,1,Jujuy,Otros,34.0
+2017,1,La Pampa,Otros,517.0
+2017,1,La Rioja,Otros,28.0
+2017,1,Mendoza,Otros,1769.0
+2017,1,Misiones,Otros,8.0
+2017,1,Neuquén,Otros,2670.0
+2017,1,Río Negro,Otros,1261.0
+2017,1,Salta,Otros,679.0
+2017,1,San Juan,Otros,907.0
+2017,1,San Luis,Otros,375.0
+2017,1,Santa Cruz,Otros,2257.0
+2017,1,Santa Fe,Otros,1172.0
+2017,1,Santiago Del Estero,Otros,29.0
+2017,1,Tierra Del Fuego,Otros,2350.0
+2017,1,Tucumán,Otros,45.0
+2016,4,Buenos Aires,Otros,24342.0
+2016,4,Capital Federal,Otros,10928.0
+2016,4,Catamarca,Otros,34.0
+2016,4,Chaco,Otros,39.0
+2016,4,Chubut,Otros,4793.0
+2016,4,Córdoba,Otros,789.0
+2016,4,Corrientes,Otros,31.0
+2016,4,Entre Ríos,Otros,71.0
+2016,4,Formosa,Otros,13.0
+2016,4,Jujuy,Otros,34.0
+2016,4,La Pampa,Otros,522.0
+2016,4,La Rioja,Otros,28.0
+2016,4,Mendoza,Otros,1769.0
+2016,4,Misiones,Otros,8.0
+2016,4,Neuquén,Otros,2670.0
+2016,4,Río Negro,Otros,1261.0
+2016,4,Salta,Otros,621.0
+2016,4,San Juan,Otros,907.0
+2016,4,San Luis,Otros,375.0
+2016,4,Santa Cruz,Otros,2257.0
+2016,4,Santa Fe,Otros,1172.0
+2016,4,Santiago Del Estero,Otros,29.0
+2016,4,Tierra Del Fuego,Otros,2350.0
+2016,4,Tucumán,Otros,45.0
+2016,3,Buenos Aires,Otros,24276.0
+2016,3,Capital Federal,Otros,10963.0
+2016,3,Catamarca,Otros,18.0
+2016,3,Chaco,Otros,15.0
+2016,3,Chubut,Otros,4750.0
+2016,3,Córdoba,Otros,395.0
+2016,3,Corrientes,Otros,22.0
+2016,3,Entre Ríos,Otros,64.0
+2016,3,Formosa,Otros,2.0
+2016,3,Jujuy,Otros,30.0
+2016,3,La Pampa,Otros,515.0
+2016,3,La Rioja,Otros,22.0
+2016,3,Mendoza,Otros,1757.0
+2016,3,Misiones,Otros,7.0
+2016,3,Neuquén,Otros,2617.0
+2016,3,Río Negro,Otros,1252.0
+2016,3,Salta,Otros,565.0
+2016,3,San Juan,Otros,903.0
+2016,3,San Luis,Otros,371.0
+2016,3,Santa Cruz,Otros,2170.0
+2016,3,Santa Fe,Otros,1190.0
+2016,3,Santiago Del Estero,Otros,8.0
+2016,3,Tierra Del Fuego,Otros,2347.0
+2016,3,Tucumán,Otros,41.0
+2016,2,Buenos Aires,Otros,25661.0
+2016,2,Capital Federal,Otros,12672.0
+2016,2,Catamarca,Otros,34.0
+2016,2,Chaco,Otros,41.0
+2016,2,Chubut,Otros,4803.0
+2016,2,Córdoba,Otros,1089.0
+2016,2,Corrientes,Otros,43.0
+2016,2,Entre Ríos,Otros,193.0
+2016,2,Formosa,Otros,14.0
+2016,2,Jujuy,Otros,35.0
+2016,2,La Pampa,Otros,547.0
+2016,2,La Rioja,Otros,28.0
+2016,2,Mendoza,Otros,1868.0
+2016,2,Misiones,Otros,15.0
+2016,2,Neuquén,Otros,2849.0
+2016,2,Río Negro,Otros,1334.0
+2016,2,Salta,Otros,539.0
+2016,2,San Juan,Otros,908.0
+2016,2,San Luis,Otros,377.0
+2016,2,Santa Cruz,Otros,2586.0
+2016,2,Santa Fe,Otros,1417.0
+2016,2,Santiago Del Estero,Otros,30.0
+2016,2,Tierra Del Fuego,Otros,2350.0
+2016,2,Tucumán,Otros,49.0
+2016,1,Buenos Aires,Otros,25757.0
+2016,1,Capital Federal,Otros,12729.0
+2016,1,Catamarca,Otros,34.0
+2016,1,Chaco,Otros,41.0
+2016,1,Chubut,Otros,4803.0
+2016,1,Córdoba,Otros,386.0
+2016,1,Corrientes,Otros,45.0
+2016,1,Entre Ríos,Otros,193.0
+2016,1,Formosa,Otros,14.0
+2016,1,Jujuy,Otros,35.0
+2016,1,La Pampa,Otros,549.0
+2016,1,La Rioja,Otros,28.0
+2016,1,Mendoza,Otros,1871.0
+2016,1,Misiones,Otros,15.0
+2016,1,Neuquén,Otros,2850.0
+2016,1,Río Negro,Otros,1338.0
+2016,1,Salta,Otros,507.0
+2016,1,San Juan,Otros,908.0
+2016,1,San Luis,Otros,377.0
+2016,1,Santa Cruz,Otros,2426.0
+2016,1,Santa Fe,Otros,1428.0
+2016,1,Santiago Del Estero,Otros,30.0
+2016,1,Tierra Del Fuego,Otros,2350.0
+2016,1,Tucumán,Otros,49.0
+2015,4,Buenos Aires,Otros,25773.0
+2015,4,Capital Federal,Otros,12758.0
+2015,4,Catamarca,Otros,34.0
+2015,4,Chaco,Otros,41.0
+2015,4,Chubut,Otros,4803.0
+2015,4,Córdoba,Otros,385.0
+2015,4,Corrientes,Otros,45.0
+2015,4,Entre Ríos,Otros,194.0
+2015,4,Formosa,Otros,14.0
+2015,4,Jujuy,Otros,35.0
+2015,4,La Pampa,Otros,374.0
+2015,4,La Rioja,Otros,28.0
+2015,4,Mendoza,Otros,1874.0
+2015,4,Misiones,Otros,15.0
+2015,4,Neuquén,Otros,2852.0
+2015,4,Río Negro,Otros,1328.0
+2015,4,Salta,Otros,554.0
+2015,4,San Juan,Otros,908.0
+2015,4,San Luis,Otros,377.0
+2015,4,Santa Cruz,Otros,2409.0
+2015,4,Santa Fe,Otros,1437.0
+2015,4,Santiago Del Estero,Otros,30.0
+2015,4,Tierra Del Fuego,Otros,2350.0
+2015,4,Tucumán,Otros,50.0
+2015,3,Buenos Aires,Otros,25825.0
+2015,3,Capital Federal,Otros,12788.0
+2015,3,Catamarca,Otros,34.0
+2015,3,Chaco,Otros,41.0
+2015,3,Chubut,Otros,4803.0
+2015,3,Córdoba,Otros,389.0
+2015,3,Corrientes,Otros,47.0
+2015,3,Entre Ríos,Otros,197.0
+2015,3,Formosa,Otros,14.0
+2015,3,Jujuy,Otros,35.0
+2015,3,La Pampa,Otros,557.0
+2015,3,La Rioja,Otros,28.0
+2015,3,Mendoza,Otros,1880.0
+2015,3,Misiones,Otros,15.0
+2015,3,Neuquén,Otros,2798.0
+2015,3,Río Negro,Otros,1346.0
+2015,3,Salta,Otros,645.0
+2015,3,San Juan,Otros,908.0
+2015,3,San Luis,Otros,377.0
+2015,3,Santa Cruz,Otros,2391.0
+2015,3,Santa Fe,Otros,1428.0
+2015,3,Santiago Del Estero,Otros,30.0
+2015,3,Tierra Del Fuego,Otros,2350.0
+2015,3,Tucumán,Otros,50.0
+2015,2,Buenos Aires,Otros,26040.0
+2015,2,Capital Federal,Otros,12806.0
+2015,2,Catamarca,Otros,34.0
+2015,2,Chaco,Otros,41.0
+2015,2,Chubut,Otros,4803.0
+2015,2,Córdoba,Otros,386.0
+2015,2,Corrientes,Otros,47.0
+2015,2,Entre Ríos,Otros,197.0
+2015,2,Formosa,Otros,50.0
+2015,2,Jujuy,Otros,35.0
+2015,2,La Pampa,Otros,562.0
+2015,2,La Rioja,Otros,28.0
+2015,2,Mendoza,Otros,1882.0
+2015,2,Misiones,Otros,15.0
+2015,2,Neuquén,Otros,2799.0
+2015,2,Río Negro,Otros,1348.0
+2015,2,Salta,Otros,580.0
+2015,2,San Juan,Otros,908.0
+2015,2,San Luis,Otros,377.0
+2015,2,Santa Cruz,Otros,2400.0
+2015,2,Santa Fe,Otros,1389.0
+2015,2,Santiago Del Estero,Otros,30.0
+2015,2,Tierra Del Fuego,Otros,2350.0
+2015,2,Tucumán,Otros,50.0
+2015,1,Buenos Aires,Otros,28940.0
+2015,1,Capital Federal,Otros,14716.0
+2015,1,Catamarca,Otros,41.0
+2015,1,Chaco,Otros,56.0
+2015,1,Chubut,Otros,5465.0
+2015,1,Córdoba,Otros,450.0
+2015,1,Corrientes,Otros,62.0
+2015,1,Entre Ríos,Otros,245.0
+2015,1,Formosa,Otros,56.0
+2015,1,Jujuy,Otros,36.0
+2015,1,La Pampa,Otros,604.0
+2015,1,La Rioja,Otros,33.0
+2015,1,Mendoza,Otros,2126.0
+2015,1,Misiones,Otros,13.0
+2015,1,Neuquén,Otros,2960.0
+2015,1,Río Negro,Otros,1462.0
+2015,1,Salta,Otros,574.0
+2015,1,San Juan,Otros,1007.0
+2015,1,San Luis,Otros,412.0
+2015,1,Santa Cruz,Otros,2562.0
+2015,1,Santa Fe,Otros,1507.0
+2015,1,Santiago Del Estero,Otros,35.0
+2015,1,Tierra Del Fuego,Otros,2583.0
+2015,1,Tucumán,Otros,100.0
+2014,4,Buenos Aires,Otros,32038.0
+2014,4,Capital Federal,Otros,15394.0
+2014,4,Catamarca,Otros,44.0
+2014,4,Chaco,Otros,62.0
+2014,4,Chubut,Otros,6159.0
+2014,4,Córdoba,Otros,486.0
+2014,4,Corrientes,Otros,75.0
+2014,4,Entre Ríos,Otros,260.0
+2014,4,Formosa,Otros,65.0
+2014,4,Jujuy,Otros,11.0
+2014,4,La Pampa,Otros,648.0
+2014,4,La Rioja,Otros,33.0
+2014,4,Mendoza,Otros,2222.0
+2014,4,Misiones,Otros,15.0
+2014,4,Neuquén,Otros,3030.0
+2014,4,Río Negro,Otros,1530.0
+2014,4,Salta,Otros,578.0
+2014,4,San Juan,Otros,1073.0
+2014,4,San Luis,Otros,423.0
+2014,4,Santa Cruz,Otros,2929.0
+2014,4,Santa Fe,Otros,1634.0
+2014,4,Santiago Del Estero,Otros,37.0
+2014,4,Tierra Del Fuego,Otros,2722.0
+2014,4,Tucumán,Otros,105.0
+2014,3,Buenos Aires,Otros,31881.0
+2014,3,Capital Federal,Otros,14387.0
+2014,3,Catamarca,Otros,47.0
+2014,3,Chaco,Otros,59.0
+2014,3,Chubut,Otros,6515.0
+2014,3,Córdoba,Otros,377.0
+2014,3,Corrientes,Otros,65.0
+2014,3,Entre Ríos,Otros,135.0
+2014,3,Formosa,Otros,80.0
+2014,3,Jujuy,Otros,13.0
+2014,3,La Pampa,Otros,677.0
+2014,3,La Rioja,Otros,37.0
+2014,3,Mendoza,Otros,2222.0
+2014,3,Misiones,Otros,14.0
+2014,3,Neuquén,Otros,3087.0
+2014,3,Río Negro,Otros,1505.0
+2014,3,Salta,Otros,580.0
+2014,3,San Juan,Otros,1126.0
+2014,3,San Luis,Otros,438.0
+2014,3,Santa Cruz,Otros,3098.0
+2014,3,Santa Fe,Otros,733.0
+2014,3,Santiago Del Estero,Otros,41.0
+2014,3,Tierra Del Fuego,Otros,2832.0
+2014,3,Tucumán,Otros,100.0
+2014,2,Buenos Aires,Otros,33147.0
+2014,2,Capital Federal,Otros,14555.0
+2014,2,Catamarca,Otros,43.0
+2014,2,Chaco,Otros,58.0
+2014,2,Chubut,Otros,6974.0
+2014,2,Córdoba,Otros,374.0
+2014,2,Corrientes,Otros,55.0
+2014,2,Entre Ríos,Otros,133.0
+2014,2,Formosa,Otros,78.0
+2014,2,Jujuy,Otros,9.0
+2014,2,La Pampa,Otros,689.0
+2014,2,La Rioja,Otros,34.0
+2014,2,Mendoza,Otros,2282.0
+2014,2,Misiones,Otros,8.0
+2014,2,Neuquén,Otros,2983.0
+2014,2,Río Negro,Otros,1560.0
+2014,2,Salta,Otros,577.0
+2014,2,San Juan,Otros,1173.0
+2014,2,San Luis,Otros,448.0
+2014,2,Santa Cruz,Otros,3266.0
+2014,2,Santa Fe,Otros,636.0
+2014,2,Santiago Del Estero,Otros,34.0
+2014,2,Tierra Del Fuego,Otros,2934.0
+2014,2,Tucumán,Otros,98.0
+2014,1,Buenos Aires,Otros,33824.0
+2014,1,Capital Federal,Otros,14555.0
+2014,1,Catamarca,Otros,43.0
+2014,1,Chaco,Otros,58.0
+2014,1,Chubut,Otros,6974.0
+2014,1,Córdoba,Otros,368.0
+2014,1,Corrientes,Otros,55.0
+2014,1,Entre Ríos,Otros,133.0
+2014,1,Formosa,Otros,100.0
+2014,1,Jujuy,Otros,9.0
+2014,1,La Pampa,Otros,701.0
+2014,1,La Rioja,Otros,34.0
+2014,1,Mendoza,Otros,2282.0
+2014,1,Misiones,Otros,8.0
+2014,1,Neuquén,Otros,3051.0
+2014,1,Río Negro,Otros,1572.0
+2014,1,Salta,Otros,568.0
+2014,1,San Juan,Otros,1173.0
+2014,1,San Luis,Otros,448.0
+2014,1,Santa Cruz,Otros,3264.0
+2014,1,Santa Fe,Otros,644.0
+2014,1,Santiago Del Estero,Otros,34.0
+2014,1,Tierra Del Fuego,Otros,2934.0
+2014,1,Tucumán,Otros,98.0
